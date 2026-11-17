@@ -1,0 +1,7 @@
+# Kia Sportage: Pneus de pano radial
+
+[Home](../../index.md) / [Manual do proprietário Kia Sportage SL](../sportage-1236.md) / [Manutenção](sportage-1629.md) / [Pneus e rodas](sportage-1659.md) / Pneus de pano radial
+
+Os pneus de pano radial oferecem melhor vida útil do pneu, resistência a riscos de estradas e uma condução mais suave em altas velocidades. Os pneus de pano radial utilizados neste veículo são de construção com camadas de reforço, e foram selecionados para complementar as características de condução e manuseio do seu veículo. Os pneus de pano radial têm a mesma capacidade de carga que pneus de pano convencional ou de camadas de reforço do mesmo tamanho, e usam a mesma pressão de ar recomendada. A mistura de pneus de pano radial com pneus de pano convencional ou de camadas de reforço não é recomendada. Qualquer combinação de pneus de pano radial com pneus de pano convencional ou de camadas de reforço, quando utilizados no mesmo veículo, comprometerá seriamente o manuseio do veículo. A regra mais importante a seguir é: Pneus de pano radial idênticos devem sempre ser usados como um conjunto de quatro.
+
+Pneus com maior durabilidade podem ser mais suscetíveis a desgaste irregular do pneu. É muito importante seguir o intervalo de rotação de pneus mostrado nesta seção para alcançar o potencial de vida útil do pneu. Cortes e perfurações em pneus de pano radial são reparáveis apenas na área do sulco, devido à flexão da parede lateral. Consulte seu revendedor de pneus para reparos em pneus de pano radial.

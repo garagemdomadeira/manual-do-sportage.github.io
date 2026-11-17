@@ -1,0 +1,25 @@
+# Emergências
+
+[Home](../../index.md) / [Manual do Proprietário](../sportage-1236.md) / Emergências
+
+- [Emergências](sportage-1608.md)
+  - [Road warning](sportage-1609.md)
+    - [Hazard warning flasher](sportage-1610.md)
+  - [In case of an emergency while driving](sportage-1611.md)
+  - [If the engine will not start](sportage-1612.md)
+  - [Emergency starting](sportage-1613.md)
+    - [Jump starting](sportage-1614.md)
+    - [Push-starting](sportage-1615.md)
+  - [If the engine overheats](sportage-1616.md)
+  - [If you have a flat tire](sportage-1617.md)
+    - [Jack and tools](sportage-1618.md)
+    - [Removing and storing the spare tire](sportage-1619.md)
+    - [Changing tires](sportage-1620.md)
+      - [Important - use of compact spare tire](sportage-1621.md)
+    - [Jack label](sportage-1622.md)
+  - [Towing](sportage-1623.md)
+    - [Towing service](sportage-1624.md)
+    - [Removable towing hook](sportage-1625.md)
+    - [Emergency towing](sportage-1626.md)
+      - [Emergency towing precautions](sportage-1627.md)
+    - [Tie-down hook (for flatbed towing)](sportage-1628.md)

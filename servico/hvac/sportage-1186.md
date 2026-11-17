@@ -1,0 +1,28 @@
+# Sistema de Ar Condicionado do Kia Sportage: SL
+
+[Início](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Aquecimento, Ventilação, Ar Condicionado](sportage-1181.md) / Sistema de Ar Condicionado
+
+- [Informações Gerais de Segurança e Cautela](sportage-1187.md)
+- [Descrição e Operação](sportage-1188.md)
+- [Procedimentos de Reparo](sportage-1189.md)
+- [Componentes e Localização](sportage-1190.md)
+- [Óleo do Compressador: Procedimentos de Reparo](sportage-1191.md)
+- [Pipa de Refrigerante: Componentes e Localização](sportage-1192.md)
+- [Pipa de Refrigerante: Procedimentos de Reparo](sportage-1193.md)
+- [Compressador: Componentes e Localização](sportage-1194.md)
+- [Compressador: Procedimentos de Reparo](sportage-1195.md)
+- [Condensador: Componentes e Localização](sportage-1196.md)
+- [Condensador: Procedimentos de Reparo](sportage-1197.md)
+- [Recebedor-Drier: Procedimentos de Reparo](sportage-1198.md)
+- [Transdutor de Pressão do A/C: Componentes e Localização](sportage-1199.md)
+- [Transdutor de Pressão do A/C: Descrição e Operação](sportage-1200.md)
+- [Transdutor de Pressão do A/C: Procedimentos de Reparo](sportage-1201.md)
+- [Sensor de Temperatura do Evaporador: Descrição e Operação](sportage-1202.md)
+- [Sensor de Temperatura do Evaporador: Procedimentos de Reparo](sportage-1203.md)
+- [Sensor Fotográfico: Descrição e Operação](sportage-1204.md)
+- [Sensor Fotográfico: Procedimentos de Reparo](sportage-1205.md)
+- [Sensor Ambiental: Descrição e Operação](sportage-1206.md)
+- [Sensor Ambiental: Procedimentos de Reparo](sportage-1207.md)
+- [Ionzador do Cluster: Componentes e Localização](sportage-1208.md)
+- [Ionzador do Cluster: Descrição e Operação](sportage-1209.md)
+- [Ionzador do Cluster: Procedimentos de Reparo](sportage-1210.md)

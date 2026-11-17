@@ -1,0 +1,22 @@
+# Sistema ESC (Controlador Estável Eletrônico) do Kia Sportage: 
+
+[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema de Freio](sportage-894.md) / Sistema ESC (Controlador Estável Eletrônico)
+
+- [Componentes e Localização](sportage-916.md)
+- [Descrição e Operação](sportage-917.md)
+- [Diagramas Schematicos](sportage-918.md)
+- [Diagnóstico e Correção](sportage-919.md)
+- [Distribuição Eletrônica de Fórceps de Freio (EBD): Descrição e Operação](sportage-920.md)
+- [Module de Controle do ESC: Componentes e Localização](sportage-921.md)
+- [Module de Controle do ESC: Procedimentos de Reparo](sportage-922.md)
+- [Sensor de Velocidade do Eixo Frontal: Componentes e Localização](sportage-923.md)
+- [Sensor de Velocidade do Eixo Frontal: Procedimentos de Reparo](sportage-924.md)
+- [Sensor de Velocidade do Eixo Traseiro: Componentes e Localização](sportage-925.md)
+- [Sensor de Velocidade do Eixo Traseiro: Procedimentos de Reparo](sportage-926.md)
+- [Sensor de Taxa de Virada e G Lateral: Descrição e Operação](sportage-927.md)
+- [Sensor de Taxa de Virada e G Lateral: Procedimentos de Reparo](sportage-928.md)
+- [Interruptor de Desativação do ESC: Descrição e Operação](sportage-929.md)
+- [Interruptor de Desativação do ESC: Procedimentos de Reparo](sportage-930.md)
+- [Interruptor DBC: Descrição e Operação](sportage-931.md)
+- [Interruptor DBC: Procedimentos de Reparo](sportage-932.md)
+- [Sensor de Angulo do Volante: Descrição e Operação](sportage-933.md)

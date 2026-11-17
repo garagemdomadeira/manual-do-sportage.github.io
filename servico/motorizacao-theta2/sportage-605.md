@@ -1,0 +1,13 @@
+# Kia Sportage: Sensor de Temperatura do Coolante do Motor (ECTS): Descrição e Operação
+
+[Início](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Controle do Motor / Sistema de Combustível](sportage-582.md) / [Sistema de Controle do Motor](sportage-587.md) / Sensor de Temperatura do Coolante do Motor (ECTS): Descrição e Operação
+
+## Descrição
+
+O Sensor de Temperatura do Coolante do Motor (ECTS) está localizado na passagem de coolante do cabeçote do cilindro para detectar a temperatura do coolante do motor. O ECTS usa um termistor que altera a resistência com a temperatura.
+
+A resistência elétrica do ECTS diminui à medida que a temperatura aumenta, e aumenta à medida que a temperatura diminui. A referência +5V é fornecida ao ECTS através de um resistor no ECM. Isso significa que o resistor no ECM e o termistor no ECTS estão conectados em série. Quando o valor de resistência do termistor no ECTS muda de acordo com a temperatura do coolante do motor, a tensão de saída também muda.
+
+Durante a operação do motor frio, o ECM aumenta a duração da injeção de combustível e controla o acionamento da ignição usando as informações da temperatura do coolante do motor para evitar a parada do motor e melhorar a conduzibilidade.
+
+![](../../images/books/482/stdfl0127n.gif)
