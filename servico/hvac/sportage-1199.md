@@ -1,7 +1,7 @@
-# Kia Sportage: Transdutor de Pressão do A/C: Componentes e Localização dos Componentes
+# Transdutor de Pressão do A/C — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Aquecimento, Ventilação, Ar Condicionado](sportage-1181.md) / [Sistema de Ar Condicionado](sportage-1186.md) / Transdutor de Pressão do A/C: Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Aquecimento, Ventilação, Ar Condicionado](sportage-1181.md) / [Sistema de Ar Condicionado](sportage-1186.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama
 
-![](../../images/books/482/sslha1005l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslha1005l.gif)

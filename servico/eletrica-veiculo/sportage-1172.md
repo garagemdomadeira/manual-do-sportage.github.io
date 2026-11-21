@@ -1,7 +1,7 @@
-# Kia Sportage: Fob Holder: Componentes e Localização dos Componentes
+# Fob Holder — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema de Início do Motor por Botão](sportage-1166.md) / Componentes e Localização dos Componentes do Fob Holder
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema de Início do Motor por Botão](sportage-1166.md) / Componentes e localização
 
-## Componente
+## Diagrama
 
-![](../../images/books/482/sslbe1248l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1248l.gif)

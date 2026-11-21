@@ -1,7 +1,7 @@
-# Kia Sportage: Sensor de Impacto Lateral (SIS): Componentes e Localização dos Componentes
+# Sensor de Impacto Lateral (SIS) — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Restrição](sportage-848.md) / [SRSCM](sportage-856.md) / Sensor de Impacto Lateral (SIS): Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Restrição](sportage-848.md) / [SRSCM](sportage-856.md) / Componentes e localização
 
-## Componentes
+## Diagrama
 
-![](../../images/books/482/sslrt1050n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslrt1050n.gif)

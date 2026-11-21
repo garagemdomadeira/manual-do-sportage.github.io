@@ -1,12 +1,12 @@
-# Kia Sportage: Caixa de Relés do ICM (Integrated Circuit Module): Componentes e Localização dos Componentes
+# Caixa de Relés do ICM (Integrated Circuit Module) — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Fusíveis e Relés](sportage-1055.md) / Caixa de Relés do ICM: Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Fusíveis e Relés](sportage-1055.md) / Componentes e localização
 
-## Componento
+## Diagrama
 
-![](../../images/books/482/sslbe1171l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1171l.gif)
 
-Informações sobre os Pinos
+## Informações sobre os Pinos
 
 | Número | Conector A | Número | Conector A |
 | --- | --- | --- | --- |

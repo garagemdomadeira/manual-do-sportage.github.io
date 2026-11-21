@@ -1,9 +1,9 @@
-# Kia Sportage: Hands Free Switch: Componentes e Localização dos Componentes
+# Hands Free Switch — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema Hands Free](sportage-1119.md) / Componentes e Localização do Hands Free Switch
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema Hands Free](sportage-1119.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama
 
-![](../../images/books/482/sslbe1005n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1005n.gif)
 
-![](../../images/books/482/sslbe1006n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1006n.gif)

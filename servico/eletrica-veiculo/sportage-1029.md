@@ -1,12 +1,12 @@
-# Kia Sportage: Unidade de Chave Inteligente: Componentes e Localização
+# Unidade de Chave Inteligente — Componentes e localização
 
-[Início](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema de Chave Inteligente](sportage-1023.md) / Unidade de Chave Inteligente: Componentes e Localização
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema de Chave Inteligente](sportage-1023.md) / Componentes e localização
 
-## Componentes
+## Diagrama
 
-![](../../images/books/482/sslbe1088l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1088l.gif)
 
-Informações de Conector
+## Informações de Conector
 
 | No | Conector A (14 pinos) | No | Conector B (26 pinos) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ Informações de Conector
 | 13 | O_Rele do Arranque | 13 | B_CAN_L | ? | ? |
 | 14 | - | 14 | - |  |  |
 
-Informações de Conector
+## Informações de Conector
 
 | No | Conector C (16 pinos) | No | Conector D (22 pinos) |
 | --- | --- | --- | --- |

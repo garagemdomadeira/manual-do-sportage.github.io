@@ -1,7 +1,7 @@
-# Kia Sportage: Sensor Ultrassônico: Componentes e Localização dos Componentes
+# Sensor Ultrassônico — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Ajudante de Estacionamento Traseiro](sportage-1160.md) / Componentes e Localização dos Componentes do Sensor Ultrassônico
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Ajudante de Estacionamento Traseiro](sportage-1160.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama
 
-![](../../images/books/482/sslbe1240l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1240l.gif)

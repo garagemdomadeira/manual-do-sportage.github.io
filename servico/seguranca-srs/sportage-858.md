@@ -1,7 +1,7 @@
-# Kia Sportage: Módulo de Controle do SRS (SRSCM): Componentes e Localização dos Componentes
+# Módulo de Controle do SRS (SRSCM) — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Restrição](sportage-848.md) / [SRSCM](sportage-856.md) / Módulo de Controle do SRS (SRSCM): Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Restrição](sportage-848.md) / [SRSCM](sportage-856.md) / Componentes e localização
 
-## Componentes
+## Diagrama
 
-![](../../images/books/482/sslrt1010n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslrt1010n.gif)

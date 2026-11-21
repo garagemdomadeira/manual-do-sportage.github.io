@@ -1,23 +1,21 @@
-# Kia Sportage: Interruptor de Janela Eletrônica: Componentes e Localização dos Componentes
+# Interruptor de Janela Eletrônica — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Janelas Eletrônicas](sportage-1085.md) / Interruptor de Janela Eletrônica: Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Janelas Eletrônicas](sportage-1085.md) / Componentes e localização
 
-## Componentes
+## Diagrama (Interruptor Principal de Janela Eletrônica)
 
-## Interruptor Principal de Janela Eletrônica
+![Diagrama de componentes e localização](../../images/books/482/sslbe1059n.gif)
 
-![](../../images/books/482/sslbe1059n.gif)
+![Diagrama de componentes e localização](../../images/books/482/slmbe0078n.gif)
 
-![](../../images/books/482/slmbe0078n.gif)
+## Diagrama (Interruptor de Janela Eletrônica do Passageiro)
 
-## Interruptor de Janela Eletrônica do Passageiro
+![Diagrama de componentes e localização](../../images/books/482/sslbe1042n.gif)
 
-![](../../images/books/482/sslbe1042n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1139l.gif)
 
-![](../../images/books/482/sslbe1139l.gif)
+## Diagrama (Interruptor de Janela Eletrônica Traseira)
 
-## Interruptor de Janela Eletrônica Traseira
+![Diagrama de componentes e localização](../../images/books/482/sslbe1140l.gif)
 
-![](../../images/books/482/sslbe1140l.gif)
-
-![](../../images/books/482/sslbe1141l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1141l.gif)

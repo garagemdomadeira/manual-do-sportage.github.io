@@ -1,12 +1,12 @@
-# Kia Sportage: Unidade de Controle do Aquecedor e Ar-Condicionado (Automático Completo): Componentes e Localização
+# Unidade de Controle do Aquecedor e Ar-Condicionado (Automático Completo) — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Aquecimento, Ventilação, Ar-Condicionado](sportage-1181.md) / [Controlador](sportage-1231.md) / Unidade de Controle do Aquecedor e Ar-Condicionado (Automático Completo): Componentes e Localização
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Aquecimento, Ventilação, Ar-Condicionado](sportage-1181.md) / [Controlador](sportage-1231.md) / Componentes e localização
 
-## Componente
+## Diagrama
 
-![](../../images/books/482/sslha1006n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslha1006n.gif)
 
-Função da Conector Pin
+## Função da Conector Pin
 
 | Conector | Número do Pin | Função | Conector | Número do Pin | Função |
 | --- | --- | --- | --- | --- | --- |

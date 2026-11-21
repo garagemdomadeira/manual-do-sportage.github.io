@@ -1,23 +1,40 @@
-# Kia Sportage: Componentes e Localização dos Componentes
+# Sistema AVN — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema AVN](sportage-1008.md) / Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema AVN](sportage-1008.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama — Localização
 
-![](../../images/books/482/sslbe1072d.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe1072d.gif)
 
-| 1. Unidade AVN (A/V & Navegação) 2. Altifalante Tweeter 3. Amplificador Externo 4. Antena do Teto (GPS + SDARS + Rádio) 5. Altifalante da Porta Frente | 6. Altifalante da Porta Traseira 7. Altifalante Woofer 8. Fio de Fornecimento da Antena 9. Conector de Fiação |
+## Legenda — Localização
+
+| Nº | Componente |
 | --- | --- |
+| 1 | Unidade AVN (A/V & Navegação) |
+| 2 | Altifalante Tweeter |
+| 3 | Amplificador Externo |
+| 4 | Antena do Teto (GPS + SDARS + Rádio) |
+| 5 | Altifalante da Porta Frente |
+| 6 | Altifalante da Porta Traseira |
+| 7 | Altifalante Woofer |
+| 8 | Fio de Fornecimento da Antena |
+| 9 | Conector de Fiação |
 
 ? SDARS : Serviço de Rádio Digital por Satélite
 
-## Componentes
+## Diagrama — Componentes
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe6005n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1010n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1072l.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1011n.gif)
 
 Unidade AVN (A/V & Navegação)
 
-![](../../images/books/482/sslbe6005n.gif)
-
-Informações de Conector
+## Informações de Conector
 
 | Número | Conector A | Conector B | Conector AMP |
 | --- | --- | --- | --- |
@@ -45,9 +62,3 @@ Informações de Conector
 | 22 | MIC (-) | - |  |
 | 23 | GND | GND |  |
 | 24 | GND | - |  |
-
-![](../../images/books/482/sslbe1010n.gif)
-
-![](../../images/books/482/sslbe1072l.gif)
-
-![](../../images/books/482/sslbe1011n.gif)

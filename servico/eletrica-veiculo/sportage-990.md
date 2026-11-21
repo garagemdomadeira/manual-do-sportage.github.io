@@ -1,12 +1,28 @@
-# Kia Sportage: Unidade de Som: Componentes e Localização dos Componentes
+# Unidade de Som — Componentes e localização
 
-[Início](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Som](sportage-987.md) / Unidade de Som: Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Som](sportage-987.md) / Componentes e localização
 
-## Componentes
+## Diagrama
 
-![](../../images/books/482/sslbe6001n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe6001n.gif)
 
-Informações do Conector de Pinos
+![Diagrama de componentes e localização](../../images/books/482/sumbe5508n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe6002n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sumbe5508n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe6003n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sumbe5510n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1072l.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1003n.gif)
+
+![Diagrama de componentes e localização](../../images/books/482/sslbe1004n.gif)
+
+## Informações do Conector de Pinos
 
 | No. | Conector A | Conector B |
 | --- | --- | --- |
@@ -35,11 +51,7 @@ Informações do Conector de Pinos
 | 23 | - |  |
 | 24 | GND de Potência |  |
 
-![](../../images/books/482/sumbe5508n.gif)
-
-![](../../images/books/482/sslbe6002n.gif)
-
-Informações do Conector de Pinos
+## Informações do Conector de Pinos
 
 | No. | Conector A | Conector B | Conector do Amplificador |
 | --- | --- | --- | --- |
@@ -68,11 +80,7 @@ Informações do Conector de Pinos
 | 23 | - |  |  |
 | 24 | GND de Potência |  |  |
 
-![](../../images/books/482/sumbe5508n.gif)
-
-![](../../images/books/482/sslbe6003n.gif)
-
-Informações do Conector de Pinos
+## Informações do Conector de Pinos
 
 | No | Conector A | Conector B | Conector do Amplificador Interno | Conector do Amplificador Externo |  |
 | --- | --- | --- | --- | --- | --- |
@@ -102,11 +110,3 @@ Informações do Conector de Pinos
 | 22 | MIC (-) | MIC (-) |  |  |
 | 23 | Camera P_GND | Camera P_GND |  |  |
 | 24 | GND de Potência | GND de Potência |  |  |
-
-![](../../images/books/482/sumbe5510n.gif)
-
-![](../../images/books/482/sslbe1072l.gif)
-
-![](../../images/books/482/sslbe1003n.gif)
-
-![](../../images/books/482/sslbe1004n.gif)

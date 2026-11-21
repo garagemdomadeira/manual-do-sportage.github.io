@@ -1,7 +1,7 @@
-# Kia Sportage: Atuador de Controle de Modo: Componentes e Localização dos Componentes
+# Atuador de Controle de Modo — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Aquecimento, Ventilação, Ar Condicionado](sportage-1181.md) / [Aquecedor](sportage-1211.md) / Componentes e Localização dos Componentes do Atuador de Controle de Modo
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Aquecimento, Ventilação, Ar Condicionado](sportage-1181.md) / [Aquecedor](sportage-1211.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama
 
-![](../../images/books/482/sslha1009l.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslha1009l.gif)

@@ -1,14 +1,14 @@
-# Kia Sportage: Unidade Telemétrica (TMU): Componentes e Localização dos Componentes
+# Unidade Telemétrica (TMU) — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema MTS](sportage-1018.md) / Unidade Telemétrica (TMU): Componentes e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema Elétrico do Corpo](sportage-984.md) / [Sistema MTS](sportage-1018.md) / Componentes e localização
 
-## Componente
+## Diagrama
 
-![](../../images/books/482/sslbe6009n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe6009n.gif)
 
-![](../../images/books/482/sslbe6016n.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslbe6016n.gif)
 
-Especificação do Conector Pin
+## Especificação do Conector Pin
 
 | Número | Nome do Pin | Tipo | De | Para | Descrição (Especificações de Conectividade) |
 | --- | --- | --- | --- | --- | --- |

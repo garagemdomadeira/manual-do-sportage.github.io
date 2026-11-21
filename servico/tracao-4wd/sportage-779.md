@@ -1,9 +1,15 @@
-# Kia Sportage: 4WD ECU: Componentes e Localização dos Componentes
+# 4WD ECU — Componentes e localização
 
-[Home](../../index.md) / [Manual de Serviço e Reparo do Kia Sportage SL](../sportage-482.md) / [Sistema de Quatro Rodas Motrizes (4WD)](sportage-766.md) / [Sistema de Controle de Quatro Rodas Motrizes (4WD)](sportage-775.md) / Componentes do 4WD ECU e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Sistema de Quatro Rodas Motrizes (4WD)](sportage-766.md) / [Sistema de Controle de Quatro Rodas Motrizes (4WD)](sportage-775.md) / Componentes e localização
 
-## Localização dos Componentes
+## Diagrama
 
-![](../../images/books/482/sslwd1024d.gif)
+![Diagrama de componentes e localização](../../images/books/482/sslwd1024d.gif)
 
-1. Pano de crash 2. Panal inferior de crash 3. ECU do 4WD
+## Legenda
+
+| Nº | Componente |
+| --- | --- |
+| 1 | Pano de crash |
+| 2 | Panal inferior de crash |
+| 3 | ECU do 4WD |
