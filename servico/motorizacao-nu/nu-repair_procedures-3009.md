@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Repair procedures
+# Procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Procedimentos
 
 ## Inspeção
 

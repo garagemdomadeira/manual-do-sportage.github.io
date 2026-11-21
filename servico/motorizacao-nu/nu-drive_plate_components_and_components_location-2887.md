@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Drive plate Components and Components Location
+# Placa de acionamento — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Drive plate Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Placa de acionamento — componentes e localização
 
 ## Componentes
 

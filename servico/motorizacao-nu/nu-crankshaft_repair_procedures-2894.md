@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Crankshaft Repair procedures
+# Virabrequim — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Crankshaft Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Virabrequim — procedimentos
 
 ## Desmontagem
 

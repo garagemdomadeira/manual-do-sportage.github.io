@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Control/Fuel System
+# Controle do motor / combustível
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Engine Control/Fuel System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Controle do motor / combustível
 
 - [Informações Gerais](nu-general_information-3019.md)
   - [Especificações](nu-specifications-3020.md)

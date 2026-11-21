@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Timing Chain Repair procedures
+# Corrente de comando — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Timing Chain Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Corrente de comando — procedimentos
 
 ## Remoção
 

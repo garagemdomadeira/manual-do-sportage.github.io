@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Electrical System
+# Sistema elétrico do motor
 
-[Início](../../index.md) / [Manual de Serviço da Kia Sportage NU](index.md) / Sistema Elétrico do Motor
+[Home](../../index.md) / [Manual de Serviço da Kia Sportage NU](index.md) / Sistema elétrico do motor
 
   - [Especificações](nu-specifications-2936.md)
   - [Ferramentas Especiais de Serviço](nu-special_service_tools-2937.md)

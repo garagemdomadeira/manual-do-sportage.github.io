@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Canister Close Valve (CCV) Repair procedures
+# Válvula de fechamento do cânister (CCV) — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Canister Close Valve (CCV) Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula de fechamento do cânister (CCV) — procedimentos
 
 ## Inspeção
 

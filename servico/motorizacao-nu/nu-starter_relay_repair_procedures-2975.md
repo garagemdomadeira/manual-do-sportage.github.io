@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Starter Relay Repair procedures
+# Relé do motor de partida — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Starter Relay Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Relé do motor de partida — procedimentos
 
 ## Inspeção
 

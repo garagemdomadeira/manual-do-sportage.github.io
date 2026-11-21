@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Fuel Sensor Repair procedures
+# Sensor de combustível — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Fuel Sensor Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor de combustível — procedimentos
 
 ## Remoção
 

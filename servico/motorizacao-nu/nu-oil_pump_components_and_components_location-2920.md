@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Oil Pump Components and Components Location
+# Bomba de óleo — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Oil Pump Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bomba de óleo — componentes e localização
 
 ## Componentes
 

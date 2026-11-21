@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Cylinder Head Assembly
+# Conjunto do cabeçote
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Cylinder Head Assembly
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Conjunto do cabeçote
 
 - [Componentes e Localização dos Componentes](nu-components_and_components_location-2877.md)
 - [Componentes e Localização dos Componentes da Cobertura do Bloco de Cilindros](nu-cylinder_head_cover_components_and_components_location-2878.md)

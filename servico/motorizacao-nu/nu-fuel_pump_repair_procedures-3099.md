@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Fuel Pump Repair procedures
+# Bomba de combustível — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Fuel Pump Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bomba de combustível — procedimentos
 
 ## Remoção
 

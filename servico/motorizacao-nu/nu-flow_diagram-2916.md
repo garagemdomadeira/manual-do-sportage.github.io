@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Flow Diagram
+# Diagrama de fluxo
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Flow Diagram
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Diagrama de fluxo
 
 ## Esquemas do Óleo do Motor
 

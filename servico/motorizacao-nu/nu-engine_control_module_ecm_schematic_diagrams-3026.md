@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Control Module (ECM) Schematic Diagrams
+# Módulo de controle do motor (ECM) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Engine Control Module (ECM) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Módulo de controle do motor (ECM) — diagramas esquemáticos
 
 ## Terminal e Sinal de Entrada/Saída do ECM
 

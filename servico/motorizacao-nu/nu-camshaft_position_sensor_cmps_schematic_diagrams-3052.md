@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Camshaft Position Sensor (CMPS) Schematic Diagrams
+# Sensor CMPS (posição do comando) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Camshaft Position Sensor (CMPS) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor CMPS (posição do comando) — diagramas esquemáticos
 
 ## Diagrama Elétrico
 

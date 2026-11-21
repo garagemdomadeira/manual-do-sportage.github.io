@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Description and Operation
+# Descrição e operação
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e Operação
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e operação
 
 ## Revisão OBD-II
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Drive Belt Repair procedures
+# Correia de acessórios — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Drive Belt Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Correia de acessórios — procedimentos
 
 ## Remoção
 

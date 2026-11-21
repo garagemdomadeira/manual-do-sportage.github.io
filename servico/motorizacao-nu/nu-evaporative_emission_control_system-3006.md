@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Evaporative Emission Control System
+# Controle de emissões evaporativas
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Evaporative Emission Control System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Controle de emissões evaporativas
 
 - [Descrição e Operação](nu-description_and_operation-3007.md)
 - [Diagaramas Schematicos](nu-schematic_diagrams-3008.md)

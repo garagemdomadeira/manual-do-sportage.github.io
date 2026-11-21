@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Starter Components and Components Location
+# Motor de partida — componentes e localização
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Elétrico do Motor](nu-engine_electrical_system-2934.md) / [Sistema de Início](nu-starting_system-2967.md) / Componentes do Iniciador e Localização dos Componentes
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Elétrico do Motor](nu-engine_electrical_system-2934.md) / [Sistema de Início](nu-starting_system-2967.md) / Motor de partida — componentes e localização
 
 ## Componentes
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Mechanical System
+# Sistema mecânico do motor
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Engine Mechanical System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sistema mecânico do motor
 
   - [Especificações](nu-specifications-2852.md)
   - [Diagnóstico](nu-troubleshooting-2854.md)

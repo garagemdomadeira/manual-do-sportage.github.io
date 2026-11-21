@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / ETC (Electronic Throttle Control) System Schematic Diagrams
+# ETC (controle eletrônico da borboleta) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / ETC (Electronic Throttle Control) System Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / ETC (controle eletrônico da borboleta) — diagramas esquemáticos
 
 ## Diagrama Schematico
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Drive Belt Tensioner Components and Components Location
+# Tensor da correia de acessórios — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Drive Belt Tensioner Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Tensor da correia de acessórios — componentes e localização
 
 ## Componentes
 

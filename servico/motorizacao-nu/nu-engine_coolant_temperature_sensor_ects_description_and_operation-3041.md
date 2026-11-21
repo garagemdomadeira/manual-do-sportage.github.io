@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Coolant Temperature Sensor (ECTS) Description and Operation
+# Sensor ECTS (temperatura do líquido de arrefecimento) — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Engine Coolant Temperature Sensor (ECTS) Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor ECTS (temperatura do líquido de arrefecimento) — descrição e operação
 
 ## Descrição
 

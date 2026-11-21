@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Crankshaft Components and Components Location
+# Virabrequim — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Crankshaft Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Virabrequim — componentes e localização
 
 ## Componentes
 

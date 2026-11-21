@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Cylinder Block
+# Bloco do motor
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Cylinder Block
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bloco do motor
 
 - [Componentes e Localização dos Componentes](nu-components_and_components_location-2886.md)
 - [Componentes e Localização dos Componentes da Placa de Transmissão](nu-drive_plate_components_and_components_location-2887.md)

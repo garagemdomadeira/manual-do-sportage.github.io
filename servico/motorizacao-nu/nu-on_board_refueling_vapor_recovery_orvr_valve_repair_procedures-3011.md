@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / On-board Refueling Vapor Recovery (ORVR) valve Repair procedures
+# Válvula ORVR (recuperação de vapor no abastecimento) — procedimentos
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle de Emissão](nu-emission_control_system-2994.md) / [Sistema de Controle de Emissão Evaporativa](nu-evaporative_emission_control_system-3006.md) / Procedimentos de Reparo da Valvula de Recuperação de Vapores durante Abastecimento (ORVR)
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle de Emissão](nu-emission_control_system-2994.md) / [Sistema de Controle de Emissão Evaporativa](nu-evaporative_emission_control_system-3006.md) / Válvula ORVR (recuperação de vapor no abastecimento) — procedimentos
 
 ## Remoção
 

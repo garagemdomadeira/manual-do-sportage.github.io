@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Emission Control System
+# Controle de emissões
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Emission Control System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Controle de emissões
 
 - [Informações Gerais](nu-general_information-2995.md)
 - [Sistema de Controle de Emissão do Casco](nu-crankcase_emission_control_system-3001.md)

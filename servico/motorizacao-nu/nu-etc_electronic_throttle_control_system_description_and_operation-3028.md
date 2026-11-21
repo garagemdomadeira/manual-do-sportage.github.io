@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / ETC (Electronic Throttle Control) System Description and Operation
+# ETC (controle eletrônico da borboleta) — descrição e operação
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Controle do Motor/Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e Operação do Sistema ETC (Controlador Eletrônico do Acelerador)
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Controle do Motor/Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / ETC (controle eletrônico da borboleta) — descrição e operação
 
 ## Descrição
 

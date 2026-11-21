@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Exhaust Manifold Components and Components Location
+# Coletor de escape — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Exhaust Manifold Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Coletor de escape — componentes e localização
 
 ## Componentes
 

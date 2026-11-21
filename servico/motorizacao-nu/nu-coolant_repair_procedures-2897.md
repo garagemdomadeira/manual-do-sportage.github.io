@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Coolant Repair procedures
+# Líquido de arrefecimento — procedimentos
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Sistema de Resfriamento](nu-cooling_system-2896.md) / Procedimentos de Troca de Refrigerante
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Sistema de Resfriamento](nu-cooling_system-2896.md) / Líquido de arrefecimento — procedimentos
 
 ## Preenchimento e Descarga
 

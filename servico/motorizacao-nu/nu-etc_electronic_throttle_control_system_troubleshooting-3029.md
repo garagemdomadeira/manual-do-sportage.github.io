@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / ETC (Electronic Throttle Control) System Troubleshooting
+# ETC (controle eletrônico da borboleta) — diagnóstico
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / ETC (Electronic Throttle Control) System Troubleshooting
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / ETC (controle eletrônico da borboleta) — diagnóstico
 
 ## Modo de Segurança
 

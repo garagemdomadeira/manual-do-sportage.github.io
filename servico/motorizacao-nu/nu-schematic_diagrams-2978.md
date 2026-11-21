@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Schematic Diagrams
+# Diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Diagramas esquemáticos
 
 ## Diagrama de Bloco do Sistema
 

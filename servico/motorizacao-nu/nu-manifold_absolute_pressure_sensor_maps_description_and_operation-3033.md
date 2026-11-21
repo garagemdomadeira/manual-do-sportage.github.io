@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Manifold Absolute Pressure Sensor (MAPS) Description and Operation
+# Sensor MAPS (pressão absoluta do coletor) — descrição e operação
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e Operação do Sensor de Pressão Absoluta do Manifold (MAPS)
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Sensor MAPS (pressão absoluta do coletor) — descrição e operação
 
 ## Descrição
 

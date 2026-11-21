@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Water pump Components and Components Location
+# Bomba d’água — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Water pump Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bomba d’água — componentes e localização
 
 ## Componentes
 

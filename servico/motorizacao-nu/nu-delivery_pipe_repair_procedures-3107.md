@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Delivery Pipe Repair procedures
+# Flauta de combustível — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Delivery Pipe Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Flauta de combustível — procedimentos
 
 ## Remoção
 

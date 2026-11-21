@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Air Cleaner Repair procedures
+# Filtro de ar — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Air Cleaner Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Filtro de ar — procedimentos
 
 ## Remoção e Instalação
 

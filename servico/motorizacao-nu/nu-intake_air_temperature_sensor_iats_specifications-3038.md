@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Intake Air Temperature Sensor (IATS) Specifications
+# Sensor IATS (temperatura do ar de admissão) — especificações
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Intake Air Temperature Sensor (IATS) Specifications
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor IATS (temperatura do ar de admissão) — especificações
 
 ## Especificação
 

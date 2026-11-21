@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Manifold Absolute Pressure Sensor (MAPS) Repair procedures
+# Sensor MAPS (pressão absoluta do coletor) — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Manifold Absolute Pressure Sensor (MAPS) Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor MAPS (pressão absoluta do coletor) — procedimentos
 
 ## Inspeção
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Crankshaft Position Sensor (CKPS) Troubleshooting
+# Sensor CKPS (posição do virabrequim) — diagnóstico
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Crankshaft Position Sensor (CKPS) Troubleshooting
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor CKPS (posição do virabrequim) — diagnóstico
 
 ## Oscilação
 

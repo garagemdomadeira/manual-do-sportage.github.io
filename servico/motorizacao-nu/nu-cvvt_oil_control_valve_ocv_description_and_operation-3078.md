@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / CVVT Oil Control Valve (OCV) Description and Operation
+# Válvula OCV (CVVT) — descrição e operação
 
-[Início](../../index.md) / [Manual de Serviço da Kia Sportage NU](index.md) / [Controle do Motor/Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e Operação da Valvula de Controle do Óleo CVVT (OCV)
+[Home](../../index.md) / [Manual de Serviço da Kia Sportage NU](index.md) / [Controle do Motor/Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Válvula OCV (CVVT) — descrição e operação
 
 ## Descrição
 

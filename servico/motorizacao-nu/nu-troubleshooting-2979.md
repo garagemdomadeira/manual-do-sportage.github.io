@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Troubleshooting
+# Diagnóstico
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Troubleshooting
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Diagnóstico
 
 ## Diagramas de Sintomas de Falha
 

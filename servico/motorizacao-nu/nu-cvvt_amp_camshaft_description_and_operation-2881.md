@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / CVVT & Camshaft Description and Operation
+# CVVT e comando de válvulas — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / CVVT & Camshaft Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / CVVT e comando de válvulas — descrição e operação
 
 ## Descrição
 

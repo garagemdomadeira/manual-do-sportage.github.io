@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Accelerator Position Sensor (APS) Description and Operation
+# Sensor APS (posição do acelerador) — descrição e operação
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Descrição e Operação do Sensor de Posição do Acelerador (SPA)
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Sistema de Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Sensor APS (posição do acelerador) — descrição e operação
 
 ## Descrição
 

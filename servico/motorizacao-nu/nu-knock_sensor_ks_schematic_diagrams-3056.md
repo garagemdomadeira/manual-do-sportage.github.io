@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Knock Sensor (KS) Schematic Diagrams
+# Sensor de detonação (KS) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Knock Sensor (KS) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor de detonação (KS) — diagramas esquemáticos
 
 ## Diagrama Schematico
 

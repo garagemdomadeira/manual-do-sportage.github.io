@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Starter Repair procedures
+# Motor de partida — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Starter Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Motor de partida — procedimentos
 
 ## Remoção
 

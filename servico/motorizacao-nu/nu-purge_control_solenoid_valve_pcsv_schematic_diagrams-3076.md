@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Purge Control Solenoid Valve (PCSV) Schematic Diagrams
+# Válvula PCSV (controle de purga) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Purge Control Solenoid Valve (PCSV) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula PCSV (controle de purga) — diagramas esquemáticos
 
 ## Diagrama Elétrico
 

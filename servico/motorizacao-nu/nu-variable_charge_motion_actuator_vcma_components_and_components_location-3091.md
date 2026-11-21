@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Variable Charge Motion Actuator (VCMA) Components and Components Location
+# Atuador de movimento de carga variável (VCMA) — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Variable Charge Motion Actuator (VCMA) Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Atuador de movimento de carga variável (VCMA) — componentes e localização
 
 ## Componentes
 

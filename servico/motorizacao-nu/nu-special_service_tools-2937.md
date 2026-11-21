@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Special Service Tools
+# Ferramentas especiais
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Special Service Tools
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Ferramentas especiais
 
 ## Ferramentas de Serviço Especial
 

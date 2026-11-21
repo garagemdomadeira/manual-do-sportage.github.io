@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Air Cleaner Components and Components Location
+# Filtro de ar — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Air Cleaner Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Filtro de ar — componentes e localização
 
 ## Componentes
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Electric Thermostat (ECT) Repair procedures
+# Termostato elétrico (ECT) — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Electric Thermostat (ECT) Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Termostato elétrico (ECT) — procedimentos
 
 ## Remoção e Instalação
 

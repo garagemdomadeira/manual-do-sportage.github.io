@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / CVVT Oil Control Valve (OCV) Schematic Diagrams
+# Válvula OCV (CVVT) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / CVVT Oil Control Valve (OCV) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula OCV (CVVT) — diagramas esquemáticos
 
 ## Esquema Elétrico
 

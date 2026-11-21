@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Lubrication System
+# Sistema de lubrificação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Lubrication System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sistema de lubrificação
 
 - [Componentes e Localização dos Componentes](nu-components_and_components_location-2915.md)
 - [Diagrama de Fluxo](nu-flow_diagram-2916.md)

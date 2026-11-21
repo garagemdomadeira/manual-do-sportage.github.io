@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Timing Chain Cover Components and Components Location
+# Tampa da corrente de comando — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Timing Chain Cover Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Tampa da corrente de comando — componentes e localização
 
 ## Componentes
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Charging System
+# Sistema de carga
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Charging System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sistema de carga
 
 - [Descrição e Operação](nu-description_and_operation-2951.md)
 - [Diagramas Schematicos](nu-schematic_diagrams-2952.md)

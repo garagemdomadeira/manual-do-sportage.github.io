@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Crankcase Emission Control System
+# Controle de emissões do cárter
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Crankcase Emission Control System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Controle de emissões do cárter
 
 ## Diagramas Schematicos
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Crankshaft Damper Pulley Repair procedures
+# Polia amortecedora do virabrequim — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Crankshaft Damper Pulley Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Polia amortecedora do virabrequim — procedimentos
 
 ## Remoção e Instalação
 

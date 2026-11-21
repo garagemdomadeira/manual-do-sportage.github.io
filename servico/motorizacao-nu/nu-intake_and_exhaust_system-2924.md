@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Intake And Exhaust System
+# Admissão e escape
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Intake And Exhaust System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Admissão e escape
 
 - [Componentes do Filtro de Ar e Localização dos Componentes](nu-air_cleaner_components_and_components_location-2925.md)
 - [Procedimentos de Reparo do Filtro de Ar](nu-air_cleaner_repair_procedures-2926.md)

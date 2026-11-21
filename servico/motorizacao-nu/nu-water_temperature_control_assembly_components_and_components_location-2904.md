@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Water Temperature Control Assembly Components and Components Location
+# Conjunto de controle da temperatura da água — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Water Temperature Control Assembly Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Conjunto de controle da temperatura da água — componentes e localização
 
 ## Componentes
 

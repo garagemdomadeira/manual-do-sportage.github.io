@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Water pump Repair procedures
+# Bomba d’água — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Water pump Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bomba d’água — procedimentos
 
 ## Remoção e Instalação
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Variable Charge Motion Actuator (VCMA) Schematic Diagrams
+# Atuador de movimento de carga variável (VCMA) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Variable Charge Motion Actuator (VCMA) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Atuador de movimento de carga variável (VCMA) — diagramas esquemáticos
 
 ## Diagrama de circuito
 

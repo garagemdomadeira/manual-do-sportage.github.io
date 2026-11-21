@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Fuel Filler Cap Description and Operation
+# Tampa do bocal de combustível — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Fuel Filler Cap Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Tampa do bocal de combustível — descrição e operação
 
 ## Descrição
 

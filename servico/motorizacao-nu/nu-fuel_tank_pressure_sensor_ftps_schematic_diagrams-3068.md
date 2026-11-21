@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Fuel Tank Pressure Sensor (FTPS) Schematic Diagrams
+# Sensor de pressão do tanque (FTPS) — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Fuel Tank Pressure Sensor (FTPS) Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor de pressão do tanque (FTPS) — diagramas esquemáticos
 
 ## Diagrama Elétrico
 

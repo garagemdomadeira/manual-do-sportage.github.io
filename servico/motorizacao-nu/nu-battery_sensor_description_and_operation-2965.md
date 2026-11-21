@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Battery Sensor Description and Operation
+# Sensor da bateria — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Battery Sensor Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor da bateria — descrição e operação
 
 ## Descrição
 

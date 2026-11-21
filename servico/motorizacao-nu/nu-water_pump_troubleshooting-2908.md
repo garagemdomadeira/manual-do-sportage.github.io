@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Water pump Troubleshooting
+# Bomba d’água — diagnóstico
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Sistema de Refrigeração](nu-cooling_system-2896.md) / Diagnóstico da Bomba de Água
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Sistema de Refrigeração](nu-cooling_system-2896.md) / Bomba d’água — diagnóstico
 
 ## Diagnóstico
 

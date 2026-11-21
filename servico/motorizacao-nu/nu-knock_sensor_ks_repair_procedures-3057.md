@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Knock Sensor (KS) Repair procedures
+# Sensor de detonação (KS) — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Knock Sensor (KS) Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor de detonação (KS) — procedimentos
 
 ## Remoção
 

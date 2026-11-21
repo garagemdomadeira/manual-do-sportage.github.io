@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Battery Description and Operation
+# Bateria — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Battery Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Bateria — descrição e operação
 
 ## Descrição
 

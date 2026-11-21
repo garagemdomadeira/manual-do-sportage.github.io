@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Cooling System
+# Sistema de arrefecimento
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Cooling System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sistema de arrefecimento
 
 - [Procedimentos de Reparo do Refrigerante](nu-coolant_repair_procedures-2897.md)
 - [Componentes e Localização do Fan de Refrigeração](nu-cooling_fan_components_and_components_location-2898.md)

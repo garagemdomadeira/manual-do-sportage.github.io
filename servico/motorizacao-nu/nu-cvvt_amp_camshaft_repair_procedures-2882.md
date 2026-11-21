@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / CVVT & Camshaft Repair procedures
+# CVVT e comando de válvulas — procedimentos
 
-[Início](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Montagem do Bloco de Cilindros](nu-cylinder_head_assembly-2876.md) / Procedimentos de Revisão do CVVT e do Timoneiro
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Montagem do Bloco de Cilindros](nu-cylinder_head_assembly-2876.md) / CVVT e comando de válvulas — procedimentos
 
 ## Remoção
 

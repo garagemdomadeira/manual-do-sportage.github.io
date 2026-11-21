@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Starter Schematic Diagrams
+# Motor de partida — diagramas esquemáticos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Starter Schematic Diagrams
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Motor de partida — diagramas esquemáticos
 
 ## Diagrama Schematico
 

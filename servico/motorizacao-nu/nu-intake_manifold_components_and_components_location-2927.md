@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Intake Manifold Components and Components Location
+# Coletor de admissão — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Intake Manifold Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Coletor de admissão — componentes e localização
 
 ## Componentes
 

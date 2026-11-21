@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Engine Mounting Components and Components Location
+# Coxins do motor — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Engine Mounting Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Coxins do motor — componentes e localização
 
 ## Componentes
 

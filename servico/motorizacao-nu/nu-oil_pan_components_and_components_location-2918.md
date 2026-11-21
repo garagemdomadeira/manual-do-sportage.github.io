@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Oil Pan Components and Components Location
+# Cárter — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Oil Pan Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Cárter — componentes e localização
 
 ## Componentes
 

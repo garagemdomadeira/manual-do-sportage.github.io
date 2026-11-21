@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Heated Oxygen Sensor (HO2S) Repair procedures
+# Sensor de oxigênio (HO2S) — procedimentos
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Heated Oxygen Sensor (HO2S) Repair procedures
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sensor de oxigênio (HO2S) — procedimentos
 
 ## Inspeção
 

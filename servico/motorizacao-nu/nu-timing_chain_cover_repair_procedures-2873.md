@@ -1,4 +1,4 @@
-# Kia Sportage SL: Motorização NU / Timing Chain Cover Repair procedures
+# Tampa da corrente de comando — procedimentos
 
 ## Instalação
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Fuel Delivery System
+# Sistema de alimentação de combustível
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Fuel Delivery System
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Sistema de alimentação de combustível
 
 - [Componentes e Localização dos Componentes](nu-components_and_components_location-3096.md)
 - [Procedimentos de Reparo](nu-repair_procedures-3097.md)

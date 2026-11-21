@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Cylinder Head Components and Components Location
+# Cabeçote — componentes e localização
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Cylinder Head Components and Components Location
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Cabeçote — componentes e localização
 
 ## Componentes
 

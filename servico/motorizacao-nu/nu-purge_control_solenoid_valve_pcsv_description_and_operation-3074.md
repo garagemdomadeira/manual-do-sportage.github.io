@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / Purge Control Solenoid Valve (PCSV) Description and Operation
+# Válvula PCSV (controle de purga) — descrição e operação
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / Purge Control Solenoid Valve (PCSV) Description and Operation
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula PCSV (controle de purga) — descrição e operação
 
 ## Descrição
 

@@ -1,6 +1,6 @@
-# Kia Sportage SL: Motorização NU / General Information
+# Informações gerais
 
-[Home](../../index.md) / [Kia Sportage SL Service & Repair Manual](../sportage-482.md) / [Motorização NU](index.md) / General Information
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Informações gerais
 
 ## Descrição e Operação
 
