@@ -4,11 +4,11 @@
 
 ## Remoção e Instalação
 
-1. Desconecte o cinto de transmissão.
+1. Desconecte a correia de acessórios.
 
-   (Consulte o Sistema de Alineação - "Cinto de Transmissão")
+   (Consulte o Sistema de Alinhamento - "Correia de Transmissão")
 
-2. Remova o tensador de cinto de transmissão (A).
+2. Remova o tensador de correia de acessórios (A).
 
    ```
    Torque de aperto :

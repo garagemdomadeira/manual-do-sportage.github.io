@@ -4,13 +4,13 @@
 
 ## Inspeção
 
-Sensor de Posição do Chaveta (TPS)
+Sensor de Posição da Borboleta (TPS)
 
 1. Conecte o GDS na Conector de Interface de Dados (CID).
 
 2. Inicie o motor e medir a tensão de saída do TPS 1 e 2 no C.T. e W.O.T.
 
-   | Ângulo do Chaveta | Tensão de Saída (V) | |
+   | Ângulo da Borboleta | Tensão de Saída (V) | |
    | --- | --- | --- |
    | TPS 1 | TPS 2 | |
    | C.T | 0,5 | 4,5 |

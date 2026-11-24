@@ -1,6 +1,6 @@
-# Válvula solenóide de admissão variável (VIS) — descrição e operação
+# Válvula solenoide de admissão variável (VIS) — descrição e operação
 
-[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Válvula solenóide de admissão variável (VIS) — descrição e operação
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema de Controle e Combustível](nu-engine_control_fuel_system-3018.md) / [Sistema de Controle do Motor](nu-engine_control_system-3023.md) / Válvula solenoide de admissão variável (VIS) — descrição e operação
 
 ## Descrição
 

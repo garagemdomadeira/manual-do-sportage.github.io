@@ -98,8 +98,8 @@ Termostato
 
    ```
    Temperatura de abertura do vale:
-   100 Â± 2Â°C (212 Â± 35.6Â°F)
-   Temperatura de abertura completa: 115Â°C (239Â°F)
+   100 ± 2°C (212 ± 35.6°F)
+   Temperatura de abertura completa: 115°C (239°F)
    ```
 
 3. Verifique a elevação do vale.
@@ -107,5 +107,5 @@ Termostato
    Se a elevação do vale não for conforme especificado, substitua o termostato.
 
    ```
-   Elevação do vale: 8 mm (0.3 polegadas) ou mais a 115Â°C (239Â°F)
+   Elevação do vale: 8 mm (0.3 polegadas) ou mais a 115°C (239°F)
    ```

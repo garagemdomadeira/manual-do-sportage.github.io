@@ -34,7 +34,7 @@ Sensor de Temperatura do Ar de Admissão (IATS)
 
 ? Especificação
 
-| Temperatura [Â°C(Â°F)] | Resistência (k?) |
+| Temperatura [°C(°F)] | Resistência (k?) |
 | --- | --- |
 | -40(-40) | 40.93 ~ 48.35 |
 | -20(-4) | 13.89 ~ 16.03 |
@@ -52,7 +52,7 @@ Sensor de Temperatura do Coolante do Motor (ECTS)
 
 ? Especificação
 
-| Temperatura [Â°C(Â°F)] | Resistência (k?) |
+| Temperatura [°C(°F)] | Resistência (k?) |
 | --- | --- |
 | -40(-40) | 48.14 |
 | -20(-4) | 14.13 ~ 16.83 |
@@ -68,7 +68,7 @@ Sensor de Posição do Acelerador (TPS) [integrado no módulo ETC]
 
 ? Especificação
 
-| Ângulo de Acelerador (Â°) | Válvula de Saída de Voltagem (V) [Vref = 5.0V] |  |
+| Ângulo do Acelerador (°) | Válvula de Saída de Voltagem (V) [Vref = 5.0V] |  |
 | --- | --- | --- |
 | TPS1 | TPS2 |  |
 | 0 | 0.5 | 4.5 |
@@ -85,15 +85,15 @@ Sensor de Posição do Acelerador (TPS) [integrado no módulo ETC]
 | C.T (0) | 0.5 | 4.5 |
 | W.O.T (86) | 4.41 | 0.59 |
 
-Sensor de Posição do Crankshaft (CKPS)
+Sensor de Posição do Virabrequim (CKPS)
 
 ? Tipo: Tipo sensível ao campo magnético
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Coil (?) | 774 ~ 946 [20Â°C (68Â°F)] |
+| Resistência do Coil (?) | 774 ~ 946 [20°C (68°F)] |
 
-Sensor de Posição do Camshaft (CMPS)
+Sensor de Posição do Comando de válvulas (CMPS)
 
 ? Tipo: Tipo de efeito Hall
 
@@ -115,7 +115,7 @@ Sensor de Oxigênio Quente (HO2S) [Bank 1/Sensor 1]
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Aquecedor (?) | 2.4 ~ 4.0 [20Â°C(69.8Â°F)] |
+| Resistência do Aquecedor (?) | 2.4 ~ 4.0 [20°C(69.8°F)] |
 
 Sensor de Oxigênio Quente (HO2S) [Bank 1/Sensor 2]
 
@@ -130,7 +130,7 @@ Sensor de Oxigênio Quente (HO2S) [Bank 1/Sensor 2]
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Aquecedor (?) | Aproximadamente 9.0 [20Â°C(68Â°F)] |
+| Resistência do Aquecedor (?) | Aproximadamente 9.0 [20°C(68°F)] |
 
 Sensor de Posição do Acelerador (APS)
 
@@ -164,7 +164,7 @@ Executores
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 13,8 ~ 15,2 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 13,8 ~ 15,2 [20°C(68°F)] |
 
 Motor ETC [integrado no módulo ETC]
 
@@ -172,7 +172,7 @@ Motor ETC [integrado no módulo ETC]
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 0,3 ~ 100 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 0,3 ~ 100 [20°C(68°F)] |
 
 Valvula de Controle de Purga (PCSV)
 
@@ -180,7 +180,7 @@ Valvula de Controle de Purga (PCSV)
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 22,0 ~ 26,0 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 22,0 ~ 26,0 [20°C(68°F)] |
 
 Valvula de Controle de Posicionamento do Ingresso Variável (CVVT)
 
@@ -188,23 +188,23 @@ Valvula de Controle de Posicionamento do Ingresso Variável (CVVT)
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 9,4 ~ 10,4 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 9,4 ~ 10,4 [20°C(68°F)] |
 
 Atuador de Movimento de Carregamento Variável (VCMA)
 
 ? Especificação
 
-[Motor]
+### Motor
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 3,4 ~ 4,4 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 3,4 ~ 4,4 [20°C(68°F)] |
 
-[Sensor de Posição]
+### Sensor de Posição
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (k?) | 3,44 ~ 5,16 [20Â°C(68Â°F)] |
+| Resistência do bobinado (k?) | 3,44 ~ 5,16 [20°C(68°F)] |
 
 Bobina de Ignição
 
@@ -214,26 +214,26 @@ Bobina de Ignição
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado primário (?) | 0,75 Â± 15% [20Â°C(68Â°F)] |
-| Resistência do bobinado secundário (k?) | 5,9 Â± 15% [20Â°C(68Â°F)] |
+| Resistência do bobinado primário (?) | 0,75 ± 15% [20°C(68°F)] |
+| Resistência do bobinado secundário (k?) | 5,9 ± 15% [20°C(68°F)] |
 
-Valvula de Fechamento do Canister (CCV)
+Valvula de Fechamento do Cânister (CCV)
 
 ? Especificação
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do bobinado (?) | 19,5 ~ 22,5 [20Â°C(68Â°F)] |
+| Resistência do bobinado (?) | 19,5 ~ 22,5 [20°C(68°F)] |
 
 ## Padrões de Serviço
 
 | Item | Especificação |  |  |
 | --- | --- | --- | --- |
-| Ajuste do Tempo de Ignição (Â°) | BTDC 5 Â± 10 |  |  |
-| Velocidade de Vazão (rpm) | A/C OFF | Neutral, N, P-âmbito | 640 Â± 100 |
-| D-âmbito | 640 Â± 100 |  |  |
-| A/C ON | Neutral, N, P-âmbito | 680 Â± 100 |  |
-| D-âmbito | 680 Â± 100 |  |  |
+| Ajuste do Tempo de Ignição (°) | BTDC 5 ± 10 |  |  |
+| Velocidade de Vazão (rpm) | A/C OFF | Neutral, N, P-âmbito | 640 ± 100 |
+| D-âmbito | 640 ± 100 |  |  |
+| A/C ON | Neutral, N, P-âmbito | 680 ± 100 |  |
+| D-âmbito | 680 ± 100 |  |  |
 
 ## Torques de Aperto
 
@@ -242,22 +242,22 @@ Sistema de Controle do Motor
 | Item | kgf.m | N.m | lb-ft |
 | --- | --- | --- | --- |
 | Parafuso de Instalação do ECM | 0,8 ~ 1,2 | 7,8 ~ 11,8 | 5,8 ~ 8,7 |
-| Parafuso/Parafuso de Instalação do Bracket do ECM | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso/Parafuso de Instalação do Suporte do ECM | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Sensor de Pressão de Vazão do Manifold de Instalação | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Sensor de Temperatura do Coolant do Motor | 3,0 ~ 4,0 | 29,4 ~ 39,2 | 21,7 ~ 28,9 |
-| Parafuso de Instalação do Sensor de Posição do Crankshaft | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
-| Parafuso de Instalação do Sensor de Posição do Camshaft (Banco 1 / Intake) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
-| Parafuso de Instalação do Sensor de Posição do Camshaft (Banco 1 / Exaustão) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso de Instalação do Sensor de Posição do Virabrequim | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso de Instalação do Sensor de Posição do Comando de válvulas (Banco 1 / Intake) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso de Instalação do Sensor de Posição do Comando de válvulas (Banco 1 / Exaustão) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Sensor de Knock | 1,9 ~ 2,4 | 18,6 ~ 23,5 | 13,7 ~ 17,4 |
 | Sensor de Oxigênio Aquecido (Banco 1 / Sensor 1) de Instalação [SULEV] | 4,0 ~ 5,0 | 39,2 ~ 49,1 | 28,9 ~ 36,2 |
 | Sensor de Oxigênio Aquecido (Banco 1 / Sensor 2) de Instalação [SULEV] | 4,0 ~ 5,0 | 39,2 ~ 49,1 | 28,9 ~ 36,2 |
 | Sensor de Oxigênio Aquecido (Banco 1 / Sensor 1) de Instalação [ULEV] | 4,0 ~ 5,0 | 39,2 ~ 49,1 | 28,9 ~ 36,2 |
 | Sensor de Oxigênio Aquecido (Banco 1 / Sensor 2) de Instalação [ULEV] | 4,0 ~ 5,0 | 39,2 ~ 49,1 | 28,9 ~ 36,2 |
 | Parafuso de Instalação do Body do Throttle Eletrônico | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
-| Parafuso de Instalação do Bracket do Solenoide de Controle do Purge | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso de Instalação do Suporte do Solenoide de Controle do Purge | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Valvula de Controle de Óleo CVVT (Banco 1 / Intake) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Valvula de Controle de Óleo CVVT (Banco 1 / Exaustão) | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
-| Parafuso de Instalação do Bracket do Solenoide de Movimento de Admissão Variável | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
+| Parafuso de Instalação do Suporte do Solenoide de Movimento de Admissão Variável | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Coil de Ignição | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 | Parafuso de Instalação do Atuador de Movimento de Admissão Variável | 1,0 ~ 1,2 | 9,8 ~ 11,8 | 7,2 ~ 8,7 |
 
@@ -268,7 +268,7 @@ Sistema de Entrega de Combustível
 | Parafuso de Instalação do Tanque de Combustível | 4,0 ~ 5,5 | 39,2 ~ 54,0 | 28,9 ~ 39,8 |
 | Parafuso de Instalação do Cover do Plate do Pump de Combustível [LEV2] | 0,2 ~ 0,3 | 2,0 ~ 3,0 | 1,4 ~ 2,2 |
 | Parafuso de Instalação do Cover do Plate do Pump de Combustível [SULEV] | 8,0 ~ 10,0 | 78,5 ~ 98,1 | 57,9 ~ 72,4 |
-| Parafuso de Instalação do Bracket do Assembly do Filler-neck | 0,8 ~ 1,2 | 7,8 ~ 11,8 | 5,8 ~ 8,7 |
+| Parafuso de Instalação do Suporte do Assembly do Filler-neck | 0,8 ~ 1,2 | 7,8 ~ 11,8 | 5,8 ~ 8,7 |
 | Parafuso de Instalação do Module do Pedal do Acelerador | 1,3 ~ 1,6 | 12,8 ~ 15,7 | 9,4 ~ 11,6 |
 | Parafuso de Instalação do Module do Pedal do Acelerador | 0,9 ~ 1,4 | 8,8 ~ 13,7 | 6,5 ~ 10,1 |
 | Parafuso de Instalação do Tubo de Entrega | 1,9 ~ 2,4 | 18,6 ~ 23,5 | 13,7 ~ 17,4 |

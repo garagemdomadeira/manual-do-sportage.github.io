@@ -4,9 +4,9 @@
 
 ## Troca
 
-1. Remova o amortecedor do pulley do buge.
+1. Remova o amortecedor da polia do buge.
 
-   (Consulte o Sistema de Alineação - "Amortecedor do Pulley do Buje")
+   (Consulte o Sistema de Alinhamento - "Amortecedor da Polia do Virabrequim")
 
 2. Remova a selante do freio (A).
 
@@ -26,6 +26,6 @@
    >
    > - Não reutilize a selante do freio do lado frontal.
 
-5. Instale o amortecedor do pulley do buje.
+5. Instale o amortecedor da polia do virabrequim.
 
-   (Consulte o Sistema de Alineação - "Amortecedor do Pulley do Buje")
+   (Consulte o Sistema de Alinhamento - "Amortecedor da Polia do Virabrequim")

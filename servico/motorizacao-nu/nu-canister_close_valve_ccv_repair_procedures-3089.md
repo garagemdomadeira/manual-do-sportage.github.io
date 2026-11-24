@@ -16,7 +16,7 @@
    Especificação : Consulte "Especificação"
    ```
 
-5. Desconecte a mangueira de vapor conectada ao canister do CCV.
+5. Desconecte a mangueira de vapor conectada ao cânister do CCV.
 
 6. Conecte um pump de vácuo ao bico.
 
@@ -32,15 +32,15 @@
 
 1. Desligue o interruptor de ignição e desconecte o terminal negativo (-) da bateria.
 
-2. Remova a montagem do canister.
+2. Remova a montagem do cânister.
 
-   (Consulte o Sistema de Emissão - "Canister")
+   (Consulte o Sistema de Emissão - "Cânister")
 
 3. Remova o parafuso de instalação (A) e, em seguida, remova o filtro de ar (B).
 
    ![](../../images/canister_close_valve_ccv_repair_procedures-3089/2840/sadfl60022n_002.gif)
 
-4. Libere o lembrete (A), e, em seguida, separe a valvula de fechamento do canister (B) do filtro de ar do tanque de combustível girando-a na direção do seta na figura.
+4. Libere o lembrete (A), e, em seguida, separe a valvula de fechamento do cânister (B) do filtro de ar do tanque de combustível girando-a na direção do seta na figura.
 
    ![](../../images/canister_close_valve_ccv_repair_procedures-3089/2840/sadfl60023n_002.gif)
 

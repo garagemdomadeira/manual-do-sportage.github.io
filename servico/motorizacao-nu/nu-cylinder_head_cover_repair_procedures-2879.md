@@ -49,9 +49,9 @@
 
 ## Instalação
 
-1. Instale a cobertura do cabeçote do cilindro.
+1. Instale a tampa do cabeçote.
 
-   (1) Antes de montar a cobertura do cabeçote do cilindro, é necessário remover o selante endurecido localizado na cobertura do cabeçote do cilindro e na junta entre a cobertura da corrente de tempo e o carregador do pistão.
+   (1) Antes de montar a tampa do cabeçote, é necessário remover o selante endurecido localizado na tampa do cabeçote e na junta entre a cobertura da corrente de tempo e o carregador do pistão.
 
    (2) Aplicar óleo de motor na parte lip da junta de selo na cobertura e na superfície externa das tubos de pino de estaca.
 
@@ -78,8 +78,8 @@
 
    > **Nota**
    >
-   > - Não reutilize a borracha de vedação da cobertura do cabeçote do cilindro.
-   > - Antes de instalar a cobertura do cabeçote do cilindro, verifique se a borracha de vedação da cobertura do cabeçote do cilindro não se separou do rebaixo da borracha de vedação da cobertura do cabeçote do cilindro.
-   > - Não realize o teste de pressão ou o funcionamento do motor nos 30 minutos após a montagem da cobertura do cabeçote do cilindro.
+   > - Não reutilize a borracha de vedação da tampa do cabeçote.
+   > - Antes de instalar a tampa do cabeçote, verifique se a borracha de vedação da tampa do cabeçote não se separou do rebaixo da borracha de vedação da tampa do cabeçote.
+   > - Não realize o teste de pressão ou o funcionamento do motor nos 30 minutos após a montagem da tampa do cabeçote.
 
 2. Instale as outras peças na ordem inversa à do desmontagem.

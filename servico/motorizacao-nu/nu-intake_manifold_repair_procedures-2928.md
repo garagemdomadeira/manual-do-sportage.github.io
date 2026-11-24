@@ -57,8 +57,8 @@
     > **Nota**
     >
     > - Ao instalar o manifold de admissão, aperte os parafusos e
-    >  os parafusos de pre-aperto primeiro, e depois aperte-os com
-    >  o torque especificado na sequência mostrada.
+    > os parafusos de pre-aperto primeiro, e depois aperte-os com
+    > o torque especificado na sequência mostrada.
 
     ![](../../images/intake_manifold_repair_procedures-2928/2840/sadem60092n.gif)
 

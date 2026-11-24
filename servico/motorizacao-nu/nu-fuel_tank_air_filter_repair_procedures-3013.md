@@ -6,15 +6,15 @@
 
 1. Desligue o interruptor de ignição e desconecte o terminal negativo (-) da bateria.
 
-2. Remova a montagem do canister.
+2. Remova a montagem do cânister.
 
-   (Consulte Sistema de Controle de Emissão - "Canister")
+   (Consulte Sistema de Controle de Emissão - "Cânister")
 
 3. Remova a viga de fixação (A), e então remova o filtro de ar (B).
 
    ![](../../images/fuel_tank_air_filter_repair_procedures-3013/2840/sadfl60022n.gif)
 
-4. Libere a viga (A), e então separe o válvula de fechamento do canister (B) do filtro de ar do tanque de combustível, rotacionando-o na direção do seta na figura.
+4. Libere a viga (A), e então separe a válvula de fechamento do cânister (B) do filtro de ar do tanque de combustível, rotacionando-o na direção do seta na figura.
 
    ![](../../images/fuel_tank_air_filter_repair_procedures-3013/2840/sadfl60023n.gif)
 

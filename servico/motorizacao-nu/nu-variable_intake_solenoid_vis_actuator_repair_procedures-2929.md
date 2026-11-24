@@ -1,12 +1,12 @@
-# Atuador do solenóide de admissão variável (VIS) — procedimentos
+# Atuador do solenoide de admissão variável (VIS) — procedimentos
 
-[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Atuador do solenóide de admissão variável (VIS) — procedimentos
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Atuador do solenoide de admissão variável (VIS) — procedimentos
 
 ## Remoção e Instalação
 
 1. Desconecte a mangueira de vácuo (A).
 
-2. Remova a conexão do solenóide do intumetor variável (VIS) (B) e o atuador (C).
+2. Remova a conexão do solenoide do intumetor variável (VIS) (B) e o atuador (C).
 
    ```
    Torque de aperto :

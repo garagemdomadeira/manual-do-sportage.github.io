@@ -8,10 +8,10 @@
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (?) | 9,4 ~ 10,4 [20Â°C(68Â°F)] |
+| Resistência do Bobinado (?) | 9,4 ~ 10,4 [20°C(68°F)] |
 
 [Bank 1 / Admissão] #2
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (?) | 10,8 ~ 12,8 [20Â°C(68Â°F)] |
+| Resistência do Bobinado (?) | 10,8 ~ 12,8 [20°C(68°F)] |

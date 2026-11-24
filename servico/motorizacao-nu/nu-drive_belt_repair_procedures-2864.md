@@ -4,17 +4,17 @@
 
 ## Remoção
 
-1. Remova o cinto de distribuição.
+1. Remova a correia de acessórios.
 
-   (1) Usando a chave, vire o regulador de tensão do cinto de distribuição (A) no sentido horário.
+   (1) Usando a chave, vire o regulador de tensão da correia de acessórios (A) no sentido horário.
 
     ![](../../images/drive_belt_repair_procedures-2864/2840/sadem60015n.gif)
 
-   (2) Desconecte o cinto de distribuição (A).
+   (2) Desconecte a correia de acessórios (A).
 
     ![](../../images/drive_belt_repair_procedures-2864/2840/sadem60016n.gif)
 
-   (3) Remova o regulador de tensão do cinto de distribuição (A) e, em seguida, remova o cinto de distribuição (B).
+   (3) Remova o regulador de tensão da correia de acessórios (A) e, em seguida, remova a correia de acessórios (B).
 
     ![](../../images/drive_belt_repair_procedures-2864/2840/sadem60017n.gif)
 
@@ -54,13 +54,13 @@ Correia usada:
 > **Nota**
    >
    > - Se o motor tiver rodado por 5 minutos ou mais, a tensão da correia deve ser ajustada como uma correia usada.
-   > - Ao instalar a correia V-ribbed, todos os sulcos do pulley devem ser cobertos pelos ribs da correia.
+   > - Ao instalar a correia V-ribbed, todos os sulcos da polia devem ser cobertos pelos ribs da correia.
    > - Uma correia solta causa ruído de deslizamento.
    > - Uma correia muito apertada causa danos aos rolamentos do alternador e da bomba d'água.
 
 Usando um indicador de tensão mecânico (BT-33-73F, BTG-2)
 
-1. Enquanto pressionando o cabo (A) do indicador, insira a correia (B) entre o pulley e o pulley (ou idler) no espaço entre o eixo (C) e a garrilha (D).
+1. Enquanto pressionando o cabo (A) do indicador, insira a correia (B) entre a polia e a polia (ou polia intermediária) no espaço entre o eixo (C) e a garrilha (D).
 
    ![](../../images/drive_belt_repair_procedures-2864/2840/stdee0002d.gif)
 
@@ -75,8 +75,8 @@ Usando um indicador de tensão sonora (U-505/507)
    | Tipo de correia | Local da medição | Dados de entrada | | |
    | --- | --- | --- | --- | --- |
    | M (Massa, g/rib) | W (Largura, rib) | S (Comprimento, mm) | | |
-   | Com A/C | Pulley do motor até o pulley do compressor do A/C | 14,1 | 006,0 | 187 |
-   | Sem A/C | Pulley do motor até o pulley do alternador | 14,1 | 006,0 | Valor de medição real |
+   | Com A/C | Polia do motor até a polia do compressor do A/C | 14,1 | 006,0 | 187 |
+   | Sem A/C | Polia do motor até a polia do alternador | 14,1 | 006,0 | Valor de medição real |
 
    > **Nota**
    >

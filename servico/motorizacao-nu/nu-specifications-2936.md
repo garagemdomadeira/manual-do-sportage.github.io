@@ -10,8 +10,8 @@ Bobina de Ignição
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Coil Primário (?) | 0,61 Â± 15% [20Â°C (68Â°F)] |
-| Resistência do Coil Secundário (k?) | 7,5 Â± 15% [20Â°C (68Â°F)] |
+| Resistência do Coil Primário (?) | 0,61 ± 15% [20°C (68°F)] |
+| Resistência do Coil Secundário (k?) | 7,5 ± 15% [20°C (68°F)] |
 
 Interruptor de Fogo
 
@@ -30,9 +30,9 @@ Gerador
 | Velocidade de uso | 1.000 ~ 18.000 rpm |  |
 | Regulador de Tensão | Tipo de Regulador Interno IC |  |
 | Configuração de Tensão do Regulador | Modo Externo | Consulte o gráfico abaixo |
-| Modo Interno | 14,55 Â± 0,3V |  |
-| Gradiente de Temperatura | Modo Externo | 0 Â± 3 mV / Â°C |
-| Modo Interno | -3,5 Â± 2mV / Â°C |  |
+| Modo Interno | 14,55 ± 0,3V |  |
+| Gradiente de Temperatura | Modo Externo | 0 ± 3 mV / °C |
+| Modo Interno | -3,5 ± 2mV / °C |  |
 
 ![](../../images/specifications-2936/2840/sjdee3000l.gif)
 
@@ -47,15 +47,15 @@ Bateria
 | Corrente de Arranque em Temperatura Baixa (A) | 640 (SAE) / 512(EN) |
 | Capacidade de Reserva (Min) | 100 |
 
-| â€¢ Descrição do Tipo de Modelo â€¢ Corrente de Arranque em Temperatura Baixa (CCA): A Corrente de Arranque em Temperatura Baixa é uma classificação utilizada na indústria de baterias para definir a capacidade de uma bateria de iniciar um motor em temperaturas baixas. - A classificação é o número de amperes que uma nova e completamente carregada bateria pode fornecer a -18 Â°C (-0,4 Â°F) por 30 segundos, mantendo uma tensão de pelo menos 7,2 volts para uma bateria de 12 volts. - O maior o rating de CCA, maior o poder de partida da bateria. â€¢ CAPACIDADE DE RESERVA (RC) : A Capacidade de Reserva é uma classificação da indústria de baterias, definindo a capacidade de uma bateria de alimentar um veículo com um alternador ou cinto de ventilador inoperante. - A classificação é o número de minutos que uma bateria a 26,7 Â°C (80 Â°F) pode ser descarregada a 25 amperes e manter uma tensão de 10,5 volts para uma bateria de 12 volts. - O maior o rating de reserva, maior o tempo que seu veículo pode operar se seu alternador ou cinto de ventilador falhar. |  |
+| • Descrição do Tipo de Modelo • Corrente de Arranque em Temperatura Baixa (CCA): A Corrente de Arranque em Temperatura Baixa é uma classificação utilizada na indústria de baterias para definir a capacidade de uma bateria de iniciar um motor em temperaturas baixas. - A classificação é o número de amperes que uma nova e completamente carregada bateria pode fornecer a -18 °C (-0,4 °F) por 30 segundos, mantendo uma tensão de pelo menos 7,2 volts para uma bateria de 12 volts. - O maior o rating de CCA, maior o poder de partida da bateria. • CAPACIDADE DE RESERVA (RC) : A Capacidade de Reserva é uma classificação da indústria de baterias, definindo a capacidade de uma bateria de alimentar um veículo com um alternador ou correia de ventilador inoperante. - A classificação é o número de minutos que uma bateria a 26,7 °C (80 °F) pode ser descarregada a 25 amperes e manter uma tensão de 10,5 volts para uma bateria de 12 volts. - O maior o rating de reserva, maior o tempo que seu veículo pode operar se seu alternador ou correia de ventilador falhar. |  |
 | --- | --- |
-| â€¢ | Descrição do Tipo de Modelo |
-| â€¢ | Corrente de Arranque em Temperatura Baixa (CCA): A Corrente de Arranque em Temperatura Baixa é uma classificação utilizada na indústria de baterias para definir a capacidade de uma bateria de iniciar um motor em temperaturas baixas. |
-| - | A classificação é o número de amperes que uma nova e completamente carregada bateria pode fornecer a -18 Â°C (-0,4 Â°F) por 30 segundos, mantendo uma tensão de pelo menos 7,2 volts para uma bateria de 12 volts. |
+| • | Descrição do Tipo de Modelo |
+| • | Corrente de Arranque em Temperatura Baixa (CCA): A Corrente de Arranque em Temperatura Baixa é uma classificação utilizada na indústria de baterias para definir a capacidade de uma bateria de iniciar um motor em temperaturas baixas. |
+| - | A classificação é o número de amperes que uma nova e completamente carregada bateria pode fornecer a -18 °C (-0,4 °F) por 30 segundos, mantendo uma tensão de pelo menos 7,2 volts para uma bateria de 12 volts. |
 | - | O maior o rating de CCA, maior o poder de partida da bateria. |
-| â€¢ | CAPACIDADE DE RESERVA (RC) : A Capacidade de Reserva é uma classificação da indústria de baterias, definindo a capacidade de uma bateria de alimentar um veículo com um alternador ou cinto de ventilador inoperante. |
-| - | A classificação é o número de minutos que uma bateria a 26,7 Â°C (80 Â°F) pode ser descarregada a 25 amperes e manter uma tensão de 10,5 volts para uma bateria de 12 volts. |
-| - | O maior o rating de reserva, maior o tempo que seu veículo pode operar se seu alternador ou cinto de ventilador falhar. |
+| • | CAPACIDADE DE RESERVA (RC) : A Capacidade de Reserva é uma classificação da indústria de baterias, definindo a capacidade de uma bateria de alimentar um veículo com um alternador ou correia de ventilador inoperante. |
+| - | A classificação é o número de minutos que uma bateria a 26,7 °C (80 °F) pode ser descarregada a 25 amperes e manter uma tensão de 10,5 volts para uma bateria de 12 volts. |
+| - | O maior o rating de reserva, maior o tempo que seu veículo pode operar se seu alternador ou correia de ventilador falhar. |
 
 Sistema de Arranque
 

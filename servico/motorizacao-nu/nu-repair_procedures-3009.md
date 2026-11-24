@@ -4,7 +4,7 @@
 
 ## Inspeção
 
-[TESTE DE PERDA EVAP. ]
+### TESTE DE PERDA EVAP.
 
 1. Selecione "Teste de Perda Evap.".
 
@@ -14,7 +14,7 @@
 
    ![](../../images/repair_procedures-3009/2840/sfdec9108n.gif)
 
-[INSPEÇÃO PCSV]
+### INSPEÇÃO PCSV
 
 1. Desligue o interruptor de ignição e desconecte o cabo negativo (-) da bateria.
 
@@ -38,5 +38,5 @@
 
    ```
    Especificações :
-   22,0 ~ 26,0 ? [20Â°C(68Â°F)]
+   22,0 ~ 26,0 ? [20°C(68°F)]
    ```

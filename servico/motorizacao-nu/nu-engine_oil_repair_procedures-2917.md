@@ -85,9 +85,9 @@ Especificações:
 
 5W-20 / API SM & ILSAC GF-4 (ou superior) / ACEA A5 (ou superior)
 
-| â€¢ Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. |  |
+| • Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. |  |
 | --- | --- |
-| â€¢ Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. |
+| • Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. |
 
 Permissão para Viscosidade SAE
 

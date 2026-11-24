@@ -25,13 +25,13 @@ Sistema de Carregamento
 | Luz queimada | Substituição da luz |  |
 | Conexão de fiação solta | Ajuste a conexão solta |  |
 | Regulador de tensão eletrônico | Se a luz se apagar, substituir o regulador de tensão. |  |
-| Indicador de carregamento não se apaga com motor em funcionamento. (Bateria requer recarga frequente) | Cinto de transmissão solto ou gasto | Ajuste a tensão do cinto ou substitua o cinto |
+| Indicador de carregamento não se apaga com motor em funcionamento. (Bateria requer recarga frequente) | Correia de acessórios solto ou gasto | Ajuste a tensão da correia ou substitua a correia |
 | Conexão de fiação da bateria solta, corroída ou gasta | Inspeção da conexão do fio, reparo ou substituição do fio |  |
 | Regulador de tensão eletrônico ou alternador | Se a luz se apagar, substitua o regulador de tensão ou o alternador |  |
 | Fiação | Reparo ou substituição do fio |  |
 | Sobrecarregamento | Regulador de tensão eletrônico | Se a luz se apagar, substitua o regulador de tensão. |
 | Fio de medição de tensão | Reparo ou substituição do fio |  |
-| Descarga | Cinto de transmissão solto ou gasto | Ajuste a tensão do cinto ou substitua o cinto |
+| Descarga | Correia de acessórios solto ou gasto | Ajuste a tensão da correia ou substitua a correia |
 | Conexão de fiação solta ou curto-circuito | Inspeção da conexão do fio, reparo ou substituição do fio |  |
 | Regulador de tensão eletrônico ou alternador | Se a luz se apagar, substitua o regulador de tensão ou o alternador |  |
 | Bateria com mau contato | Inspeção do contato ou reparo |  |

@@ -14,23 +14,23 @@
 
 > **Aviso**
 >
-> - NÃO remova o sensor de posição do camarão durante a operação do motor ou imediatamente após a parada do motor, ou ocorrerá uma queimadura pelo óleo do motor que escorre.
+> - NÃO remova o sensor de posição do comando de válvulas durante a operação do motor ou imediatamente após a parada do motor, ou ocorrerá uma queimadura pelo óleo do motor que escorre.
 
-[Banho 1 / Intalação]
+### Banho 1 / Intalação
 
 1. Desligue o interruptor de ignição e desconecte o cabo negativo (-) da bateria.
 
-2. Desconecte o conectador do sensor de posição do camarão (B) após remover o gancho (A).
+2. Desconecte o conectador do sensor de posição do comando de válvulas (B) após remover o gancho (A).
 
 3. Remova a viga de fixação (C), e então remova o sensor.
 
    ![](../../images/camshaft_position_sensor_cmps_repair_procedures-3053/2840/smdfl1071n.gif)
 
-[Banho 1 / Exaustão]
+### Banho 1 / Exaustão
 
 1. Desligue o interruptor de ignição e desconecte o cabo negativo (-) da bateria.
 
-2. Desconecte o conectador do sensor de posição do camarão (B) após remover o gancho (A).
+2. Desconecte o conectador do sensor de posição do comando de válvulas (B) após remover o gancho (A).
 
 3. Remova a viga de fixação (C), e então remova o sensor.
 
@@ -59,6 +59,6 @@
 1. A instalação é o inverso da remoção.
 
    ```
-   Torque do parafuso de instalação do sensor de posição do camarão :
+   Torque do parafuso de instalação do sensor de posição do comando de válvulas :
    9,8 ~ 11,8 N.m (1,0 ~ 1,2 kgf.m, 7,2 ~ 8,7 lb-ft)
    ```

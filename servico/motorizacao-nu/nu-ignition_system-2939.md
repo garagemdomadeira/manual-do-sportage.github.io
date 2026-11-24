@@ -32,15 +32,15 @@ Inspeção do conjunto do bobinado de ignição e teste de chama
 
    (2) Remova os bobinados de ignição.
 
-   (3) Usando uma chave de chama de bobina, remova as chamas de ignição.
+   (3) Usando uma chave para vela de ignição de bobina, remova as velas de ignição.
 
    (4) Desconecte as conexões de extensão dos injetores.
 
-   (5) Terceirize a chama de ignição ao motor.
+   (5) Terceirize a vela de ignição ao motor.
 
     ![](../../images/ignition_system-2939/2840/shdee6003d.gif)
 
-   (6) Verifique se ocorrem chamas em cada chama de ignição enquanto o motor estiver sendo girado.
+   (6) Verifique se ocorrem chamas em cada vela de ignição enquanto o motor estiver sendo girado.
 
    > **Nota**
    >
@@ -50,7 +50,7 @@ Inspeção do conjunto do bobinado de ignição e teste de chama
 
    ![](../../images/ignition_system-2939/2840/sjdee3001l.gif)
 
-4. Usando uma chave de chama de bobina, instale as chamas de ignição.
+4. Usando uma chave para vela de ignição de bobina, instale as velas de ignição.
 
 5. Instale os bobinados de ignição.
 
@@ -60,7 +60,7 @@ Inspeção do conjunto do bobinado de ignição e teste de chama
 
 ## Descrição
 
-Um bobinado de ignição é um transformador de indução no sistema de ignição do motor que transforma a tensão baixa da bateria em uma tensão alta necessária para criar um facho elétrico nas chamas de ignição para iniciar a combustão do combustível. Os bobinados têm um resistor interno, enquanto outros dependem de um resistor de fio ou de um resistor externo para limitar a corrente que flui do suprimento de 12 V da bateria para o bobinado.
+Um bobinado de ignição é um transformador de indução no sistema de ignição do motor que transforma a tensão baixa da bateria em uma tensão alta necessária para criar um facho elétrico nas velas de ignição para iniciar a combustão do combustível. Os bobinados têm um resistor interno, enquanto outros dependem de um resistor de fio ou de um resistor externo para limitar a corrente que flui do suprimento de 12 V da bateria para o bobinado.
 
 ## Especificações do Bobinado de Ignição
 
@@ -68,8 +68,8 @@ Um bobinado de ignição é um transformador de indução no sistema de igniçã
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado Primário (?) | 0,61 Â± 15% [20Â°C (68Â°F)] |
-| Resistência do Bobinado Secundário (k?) | 7,5 Â± 15% [20Â°C (68Â°F)] |
+| Resistência do Bobinado Primário (?) | 0,61 ± 15% [20°C (68°F)] |
+| Resistência do Bobinado Secundário (k?) | 7,5 ± 15% [20°C (68°F)] |
 
 ## Diagrama Schematico do Bobinado de Ignição
 
@@ -113,7 +113,7 @@ Um bobinado de ignição é um transformador de indução no sistema de igniçã
    ![](../../images/ignition_system-2939/2840/slfee5218n.gif)
 
    ```
-   Valor padrão: 0,61 ? Â± 15%
+   Valor padrão: 0,61 ? ± 15%
    ```
 
 ## Descrição e Operação do Filtro de Chama
@@ -137,7 +137,7 @@ Um filtro de chama é um dispositivo para fornecer corrente elétrica de um sist
 
 ## Inspeção
 
-[Inspeção no veículo]
+### Inspeção no veículo
 
 1. Acelere o motor até cerca de 3.000 rpm 3 vezes ou mais.
 
@@ -149,7 +149,7 @@ Um filtro de chama é um dispositivo para fornecer corrente elétrica de um sist
 
    Se o eletrodo estiver úmido, verifique o dano e o intervalo do eletrodo conforme abaixo.
 
-[Inspeção do Componente]
+### Inspeção do Componente
 
 1. Verifique o filtro de chama para qualquer dano em sua rosca e isolador.
 
@@ -184,7 +184,7 @@ Um filtro de chama é um dispositivo para fornecer corrente elétrica de um sist
 
 A combustão fica temporariamente instável devido ao combustível envelhecido e aos depósitos de carbono acumulados nas pinhas de ignição após o armazenamento a longo prazo.
 
-[1ª Método]
+### 1ª Método
 
 1. Inicie o motor e mantenha-o em idle por 2 minutos.
 
@@ -194,7 +194,7 @@ A combustão fica temporariamente instável devido ao combustível envelhecido e
 
    ![](../../images/ignition_system-2939/2840/sjdee3005l.gif)
 
-[2ª Método]
+### 2ª Método
 
 > **Nota**
 >
@@ -216,7 +216,7 @@ A combustão fica temporariamente instável devido ao combustível envelhecido e
 
    (Consulte o Sistema de Ignição - "Coímbulo de Ignição")
 
-2. Usando uma chave de pinha de ignição, remova a pinha de ignição (A).
+2. Usando uma chave para vela de ignição, remova a vela de ignição (A).
 
    > **Nota**
    >

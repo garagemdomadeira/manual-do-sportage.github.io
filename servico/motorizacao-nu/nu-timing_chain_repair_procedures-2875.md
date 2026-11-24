@@ -6,25 +6,25 @@
 
 1. Remova a tampa do cabeçote do cilindro.
 
-   (Consulte a Montagem do Cabeçote do Cilindro - "Tampa do Cabeçote do Cilindro")
+   (Consulte a Conjunto do cabeçote - "Tampa do Cabeçote do Cilindro")
 
 2. Ajuste o cilindro nº1 para o TDC (Top dead center) na compressão.
 
-   (1) Vire o volante do eixo do crankshaft e alinhe a sua vagem com a marca do timing chain cover.
+   (1) Vire o volante do virabrequim e alinhe o seu entalhe com a marca da tampa da corrente de comando.
 
     ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60027n.gif)
 
-   (2) Verifique se as marcas TDC das correntes de admissão e exaustão CVVT estão alinhadas na superfície do cabeçote do cilindro, conforme ilustrado. Se não estiverem, vire o eixo do crankshaft mais uma revolução (360°).
+   (2) Verifique se as marcas TDC das correntes de admissão e exaustão CVVT estão alinhadas na superfície do cabeçote do cilindro, conforme ilustrado. Se não estiverem, vire o virabrequim mais uma revolução (360°).
 
     ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60028n.gif)
 
     > **Nota**
     >
-    > - Não vire o volante do eixo do crankshaft no sentido contrário ao horário do relógio.
+    > - Não vire o volante do virabrequim no sentido contrário ao horário do relógio.
 
 3. Remova a tampa da cadeia de alinhamento.
 
-   (Consulte o Sistema de Alineação - "Tampa da Cadeia de Alineação")
+   (Consulte o Sistema de Alinhamento - "Tampa da Cadeia de Alinhamento")
 
 4. Remova o amortecedor de tensão da cadeia (A).
 
@@ -60,7 +60,7 @@
 
 Sprockets, Amortecedor de Tensão, Guia da Cadeia, Braço do Amortecedor de Tensão
 
-1. Verifique os sprockets de CVVT e o sprocket do eixo do crankshaft para desgaste anormal, rachaduras ou danos. Substitua se necessário.
+1. Verifique os engrenagens de CVVT e o engrenagem do virabrequim para desgaste anormal, rachaduras ou danos. Substitua se necessário.
 
 2. Inspeção do braço do amortecedor de tensão e do guia da cadeia para desgaste anormal, rachaduras ou danos. Substitua se necessário.
 
@@ -68,7 +68,7 @@ Sprockets, Amortecedor de Tensão, Guia da Cadeia, Braço do Amortecedor de Tens
 
 ## Instalação
 
-1. As marcas TDC das correntes de admissão e exaustão do CVVT estão ligeiramente desalinhadas do TDC quando a corrente de sincronização é removida.
+1. As marcas TDC das correntes de admissão e exaustão do CVVT estão ligeiramente desalinhadas do TDC quando a corrente de comando é removida.
 
    ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60033n.gif)
 
@@ -76,7 +76,7 @@ Sprockets, Amortecedor de Tensão, Guia da Cadeia, Braço do Amortecedor de Tens
 
    ![](../../images/timing_chain_repair_procedures-2875/2840/SMDM11080L.gif)
 
-3. Instale o guia da corrente de sincronização (A).
+3. Instale o guia da corrente de comando (A).
 
    ```
    Torque de aperto:
@@ -85,7 +85,7 @@ Sprockets, Amortecedor de Tensão, Guia da Cadeia, Braço do Amortecedor de Tens
 
    ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60032n.gif)
 
-4. Instale o braço do regulador de tensão da corrente de sincronização (A).
+4. Instale o braço do regulador de tensão da corrente de comando (A).
 
    ```
    Torque de aperto:
@@ -94,28 +94,28 @@ Sprockets, Amortecedor de Tensão, Guia da Cadeia, Braço do Amortecedor de Tens
 
    ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60030n.gif)
 
-5. Instale a corrente de sincronização.
+5. Instale a corrente de comando.
 
-   Eixo do pistão > Guia da corrente de sincronização > Corrente de admissão do CVVT > Corrente de exaustão do CVVT
+   Eixo do pistão > Guia da corrente de comando > Corrente de admissão do CVVT > Corrente de exaustão do CVVT
 
-   (1) Instale a corrente de sincronização sem tensão entre o eixo do pistão e a corrente de admissão do CVVT.
+   (1) Instale a corrente de comando sem tensão entre o eixo do pistão e a corrente de admissão do CVVT.
 
     ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60131n.gif)
 
     > **Nota**
     >
-    > - As marcas de sincronização de cada corrente devem estar alinhadas com as marcas de sincronização (ligação de cor) da corrente de sincronização durante a instalação da corrente de sincronização.
+    > - As marcas de sincronização de cada corrente devem estar alinhadas com as marcas de sincronização (ligação de cor) da corrente de comando durante a instalação da corrente de comando.
 
-   (2) Instale a corrente de sincronização na corrente de exaustão do CVVT sem tensão enquanto a montagem do CVVT é girada no sentido horário.
+   (2) Instale a corrente de comando na corrente de exaustão do CVVT sem tensão enquanto a montagem do CVVT é girada no sentido horário.
 
     ![](../../images/timing_chain_repair_procedures-2875/2840/sadem60191n.gif)
 
     > **Nota**
     >
-    > - A marca de sincronização da corrente de exaustão do CVVT deve estar alinhada com a marca de sincronização (ligação de cor) da corrente de sincronização durante a instalação da corrente de sincronização.
-    > - Comprenda as ligações da corrente de sincronização na corrente de exaustão do CVVT para prevenir a rotação do sprocket.
+    > - A marca de sincronização da corrente de exaustão do CVVT deve estar alinhada com a marca de sincronização (ligação de cor) da corrente de comando durante a instalação da corrente de comando.
+    > - Comprenda as ligações da corrente de comando na corrente de exaustão do CVVT para prevenir a rotação do engrenagem.
 
-6. Instale o regulador de tensão automático da corrente de sincronização (A) e remova a viga de parada (B).
+6. Instale o regulador de tensão automático da corrente de comando (A) e remova a viga de parada (B).
 
    ```
    Torque de aperto:

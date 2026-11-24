@@ -6,7 +6,7 @@
 
 1. Remova a corrente dentada.
 
-   (Consulte o Sistema de Alineação - "Corrente Dentada")
+   (Consulte o Sistema de Alinhamento - "Corrente Dentada")
 
 2. Remova o rolamento (A).
 

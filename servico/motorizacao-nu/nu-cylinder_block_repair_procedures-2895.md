@@ -11,10 +11,10 @@
 > - Ao lidar com uma borracha metálica, tome cuidado para não dobrar a borracha ou danificar a superfície de contato da borracha.
 > - Para evitar danos, desconecte cuidadosamente os conectores de fiação enquanto segurar a parte do conectador.
 
-| • Marque todos os fios e mangueiras para evitar conexões incorretas. • Vire o pulley do amortecedor do crankshaft para que o pistão nº1 esteja em TDC (Top dead center). |  |
+| • Marque todos os fios e mangueiras para evitar conexões incorretas. • Vire a polia do amortecedor do virabrequim para que o pistão nº1 esteja em TDC (Top dead center). |  |
 | --- | --- |
 | • | Marque todos os fios e mangueiras para evitar conexões incorretas. |
-| • | Vire o pulley do amortecedor do crankshaft para que o pistão nº1 esteja em TDC (Top dead center). |
+| • | Vire a polia do amortecedor do virabrequim para que o pistão nº1 esteja em TDC (Top dead center). |
 
 1. Remova a unidade do motor do veículo.
 
@@ -36,7 +36,7 @@
 
 5. Instale o motor em um suporte para desmontagem.
 
-6. Remova a corrente de sincronização.
+6. Remova a corrente de comando.
 
    (Consulte Sistema de Sincronização - "Corrente de Sincronização")
 
@@ -76,17 +76,17 @@
 
     (Consulte Bloco do Cilindro - "Pistão e Eixo de Ligação")
 
-16. Remova o eixo do crankshaft.
+16. Remova o virabrequim.
 
-    (Consulte Bloco do Cilindro - "Eixo do Crankshaft")
+    (Consulte Bloco do Cilindro - "Virabrequim")
 
 17. Remova o sensor de batida.
 
     (Consulte Sistema de Controle do Motor/Sistema de Combustível - "Sensor de Batida (KS)")
 
-18. Remova o sensor de posição do eixo do crankshaft (CKPS).
+18. Remova o sensor de posição do virabrequim (CKPS).
 
-    (Consulte Sistema de Controle do Motor/Sistema de Combustível - "Sensor de Posição do Eixo do Crankshaft (CKPS)")
+    (Consulte Sistema de Controle do Motor/Sistema de Combustível - "Sensor de Posição do Virabrequim (CKPS)")
 
 19. Remova o interruptor de pressão de óleo.
 

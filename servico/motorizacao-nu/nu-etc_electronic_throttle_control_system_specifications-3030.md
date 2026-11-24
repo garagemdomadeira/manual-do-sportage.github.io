@@ -4,7 +4,7 @@
 
 ## Especificações
 
-| Ângulo do Chave de Arrefecimento (Â°) | Tensão de Saída (V) [Vref = 5,0V] |  |
+| Ângulo da Borboleta (°) | Tensão de Saída (V) [Vref = 5,0V] |  |
 | --- | --- | --- |
 | TPS1 | TPS2 |  |
 | 0 | 0,5 | 4,5 |
@@ -23,8 +23,8 @@
 
 ![](../../images/etc_electronic_throttle_control_system_specifications-3030/2840/smdfl1555n.gif)
 
-[Motor ETC]
+### Motor ETC
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (?) | 0,3 ~ 100 [20Â°C(68Â°F)] |
+| Resistência do Bobinado (?) | 0,3 ~ 100 [20°C(68°F)] |
