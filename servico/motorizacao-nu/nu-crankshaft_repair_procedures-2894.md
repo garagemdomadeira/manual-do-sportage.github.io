@@ -11,10 +11,10 @@
 > - Ao manipular uma borracha metálica, tenha cuidado para não dobrar a borracha ou danificar a superfície de contato da borracha.
 > - Para evitar danos, desconecte cuidadosamente os conectores de fiação mantendo a parte do conectador.
 
-| • Marque todos os fios e mangueiras para evitar conexões incorretas. • Vire a roda do comando para que o pistão nº1 esteja no TDC (Top dead center). |  |
+| • Marque todos os fios e mangueiras para evitar conexões incorretas. • Vire a roda do timão para que o pistão nº1 esteja no TDC (Top dead center). |  |
 | --- | --- |
 | • | Marque todos os fios e mangueiras para evitar conexões incorretas. |
-| • | Vire a roda do comando para que o pistão nº1 esteja no TDC (Top dead center). |
+| • | Vire a roda do timão para que o pistão nº1 esteja no TDC (Top dead center). |
 
 1. Remova a unidade do motor do veículo.
 
@@ -36,7 +36,7 @@
 
 5. Instale o motor em um suporte para desmontagem.
 
-6. Remova a corrente de comando.
+6. Remova a corrente de sincronização.
 
    (Consulte o Sistema de Sincronização - "Corrente de Sincronização")
 
@@ -76,11 +76,11 @@
 
     (Consulte o Bloco do Cilindro - "Pistão e Biela")
 
-16. Verifique a tolerância de lubrificação do rolo do comando.
+16. Verifique a tolerância de lubrificação do rolo do timão.
 
-17. Remova a caixa de baixo do comando (A).
+17. Remova a caixa de baixo do timão (A).
 
-    (1) Remova as varetas de fixação da caixa de baixo do comando.
+    (1) Remova as varetas de fixação da caixa de baixo do timão.
 
      ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11120L.gif)
 
@@ -88,27 +88,27 @@
 
      ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11121L.gif)
 
-18. Verifique o deslocamento final do comando.
+18. Verifique o deslocamento final do timão.
 
-19. Levante o comando (A) do motor, cuidando para não danificar os rolos.
+19. Levante o timão (A) do motor, cuidando para não danificar os rolos.
 
      ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11122L.gif)
 
      **Nota**
      >
-     > - Disponha as mancais principais e as casquilhos de rotação no ordem correta.
+     > - Disponha as rolhas principais e as rolhas de rotação no ordenamento correto.
 
 ## Inspeção
 
-1. Verifique a folga de óleo entre o virabrequim e as casquilhos.
+1. Verifique a clearance de óleo entre o eixo do crankshaft e as rolhas.
 
-   (1) Para verificar a folga de óleo entre as mancais principais e os eixos, remova a parte inferior da caixa do cárter e as mancais principais.
+   (1) Para verificar a clearance de óleo entre as rolhas principais e os eixos, remova a parte inferior da caixa do crankcase e as rolhas principais.
 
-   (2) Limpe cada munhão principal e casquilho com uma toalha de oficina limpa.
+   (2) Limpe cada eixo principal e rolha com uma toalha de oficina limpa.
 
-   (3) Coloque uma faixa de plastigage em cada munhão principal.
+   (3) Coloque uma faixa de plastigage em cada eixo principal.
 
-   (4) Reinstale a parte inferior do cárter e as mancais principais, e depois aperte as engrenagens principais.
+   (4) Reinstale a parte inferior do crankcase e as rolhas principais, e depois aperte as engrenagens principais.
 
     ```
     Torque de aperto
@@ -119,30 +119,30 @@
 
     > **Nota**
     >
-    > - Não gire o virabrequim.
+    > - Não gire o crankshaft.
 
-   (5) Remova a parte inferior do cárter e as mancais principais.
+   (5) Remova a parte inferior do crankcase e as rolhas principais.
 
    (6) Meda a largura da faixa de plastigage em seu ponto mais largo.
 
     ```
-    Folga de óleo:
+    Clearance de óleo:
     0,016 ~ 0,034 mm (0,00063 ~ 0,00134 in.)
     ```
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11128L.gif)
 
-   (7) Se a faixa de plastigage medir muito larga ou muito estreita, remova as casquilhos superiores e inferiores e, em seguida, instale novas casquilhos com a mesma marca de cor. Repita a medição da folga de óleo.
+   (7) Se a faixa de plastigage medir muito larga ou muito estreita, remova as rolhas superiores e inferiores e, em seguida, instale novas rolhas com a mesma marca de cor. Repita a medição da clearance de óleo.
 
     > **Nota**
     >
-    > - Não filete, ajuste com um rechageamento ou esfregue as casquilhos ou as tampas para ajustar a folga.
+    > - Não filete, ajuste com um rechageamento ou esfregue as rolhas ou as tampas para ajustar a clearance.
 
-   (8) Se a faixa de plastigage indicar que a folga ainda está incorreta, tente a casquilho de tamanho maior ou menor. Repita a medição da folga de óleo.
+   (8) Se a faixa de plastigage indicar que a clearance ainda está incorreta, tente a rolha de tamanho maior ou menor. Repita a medição da clearance de óleo.
 
     > **Nota**
     >
-    > - Se a folga correta não puder ser obtida usando as casquilhos de tamanho maior ou menor apropriadas, substitua o virabrequim e comece novamente.
+    > - Se a clearance correta não puder ser obtida usando as rolhas de tamanho maior ou menor apropriadas, substitua o crankshaft e comece novamente.
 
     > **Nota**
     >
@@ -152,9 +152,9 @@
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11129L.gif)
 
-    Letras foram estampadas no bloco como marca para o diâmetro interno de cada um dos 5 munhões principais.
+    Letras foram estampadas no bloco como marca para o diâmetro interno de cada um dos 5 eixos principais.
 
-    Use-as, juntamente com os números ou barra estampada no crank (marcas para o diâmetro do munhão principal), para escolher as casquilhos corretas.
+    Use-as, juntamente com os números ou barra estampada no crank (marcas para o diâmetro do eixo principal), para escolher as rolhas corretas.
 
     Especificações do Bloco do Motor
 
@@ -164,7 +164,7 @@
     | b | B | 59,006 ~ 59,012 mm (2,32307 ~ 2,32330 in.) |
     | c | C | 59,012 ~ 59,018 mm (2,32330 ~ 2,32354 in.) |
 
-    Marca do Virabrequim
+    Marca do Eixo do Crankshaft
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11528L.gif)
 
@@ -172,7 +172,7 @@
     >
     > - Conforme a ordem de estampagem indicada pela seta, a partir do #1.
 
-    Especificações do Virabrequim
+    Especificações do Crankshaft
 
     | Classe | Marca | Diâmetro Externo do Eixo |
     | --- | --- | --- |
@@ -180,13 +180,13 @@
     | II | 2 | 54,948 ~ 54,954 mm (2,16330 ~ 2,16354 in.) |
     | III | 3 | 54,942 ~ 54,948 mm (2,16307 ~ 2,16330 in.) |
 
-    Marca do Casquilho do Virabrequim
+    Marca da Rolha do Crankshaft
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11130L.gif)
 
-    Especificações do Casquilho do Virabrequim
+    Especificações da Rolha do Crankshaft
 
-    | Classe | Marca | Espessura da Casquilho |
+    | Classe | Marca | Espessura da Rolha |
     | --- | --- | --- |
 
 | A | Azul | 2,021 ~ 2,024 mm (0,07957 ~ 0,07968 in.) |
@@ -195,21 +195,21 @@
     | D | Verde | 2,012 ~ 2,015 mm (0,07921 ~ 0,07933 in.) |
     | E | Amarelo | 2,009 ~ 2,012 mm (0,07909 ~ 0,07921 in.) |
 
-   (9) Selecione um rolamento do virabrequim usando o gráfico de seleção.
+   (9) Selecione um rolamento do eixo do crankshaft usando o gráfico de seleção.
 
-    Gráfico de Seleção Para Rolamentos do Virabrequim
+    Gráfico de Seleção Para Rolamentos do Eixo do Crankshaft
 
-    | Classificação de Montagem do Rolamento | Marcação de Identificação do Bore do Virabrequim | --- | --- | --- |
+    | Classificação de Montagem do Rolamento | Marcação de Identificação do Bore do Crankshaft | --- | --- | --- |
     | a (A) | b (B) | c (C) | | |
-    | Marcação de Identificação do Virabrequim | I (1) | E (Amarelo) | D (Verde) | C (Nenhum) |
+    | Marcação de Identificação do Crankshaft | I (1) | E (Amarelo) | D (Verde) | C (Nenhum) |
     | II (2) | D (Verde) | C (Nenhum) | B (Preto) | |
     | III (3) | C (Nenhum) | B (Preto) | A (Azul) | |
 
-2. Verifique a folga axial do virabrequim.
+2. Verifique o play final do eixo do crankshaft.
 
-   Usando um indicador de dial, medir a folga de thrust enquanto empurra o virabrequim de um lado para o outro com uma furadeira.
+   Usando um indicador de dial, medir a clearance de thrust enquanto empurra o eixo do crankshaft de um lado para o outro com uma furadeira.
 
-   Se a folga axial for maior que o máximo, substitua o rolamento central.
+   Se o play final for maior que o máximo, substitua o rolamento central.
 
    ```
    Play final
@@ -218,14 +218,14 @@
 
    ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11131L.gif)
 
-3. Inspeção dos journals principais e das engrenagens do virabrequim.
+3. Inspeção dos journals principais e das engrenagens do eixo do crankshaft.
 
-   Usando um micrômetro, medir o diâmetro de cada journal principal e engrenagem do virabrequim.
+   Usando um micrômetro, medir o diâmetro de cada journal principal e engrenagem do eixo do crankshaft.
 
    ```
    Diâmetro do journal principal:
    54,942 ~ 54,960 mm (2,16307 ~ 2,16378 in.)
-   Diâmetro da engrenagem do virabrequim:
+   Diâmetro da engrenagem do eixo do crankshaft:
    44,954 ~ 44,972 mm (1,76984 ~ 1,77055 in.)
    ```
 
@@ -238,7 +238,7 @@
 > - Limpe todos os componentes a serem montados.
 > - Antes de instalar os componentes, aplique óleo de motor fresco em todas as superfícies deslizantes e rotativas.
 
-1. Monte as rolamentos principais do virabrequim.
+1. Monte as rolamentos principais do crankshaft.
 
    > **Nota**
    >
@@ -248,7 +248,7 @@
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11137L.gif)
 
-   (2) Alinhe a garrucha do rolamento com o sulco da parte inferior do virabrequim (B) e empurre os 5 rolamentos inferiores (A).
+   (2) Alinhe a garrucha do rolamento com o sulco da parte inferior do crankshaft (B) e empurre os 5 rolamentos inferiores (A).
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11531L.gif)
 
@@ -258,17 +258,17 @@
 
    ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11133L.gif)
 
-3. Coloque o virabrequim (A) no bloco do cilindro.
+3. Coloque o crankshaft (A) no bloco do cilindro.
 
    ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11122L.gif)
 
-4. Aplique selante líquido na superfície superior da parte inferior do virabrequim.
+4. Aplique selante líquido na superfície superior da parte inferior do crankshaft.
 
    (1) Usando um raspador de gasket, remova todo o material antigo de vedação das superfícies do gasket.
 
-   (2) As localizações do selante na parte inferior do virabrequim e no bloco do cilindro devem estar livres de materiais estranhos prejudiciais, óleo, poeira e umidade. Espere a superfície secar e limpe com limpa-vidros.
+   (2) As localizações do selante na parte inferior do crankshaft e no bloco do cilindro devem estar livres de materiais estranhos prejudiciais, óleo, poeira e umidade. Espere a superfície secar e limpe com limpa-vidros.
 
-   (3) Monte um novo gasket de borracha (A) na parte superior da parte inferior do virabrequim.
+   (3) Monte um novo gasket de borracha (A) na parte superior da parte inferior do crankshaft.
 
     ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11132L.gif)
 
@@ -283,13 +283,13 @@
 
     > **Cautela**
     >
-    > - Monte a parte inferior do virabrequim dentro de 5 minutos após a aplicação do selante.
-    > - O teste de pressão ou o funcionamento do motor não deve ser realizado dentro de 30 minutos após a montagem da parte inferior do virabrequim.
+    > - Monte a parte inferior do crankshaft dentro de 5 minutos após a aplicação do selante.
+    > - O teste de pressão ou o funcionamento do motor não deve ser realizado dentro de 30 minutos após a montagem da parte inferior do crankshaft.
     > - O excesso de selante na superfície de aplicação do selante em processos subsequentes deve ser removido antes de endurecer.
-    > - Se o selante for aplicado na superfície superior da parte inferior do virabrequim, deve estar na mesma posição do bloco do cilindro.
+    > - Se o selante for aplicado na superfície superior da parte inferior do crankshaft, deve estar na mesma posição do bloco do cilindro.
     > - Para prevenir vazamento de óleo, aplique um selante de gasket nas fendas internas das fendas dos buracos das porcas.
 
-5. Coloque a parte inferior do virabrequim no bloco do cilindro.
+5. Coloque a parte inferior do crankshaft no bloco do cilindro.
 
 6. Monte as porcas de capa do rolamento principal.
 
@@ -327,17 +327,17 @@
 
    ![](../../images/crankshaft_repair_procedures-2894/2840/SMDM11539L.gif)
 
-   Verifique que o virabrequim roda suavemente.
+   Verifique que o eixo do motor roda suavemente.
 
-8. Verifique a folga axial do virabrequim.
+8. Verifique o play final do eixo do motor.
 
 9. Monte as outras partes na ordem inversa à desmontagem.
 
-| • No caso de substituição do virabrequim por um novo, selecione o
-  mancal da biela adequado de acordo com a marca do eixo do
-  pistão no virabrequim. - Seleção do mancal da biela (Consulte Bloco do Cilindro - "Pistão e Braço do Pistão") |  |
+| • No caso de substituição do eixo do motor por um novo, selecione o
+  rolamento do braço do pistão adequado de acordo com a marca do eixo do
+  pistão no eixo do motor. - Seleção do rolamento do braço do pistão (Consulte Bloco do Cilindro - "Pistão e Braço do Pistão") |  |
 | --- | --- |
-| • | No caso de substituição do virabrequim por um novo, selecione o
-  mancal da biela adequado de acordo com a marca do eixo do
-  pistão no virabrequim. |
-| - | Seleção do mancal da biela (Consulte Bloco do Cilindro - "Pistão e Braço do Pistão") |
+| • | No caso de substituição do eixo do motor por um novo, selecione o
+  rolamento do braço do pistão adequado de acordo com a marca do eixo do
+  pistão no eixo do motor. |
+| - | Seleção do rolamento do braço do pistão (Consulte Bloco do Cilindro - "Pistão e Braço do Pistão") |

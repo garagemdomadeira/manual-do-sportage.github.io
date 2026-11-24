@@ -4,19 +4,19 @@
 
 ## Descrição
 
-O sistema de Variação Contínua do Tempo de Abertura das Válvulas (CVVT) avança ou atrasa o tempo de abertura das válvulas de admissão e exaustão de acordo com o sinal de controle do ECM, que é calculado com base na velocidade do motor e no carregamento.
+O sistema de Variação Contínua do Tempo de Abertura das Valves (CVVT) avança ou atrasa o tempo de abertura das válvulas de admissão e exaustão de acordo com o sinal de controle do ECM, que é calculado com base na velocidade do motor e no carregamento.
 
 Controlando o CVVT, ocorre o sobreposição ou subordem das válvulas, o que melhora a economia de combustível e reduz as emissões de gases de escape (NOx, HC) e melhora o desempenho do motor através da redução da perda de bombeamento, do efeito de EGR interno, da estabilidade da combustão, da eficiência volumétrica e do trabalho de expansão.
 
 Este sistema consiste em
 
-| - | o Valvulário de Controle de Óleo do CVVT (OCV) que fornece óleo do motor ao variador de fase do comando ou despeja o óleo do motor do variador de fase do comando de acordo com o sinal de controle PWM (Pulse With Modulation) do ECM, |
+| - | o Valvulário de Controle de Óleo do CVVT (OCV) que fornece óleo do motor ao faseador do timoneiro ou despeja o óleo do motor do faseador do timoneiro de acordo com o sinal de controle PWM (Pulse With Modulation) do ECM, |
 | --- | --- |
 
-| - | e o Variador de Fase do Comando que varia o faseamento do comando usando a força hidráulica do óleo do motor. |
+| - | e o Faseador do Timoneiro que varia o faseamento do timoneiro usando a força hidráulica do óleo do motor. |
 | --- | --- |
 
-O óleo do motor que sai do valvulário de controle de óleo do CVVT varia o faseamento do comando na direção (Avanço de Admissão/Retardo de Exaustão) ou no sentido oposto (Retardo de Admissão/Avanço de Exaustão) da rotação do motor, rotacionando o rotor conectado ao comando dentro do variador de fase do comando.
+O óleo do motor que sai do valvulário de controle de óleo do CVVT varia o faseamento do timoneiro na direção (Avanço de Admissão/Retardo de Exaustão) ou no sentido oposto (Retardo de Admissão/Avanço de Exaustão) da rotação do motor, rotacionando o rotor conectado ao timoneiro dentro do faseador do timoneiro.
 
 ![](../../images/cvvt_amp_camshaft_description_and_operation-2881/2840/sadem60223n.gif)
 
@@ -24,9 +24,9 @@ O óleo do motor que sai do valvulário de controle de óleo do CVVT varia o fas
 
 O CVVT tem o mecanismo de girar o vane do rotor com a força hidráulica gerada pelo óleo do motor suprido ao câmara de avanço ou atraso de acordo com o controle do valvulário de controle de óleo do CVVT.
 
-| • Um solenoide separado está instalado na cobertura da corrente no lado de admissão para fechar e liberar um pincolet separado. |  |
+| â€¢ Um solenoide separado está instalado na cobertura da corrente no lado de admissão para fechar e liberar um pincolet separado. |  |
 | --- | --- |
-| • | Um solenoide separado está instalado na cobertura da corrente no lado de admissão para fechar e liberar um pincolet separado. |
+| â€¢ | Um solenoide separado está instalado na cobertura da corrente no lado de admissão para fechar e liberar um pincolet separado. |
 
 ![](../../images/cvvt_amp_camshaft_description_and_operation-2881/2840/sadem60226n.gif)
 

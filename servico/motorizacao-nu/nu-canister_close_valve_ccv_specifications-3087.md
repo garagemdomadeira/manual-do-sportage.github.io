@@ -6,4 +6,4 @@
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (?) | 19,5 ~ 22,5 [20°C(68°F)] |
+| Resistência do Bobinado (?) | 19,5 ~ 22,5 [20Â°C(68Â°F)] |

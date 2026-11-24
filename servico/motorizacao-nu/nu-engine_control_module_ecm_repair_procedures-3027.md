@@ -71,13 +71,13 @@
 
 ## Procedimento de Verificação de Problemas no ECM
 
-1. TESTAR CIRCUITO DE TERRA DO ECM: Medir a resistência entre o ECM e o chassi de terra usando o lado traseiro do conector do chicote do ECM como ponto de verificação do ECM. Se o problema for encontrado, realize a reparação.
+1. TESTAR CIRCUITO DE CHÃO DO ECM: Medir a resistência entre o ECM e o chassi de chão usando o lado traseiro do conector do harness do ECM como ponto de verificação do ECM. Se o problema for encontrado, realize a reparação.
 
    ```
    Especificação : Menor que 1?
    ```
 
-2. TESTAR CONECTOR DO ECM: Desconecte o conector do ECM e verifique visualmente os terminais de terra do ECM e do chicote para pinos torcidos ou pressão de contato pobre. Se o problema for encontrado, realize a reparação.
+2. TESTAR CONECTOR DO ECM: Desconecte o conector do ECM e verifique visualmente os terminais de chão do ECM e do harness para pinos torcidos ou pressão de contato pobre. Se o problema for encontrado, realize a reparação.
 
 3. Se o problema não for encontrado nos passos 1 e 2, o ECM pode estar danificado. Neste caso, certifique-se de que não houve DTCs antes de trocar o ECM por um novo, e então verifique o veículo novamente. Se DTCs foram encontrados, examine isso primeiro antes de trocar o ECM.
 

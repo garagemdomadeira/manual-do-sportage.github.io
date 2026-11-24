@@ -1,46 +1,46 @@
 # CVVT e comando de válvulas — procedimentos
 
-[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Conjunto do bloco do motor](nu-cylinder_head_assembly-2876.md) / CVVT e comando de válvulas — procedimentos
+[Home](../../index.md) / [Manual de Serviço do Kia Sportage NU](index.md) / [Sistema Mecânico do Motor](nu-engine_mechanical_system-2850.md) / [Montagem do Bloco de Cilindros](nu-cylinder_head_assembly-2876.md) / CVVT e comando de válvulas — procedimentos
 
 ## Remoção
 
 > **Nota**
 >
-> - Use protetores de para-lamas para evitar danos às superfícies pintadas.
+> - Use cobertores de porta-luz para evitar danos às superfícies pintadas.
 > - Para evitar danos, desconecte cuidadosamente os conectores de alimentação, segurando a parte do conector.
 
-| • Marque todos os cabos e mangueiras para evitar a conexão incorreta. • Vire a polia do virabrequim até que o pistão nº 1 esteja no ponto morto superior (PMS). |  |
+| • Marque todos os cabos e mangueiras para evitar a conexão incorreta. • Vire o pulley do eixo do crankshaft até que o pistão No. 1 esteja no topo do centro. |  |
 | --- | --- |
 | • | Marque todos os cabos e mangueiras para evitar a conexão incorreta. |
-| • | Vire a polia do virabrequim até que o pistão nº 1 esteja no ponto morto superior (PMS). |
+| • | Vire o pulley do eixo do crankshaft até que o pistão No. 1 esteja no topo do centro. |
 
-A remoção da tampa da corrente de comando não é necessária para este procedimento.
+A remoção da cobertura da corrente de sincronização não é necessária para este procedimento.
 
-1. Remova a tampa do cabeçote.
+1. Remova a cobertura do cabeçote do cilindro.
 
-   (Consulte a Conjunto do cabeçote - "Tampa do cabeçote")
+   (Consulte a Montagem do Cabeçote do Cilindro - "Cobertura do Cabeçote do Cilindro")
 
-2. Remova o atuador do CVVT intermediário (A).
+2. Remova o atuador do CVVT intermédio (A).
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60023n.gif)
 
-3. Defina o cilindro nº 1 no ponto morto superior (PMS) (PMS) durante a compressão.
+3. Defina o cilindro No. 1 no topo do centro (top dead center) durante a compressão.
 
-   (1) Vire a polia do virabrequim e alinhe o seu entalhe com a marca de sincronização da tampa da corrente de comando.
+   (1) Vire o pulley do eixo do crankshaft e alinhe a sua vagem com a marca de sincronização da cobertura da corrente de sincronização.
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60027n.gif)
 
-   (2) Verifique se as marcas de PMS (TDC) dos engrenagens do CVVT de admissão e exaustão estão alinhadas na superfície do cabeçote do cilindro, como mostrado na ilustração. Se não estiverem, vire o virabrequim mais uma revolução (360°).
+   (2) Verifique se as marcas de topo do centro (TDC) dos sprockets do CVVT de admissão e exaustão estão alinhadas na superfície do cabeçote do cilindro, como mostrado na ilustração. Se não estiverem, vire o eixo do crankshaft mais uma revolução (360°).
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60028n.gif)
 
-   (3) Marque as correntes de sincronização correspondentes às marcas de sincronização dos engrenagens do CVVT.
+   (3) Marque as correntes de sincronização correspondentes às marcas de sincronização dos sprockets do CVVT.
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60038n.gif)
 
-4. Remova o amortecedor da polia do virabrequim.
+4. Remova o amortecedor do pulley do eixo do crankshaft.
 
-   (Consulte o Sistema de Sincronização - "Amortecedor do Polia do Virabrequim")
+   (Consulte o Sistema de Sincronização - "Amortecedor do Pulley do Eixo do Crankshaft")
 
 5. Remova a viga de serviço (A) com o selo (B).
 
@@ -54,11 +54,11 @@ A remoção da tampa da corrente de comando não é necessária para este proced
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60039n.gif)
 
-8. Remova as tampas do eixo de comando.
+8. Remova as tampas do eixo do camshaft.
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60040n.gif)
 
-9. Remova o comando de válvulas de exaustão (A) primeiro, depois o comando de válvulas de admissão (B).
+9. Remova o camshaft de exaustão (A) primeiro, depois o camshaft de admissão (B).
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60041n.gif)
 
@@ -66,47 +66,47 @@ A remoção da tampa da corrente de comando não é necessária para este proced
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60042n.gif)
 
-    | • Para segurar a corrente de comando, amarre-a com uma cinta. | |
+    | • Para segurar a corrente de sincronização, amarre-a com uma cinta. | |
     | --- | --- |
-    | • | Para segurar a corrente de comando, amarre-a com uma cinta. |
+    | • | Para segurar a corrente de sincronização, amarre-a com uma cinta. |
 
-11. Remova a montagem do CVVT (A) do eixo de comando.
+11. Remova a montagem do CVVT (A) do eixo do camshaft.
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60093n.gif)
 
-    | • Ao remover o parafuso do selo do CVVT, segure o eixo de comando com uma chave para prevenir o roteamento do eixo de comando. | |
+    | • Ao remover o parafuso do selo do CVVT, segure o eixo do camshaft com uma chave para prevenir o roteamento do eixo do camshaft. | |
     | --- | --- |
-    | • | Ao remover o parafuso do selo do CVVT, segure o eixo de comando com uma chave para prevenir o roteamento do eixo de comando. |
+    | • | Ao remover o parafuso do selo do CVVT, segure o eixo do camshaft com uma chave para prevenir o roteamento do eixo do camshaft. |
 
 ## Inspeção
 
 Caminhete
 
-1. Inspeção das lâminas do comando.
+1. Inspeção das lâminas do cam.
 
-   Utilize um micrômetro para medir a altura das lâminas do comando.
+   Utilize um micrômetro para medir a altura das lâminas do cam.
 
-   Se a altura das lâminas do comando for menor que a especificação, substitua o comando.
+   Se a altura das lâminas do cam for menor que a especificação, substitua o cam.
 
    ```
-   Altura do comando
+   Altura do cam
    Admissão: 39,0 mm (1,5354 in.)
    Exaustão: 39,0 mm (1,5354 in.)
    ```
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/eckd223a.gif)
 
-2. Verifique a superfície do eixo de comando para desgaste.
+2. Verifique a superfície do eixo do cam para desgaste.
 
-   Se o eixo estiver desgastado excessivamente, substitua o comando.
+   Se o eixo estiver desgastado excessivamente, substitua o cam.
 
-3. Inspeção da vaga do comando.
+3. Inspeção da vaga do cam.
 
-   (1) Limpe as cobertas de suporte e os eixos do comando.
+   (1) Limpe as cobertas de suporte e os eixos do cam.
 
-   (2) Posicione os comando na cabeça do cilindro.
+   (2) Posicione os cam na cabeça do cilindro.
 
-   (3) Coloque uma faixa de plastigage em cada um dos eixos do comando.
+   (3) Coloque uma faixa de plastigage em cada um dos eixos do cam.
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/SMDM11101L.gif)
 
@@ -122,14 +122,14 @@ Caminhete
 
     > **Nota**
     >
-    > - Não gire o comando.
+    > - Não gire o cam.
 
    (5) Remova as cobertas de suporte.
 
    (6) Medida do plastigage no ponto mais largo.
 
     Se a vaga do óleo for maior que a especificação, substitua
-    o comando. Se necessário, substitua as cobertas de suporte e a cabeça do cilindro como um conjunto.
+    o cam. Se necessário, substitua as cobertas de suporte e a cabeça do cilindro como um conjunto.
 
     ```
     Vaga do óleo
@@ -139,37 +139,37 @@ Caminhete
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/SMDM11525L.gif)
 
-4. Inspeção do deslocamento final do comando.
+4. Inspeção do deslocamento final do cam.
 
-   (1) Instale as cobertas de suporte do comando.
+   (1) Instale as cobertas de suporte do cam.
 
-   (2) Utilize um indicador de dial para medir o deslocamento final enquanto move o comando de um lado para o outro.
+   (2) Utilize um indicador de dial para medir o deslocamento final enquanto move o cam de um lado para o outro.
 
-    Se o deslocamento final for maior que a especificação, substitua o comando.
+    Se o deslocamento final for maior que a especificação, substitua o cam.
 
     Se necessário, substitua as cobertas de suporte e a cabeça do cilindro como um conjunto
 
     ```
-    Deslocamento final do comando
+    Deslocamento final do cam
     Padrão:
     0,10 ~ 0,19 mm (0,0039 ~ 0,0075 in.)
     ```
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/SMDM11508L.gif)
 
-   (3) Remova os comando.
+   (3) Remova os cam.
 
 Montagem do tempo de abertura variável contínuamente (CVVT)
 
 1. Inspeção do CVVT para rotação suave.
 
-   (1) Fixe o comando com um vise. Cuide para não danificar as lâminas do comando e os eixos no vise.
+   (1) Fixe o cam com um vise. Cuide para não danificar as lâminas do cam e os eixos no vise.
 
    (2) Verifique se o CVVT está bloqueado girando-o no sentido horário ou anti-horário. Não deve girar.
 
-   (3) CVVT de admissão: Cole uma fita em uma das duas fendas de avanço no eixo de comando.
+   (3) CVVT de admissão: Cole uma fita em uma das duas fendas de avanço no eixo do cam.
 
-    CVVT de exaustão: Cole uma fita em uma das duas fendas de atraso no eixo de comando.
+    CVVT de exaustão: Cole uma fita em uma das duas fendas de atraso no eixo do cam.
 
     ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60043n.gif)
 
@@ -240,7 +240,7 @@ Montagem do tempo de abertura variável contínuamente (CVVT)
 
    > **Nota**
    >
-   > - As marcas de sincronização de cada engrenagem CVVT devem ser alinhadas com as marcas de sincronização (link pintado) da corrente de comando quando se instalar a corrente de comando.
+   > - As marcas de sincronização de cada sprocket CVVT devem ser alinhadas com as marcas de sincronização (link pintado) da corrente de sincronização quando se instalar a corrente de sincronização.
 
 5. Instale as tampas do suporte do cárter.
 
@@ -277,7 +277,7 @@ Montagem do tempo de abertura variável contínuamente (CVVT)
 
 8. Remova o pinho de parada do amortecedor.
 
-9. Vire o cárter do motor duas voltas na direção de operação (horário) e, em seguida, verifique que as marcas TDC dos engrenagens CVVT estejam alinhadas na superfície do cabeçote do cilindro.
+9. Vire o cárter do motor duas voltas na direção de operação (horário) e, em seguida, verifique que as marcas TDC dos sprockets CVVT estejam alinhadas na superfície do cabeçote do cilindro.
 
    ![](../../images/cvvt_amp_camshaft_repair_procedures-2882/2840/sadem60028n.gif)
 

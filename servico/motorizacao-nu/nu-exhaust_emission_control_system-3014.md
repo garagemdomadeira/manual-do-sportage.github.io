@@ -32,7 +32,7 @@ O catalisador do motor a gasolina é um catalisador a três vias. Ele oxida o mo
 
 ![](../../images/exhaust_emission_control_system-3014/2840/sadec60011n.gif)
 
-## Descrição e Operação do Sistema CVVT (Sincronismo Variável Contínuo de Válvulas)
+## Descrição e Operação do Sistema CVVT (Timing Variável Contínuo de Válvulas)
 
 ## Descrição
 
@@ -40,9 +40,9 @@ Sistema de Variação Contínua da Abertura dos Valvulários (CVVT) ajusta o tem
 
 Controlando o CVVT, ocorre uma sobrecruzamento ou subcruzamento dos valvulários, o que melhora a economia de combustível e reduz as emissões de gases de escape (NOx, HC) e melhora o desempenho do motor através da redução da perda de bombagem, do efeito de EGR interno, da estabilidade da combustão, da eficiência volumétrica e do trabalho de expansão.
 
-Este sistema consiste no Valvulário de Controle de Óleo de CVVT (OCV), que fornece óleo do motor ao variador de fase do cárter ou despeja o óleo do motor do variador de fase do cárter de acordo com o sinal de controle PWM (Modulação de Pulso) do ECM, e no Variador de fase do Cárter, que varia o faseamento do cárter usando a força hidráulica do óleo do motor.
+Este sistema consiste no Valvulário de Controle de Óleo de CVVT (OCV), que fornece óleo do motor ao faseador do cárter ou despeja o óleo do motor do faseador do cárter de acordo com o sinal de controle PWM (Modulação de Pulso) do ECM, e no Faseador do Cárter, que varia o faseamento do cárter usando a força hidráulica do óleo do motor.
 
-O óleo do motor que sai do valvulário de controle de óleo de CVVT varia o faseamento do cárter no sentido (Avanço da Admissão/Retardo da Exaustão) ou no sentido oposto (Retardo da Admissão/Avanço da Exaustão) da rotação do motor, rotacionando o rotor conectado ao eixo do cárter dentro do variador de fase do cárter.
+O óleo do motor que sai do valvulário de controle de óleo de CVVT varia o faseamento do cárter no sentido (Avanço da Admissão/Retardo da Exaustão) ou no sentido oposto (Retardo da Admissão/Avanço da Exaustão) da rotação do motor, rotacionando o rotor conectado ao eixo do cárter dentro do faseador do cárter.
 
 ![](../../images/exhaust_emission_control_system-3014/2840/sadem60223n_002.gif)
 

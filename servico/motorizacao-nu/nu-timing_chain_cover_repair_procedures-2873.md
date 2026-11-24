@@ -2,13 +2,13 @@
 
 ## Instalação
 
-1. Instale a tampa da corrente de comando.
+1. Instale a cobertura da corrente de sincronização.
 
    (1) Usando uma escova de selante, remova todo o material de preenchimento antigo das superfícies do selante.
 
-   (2) As localizações do selante na tampa da corrente de comando e nos componentes (carrinho do alavanca, cabeçote do cilindro, bloco do cilindro e caixa inferior do cárter) devem estar livres de materiais estranhos prejudiciais, óleo, poeira e umidade. Limpe a superfície com limpeza e retire com um pano limpo.
+   (2) As localizações do selante na cobertura da corrente de sincronização e nos componentes (carrinho do alavanca, cabeçote do cilindro, bloco do cilindro e caixa inferior do crankcase) devem estar livres de materiais estranhos prejudiciais, óleo, poeira e umidade. Limpe a superfície com limpeza e retire com um pano limpo.
 
-   (3) Antes de montar a tampa da corrente de comando, deve-se aplicar selante líquido no espaço entre o carrinho do alavanca, cabeçote do cilindro e bloco do cilindro.
+   (3) Antes de montar a cobertura da corrente de sincronização, deve-se aplicar selante líquido no espaço entre o carrinho do alavanca, cabeçote do cilindro e bloco do cilindro.
 
     ```
     Largura do pingente: 3,0 ~ 5,0 mm (0,11 ~ 0,20 in.)
@@ -17,7 +17,7 @@
 
     ![](../../images/timing_chain_cover_repair_procedures-2873/2840/sadem60024n.gif)
 
-   (4) Após a aplicação do selante líquido na tampa da corrente de comando, monte a cobertura dentro de 5 minutos após a aplicação do selante. Um pingente contínuo de selante deve ser aplicado para prevenir qualquer caminho de vazamento de óleo.
+   (4) Após a aplicação do selante líquido na cobertura da corrente de sincronização, monte a cobertura dentro de 5 minutos após a aplicação do selante. Um pingente contínuo de selante deve ser aplicado para prevenir qualquer caminho de vazamento de óleo.
 
     ```
     Largura do pingente
@@ -29,7 +29,7 @@
 
     ![](../../images/timing_chain_cover_repair_procedures-2873/2840/sadem60025n.gif)
 
-   (5) Instale a tampa da corrente de comando. As pinetas no bloco do cilindro e os orifícios na tampa da corrente de comando devem ser usados como referência para montar a cobertura na posição exata.
+   (5) Instale a cobertura da corrente de sincronização. As pinetas no bloco do cilindro e os orifícios na cobertura da corrente de sincronização devem ser usados como referência para montar a cobertura na posição exata.
 
     ```
     Torque de aperto
@@ -51,7 +51,7 @@
 
     > **Nota**
     >
-    > - O funcionamento do motor ou teste de pressão não deve ser realizado nos 30 minutos após a montagem da tampa da corrente de comando.
+    > - O funcionamento do motor ou teste de pressão não deve ser realizado nos 30 minutos após a montagem da cobertura da corrente de sincronização.
 
 2. Substitua a selante da frente se necessário.
 
@@ -69,7 +69,7 @@
     > **Nota**
     >
     > - Sempre use novos parafusos do atuador.
-    > - O resíduo dentro do orifício do parafuso da tampa da corrente de comando deve ser descartado antes de selar.
+    > - O resíduo dentro do orifício do parafuso da cobertura da corrente de sincronização deve ser descartado antes de selar.
     > - Os parafusos do atuador devem ser selados com o torque regulamentado.
 
 4. Monte o suporte do motor da frente (A).
@@ -90,5 +90,7 @@
    > - Reforneça o motor com óleo de motor.
    > - Limpe as postas da bateria e os terminais das correias e monte.
    > - Inspecione para verificar vazamento de combustível.
-   > - Após montar a linha de combustível, ligue o interruptor da ignição (não operando o motor starter) para que a bomba de combustível funcione por aproximadamente dois segundos e a linha de combustível seja pressurizada.
+   > - Após montar a linha de combustível, ligue o interruptor da ignição
+   (não operando o motor starter) para que a bomba de combustível funcione por
+   aproximadamente dois segundos e a linha de combustível seja pressurizada.
    > - Repita este procedimento duas ou três vezes, depois verifique se há vazamento em qualquer ponto da linha de combustível.

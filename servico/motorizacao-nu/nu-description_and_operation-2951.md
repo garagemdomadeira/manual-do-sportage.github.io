@@ -12,7 +12,7 @@ Portanto, a corrente DC aparece no terminal "B" do alternador.
 
 Além disso, a tensão de carregamento deste alternador é regulada pelo sistema de detecção de tensão da bateria.
 
-O alternador é regulado pelo sistema de detecção de tensão da bateria. Os principais componentes do alternador são o rotor, o estator, o retificador, o capacitor, as escovas, as porta-escovas e a polia do alternador com correia V-ribbed. A caixa de escovas contém um regulador de tensão eletrônico integrado.
+O alternador é regulado pelo sistema de detecção de tensão da bateria. Os principais componentes do alternador são o rotor, o estator, o rectificador, o capacitor, os escovas, as rolhas de escova e a polia do alternador com cinto V-ribbed. A caixa de escovas contém um regulador de tensão eletrônico integrado.
 
 **Sistema de Gerenciamento do Alternador (AMS)**
 

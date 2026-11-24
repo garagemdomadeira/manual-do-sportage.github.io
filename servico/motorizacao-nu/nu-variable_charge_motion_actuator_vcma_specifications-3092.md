@@ -8,10 +8,10 @@ Motor
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (?) | 3,4 ~ 4,4 [20°C(68°F)] |
+| Resistência do Bobinado (?) | 3,4 ~ 4,4 [20Â°C(68Â°F)] |
 
 Sensor de Posição
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Bobinado (k?) | 3,44 ~ 5,16 [20°C(68°F)] |
+| Resistência do Bobinado (k?) | 3,44 ~ 5,16 [20Â°C(68Â°F)] |

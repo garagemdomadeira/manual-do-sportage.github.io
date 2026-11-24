@@ -8,7 +8,7 @@ HO2S [Banco 1/Sensor 1] (Tipo Linear)
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Aquecedor (?) | 2,4 ~ 4,0 [20°C(68°F)] |
+| Resistência do Aquecedor (?) | 2,4 ~ 4,0 [20Â°C(68Â°F)] |
 
 HO2S [Banco 1/Sensor 2] (Tipo Binário)
 
@@ -19,4 +19,4 @@ HO2S [Banco 1/Sensor 2] (Tipo Binário)
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Aquecedor (?) | Aproximadamente 9,0 [20°C(68°F)] |
+| Resistência do Aquecedor (?) | Aproximadamente 9,0 [20Â°C(68Â°F)] |

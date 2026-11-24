@@ -34,7 +34,7 @@ Sintoma de Falha 5
 
 | Sintoma de Falha | Causa Provável | Remédio |
 | --- | --- | --- |
-| Não é possível desacelerar (coast) usando o botão "SET/–" | Dano temporário ou conexão desconectada da circuital de entrada do botão "SET/–" | Repare o cabide ou substitua o botão "SET/–" |
+| Não é possível desacelerar (coast) usando o botão "SET/â€“" | Dano temporário ou conexão desconectada da circuital de entrada do botão "SET/â€“" | Repare o cabide ou substitua o botão "SET/â€“" |
 | Malfunction dos sinais do ECM | Verifique os sinais de entrada e saída no ECM |  |
 
 Sintoma de Falha 6

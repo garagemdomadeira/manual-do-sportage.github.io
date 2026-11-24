@@ -16,11 +16,11 @@ Procedimento de Inspeção Básica
 
 Medição da Resistência de Peças Elétricas
 
-A resistência medida em condições de alta temperatura após o funcionamento do veículo pode ser alta ou baixa. Portanto, todas as resistências devem ser medidas em temperatura ambiente (20°C, 68°F), a menos que seja especificado o contrário.
+A resistência medida em condições de alta temperatura após o funcionamento do veículo pode ser alta ou baixa. Portanto, todas as resistências devem ser medidas em temperatura ambiente (20Â°C, 68Â°F), a menos que seja especificado o contrário.
 
 > **Nota**
 >
-> - A resistência medida em condições diferentes da temperatura ambiente (20°C, 68°F) é um valor de referência.
+> - A resistência medida em condições diferentes da temperatura ambiente (20Â°C, 68Â°F) é um valor de referência.
 
 Procedimento de Inspeção de Problemas Intermittentes
 
@@ -40,28 +40,28 @@ Procedimento de Inspeção de Problemas Intermittentes
 
 ? Simulando Vibração
 
-| 1) | Sensores e Executores: Vibre ligeiramente os sensores, executores ou relés com o dedo. • Vibração forte pode quebrar sensores, executores ou relés |
+| 1) | Sensores e Executores: Vibre ligeiramente os sensores, executores ou relés com o dedo. â€¢ Vibração forte pode quebrar sensores, executores ou relés |
 | --- | --- |
-| • Vibração forte pode quebrar sensores, executores ou relés |  |
-| • | Vibração forte pode quebrar sensores, executores ou relés |
+| â€¢ Vibração forte pode quebrar sensores, executores ou relés |  |
+| â€¢ | Vibração forte pode quebrar sensores, executores ou relés |
 
 | 2) | Conectores e Cabos: Agite ligeiramente o conectador e o cabo de alimentação vertical e horizontalmente. |
 | --- | --- |
 
 ? Simulando Calor
 
-| 1) | Aqueça os componentes suspeitos de causar o mal funcionamento com um secador de cabelo ou outra fonte de calor. • NÃO aqueça os componentes até o ponto de possam ser danificados. • NÃO aqueça o ECM diretamente. |
+| 1) | Aqueça os componentes suspeitos de causar o mal funcionamento com um secador de cabelos ou outro fonte de calor. â€¢ NÃO aqueça os componentes até o ponto de possam ser danificados. â€¢ NÃO aqueça o ECM diretamente. |
 | --- | --- |
-| • NÃO aqueça os componentes até o ponto de possam ser danificados. • NÃO aqueça o ECM diretamente. |  |
-| • | NÃO aqueça os componentes até o ponto de possam ser danificados. |
-| • | NÃO aqueça o ECM diretamente. |
+| â€¢ NÃO aqueça os componentes até o ponto de possam ser danificados. â€¢ NÃO aqueça o ECM diretamente. |  |
+| â€¢ | NÃO aqueça os componentes até o ponto de possam ser danificados. |
+| â€¢ | NÃO aqueça o ECM diretamente. |
 
 ? Simulando Chuva
 
-| 1) | Borrife água no veículo para simular um dia chuvoso ou uma condição de alta umidade. • NÃO borrife água diretamente no compartimento do motor ou nos componentes eletrônicos. |
+| 1) | Vaque água no veículo para simular um dia chuvoso ou uma condição de alta umidade. â€¢ NÃO vaque água diretamente no compartimento do motor ou nos componentes eletrônicos. |
 | --- | --- |
-| • NÃO borrife água diretamente no compartimento do motor ou nos componentes eletrônicos. |  |
-| • | NÃO borrife água diretamente no compartimento do motor ou nos componentes eletrônicos. |
+| â€¢ NÃO vaque água diretamente no compartimento do motor ou nos componentes eletrônicos. |  |
+| â€¢ | NÃO vaque água diretamente no compartimento do motor ou nos componentes eletrônicos. |
 
 ? Simulando Carga Elétrica
 
@@ -252,80 +252,80 @@ Guia de Troubleshooting de Sintomas
 | 1. | Teste a bateria |  |
 | 2. | Teste o starter |  |
 | 3. | Interruptor de inibição (AT) ou interruptor de partida da embreagem (MT) |  |
-| Não consegue ligar (Combustão incompleta) | 1. Teste a bateria 2. Verifique a pressão do combustível 3. Verifique o circuito de ignição 4. Troubleshooting do sistema de immobilizador (Caso o lampião do immobilizador esteja piscando) | • DTC • Baixa compressão • Vazamento de ar de admissão • Cinta de sincronização solta ou quebrada • Combustível contaminado |
+| Não consegue ligar (Combustão incompleta) | 1. Teste a bateria 2. Verifique a pressão do combustível 3. Verifique o circuito de ignição 4. Troubleshooting do sistema de immobilizador (Caso o lampião do immobilizador esteja piscando) | â€¢ DTC â€¢ Baixa compressão â€¢ Vazamento de ar de admissão â€¢ Cinta de sincronização solta ou quebrada â€¢ Combustível contaminado |
 | 1. | Teste a bateria |  |
 | 2. | Verifique a pressão do combustível |  |
 | 3. | Verifique o circuito de ignição |  |
 | 4. | Troubleshooting do sistema de immobilizador (Caso o lampião do immobilizador esteja piscando) |  |
-| • | DTC |  |
-| • | Baixa compressão |  |
-| • | Vazamento de ar de admissão |  |
-| • | Cinta de sincronização solta ou quebrada |  |
-| • | Combustível contaminado |  |
-| Dificuldade para ligar | 1. Teste a bateria 2. Verifique a pressão do combustível 3. Verifique o sensor ECT e o circuito (Verifique DTC) 4. Verifique o circuito de ignição | • DTC • Baixa compressão • Vazamento de ar de admissão • Combustível contaminado • Chama de ignição fraca |
+| â€¢ | DTC |  |
+| â€¢ | Baixa compressão |  |
+| â€¢ | Vazamento de ar de admissão |  |
+| â€¢ | Cinta de sincronização solta ou quebrada |  |
+| â€¢ | Combustível contaminado |  |
+| Dificuldade para ligar | 1. Teste a bateria 2. Verifique a pressão do combustível 3. Verifique o sensor ECT e o circuito (Verifique DTC) 4. Verifique o circuito de ignição | â€¢ DTC â€¢ Baixa compressão â€¢ Vazamento de ar de admissão â€¢ Combustível contaminado â€¢ Chama de ignição fraca |
 | 1. | Teste a bateria |  |
 | 2. | Verifique a pressão do combustível |  |
 | 3. | Verifique o sensor ECT e o circuito (Verifique DTC) |  |
 | 4. | Verifique o circuito de ignição |  |
-| • | DTC |  |
-| • | Baixa compressão |  |
-| • | Vazamento de ar de admissão |  |
-| • | Combustível contaminado |  |
-| • | Chama de ignição fraca |  |
-| Malandragem (Ruído, instabilidade ou mal ajuste do Idle) | 1. Verifique a pressão do combustível 2. Verifique o injetor 3. Verifique o ajuste a longo prazo e acurado do injetor (Consulte os Dados do Cliente) 4. Verifique o circuito de controle de velocidade de rotação do motor (Verifique DTC) 5. Inspeção e teste do corpo do acelerador 6. Verifique o sensor ECT e o circuito (Verifique DTC) | • DTC • Baixa compressão • Vazamento de ar de admissão • Combustível contaminado • Chama de ignição fraca |
+| â€¢ | DTC |  |
+| â€¢ | Baixa compressão |  |
+| â€¢ | Vazamento de ar de admissão |  |
+| â€¢ | Combustível contaminado |  |
+| â€¢ | Chama de ignição fraca |  |
+| Malandragem (Ruído, instabilidade ou mal ajuste do Idle) | 1. Verifique a pressão do combustível 2. Verifique o injetor 3. Verifique o ajuste a longo prazo e acurado do injetor (Consulte os Dados do Cliente) 4. Verifique o circuito de controle de velocidade de rotação do motor (Verifique DTC) 5. Inspeção e teste do corpo do acelerador 6. Verifique o sensor ECT e o circuito (Verifique DTC) | â€¢ DTC â€¢ Baixa compressão â€¢ Vazamento de ar de admissão â€¢ Combustível contaminado â€¢ Chama de ignição fraca |
 
 | 4. | Verifique o circuito de controle da velocidade de rotação do motor (Verifique DTC) |  |
 | 5. | Inspeção e teste do corpo do acelerador |  |
 | 6. | Verifique o sensor ECT e o circuito (Verifique DTC) |  |
-| • | DTC |  |
-| • | Baixa compressão |  |
-| • | Vazamento de ar de admissão |  |
-| • | Combustível contaminado |  |
-| • | Fagulha de ignição fraca |  |
-| Falta de motor | 1. Teste da bateria 2. Verifique a pressão do combustível 3. Verifique o circuito de controle da velocidade de rotação do motor (Verifique DTC) 4. Verifique o circuito de ignição 5. Verifique o circuito CKPS (Verifique DTC) | • DTC • Vazamento de ar de admissão • Combustível contaminado • Fagulha de ignição fraca |
+| â€¢ | DTC |  |
+| â€¢ | Baixa compressão |  |
+| â€¢ | Vazamento de ar de admissão |  |
+| â€¢ | Combustível contaminado |  |
+| â€¢ | Fagulha de ignição fraca |  |
+| Falta de motor | 1. Teste da bateria 2. Verifique a pressão do combustível 3. Verifique o circuito de controle da velocidade de rotação do motor (Verifique DTC) 4. Verifique o circuito de ignição 5. Verifique o circuito CKPS (Verifique DTC) | â€¢ DTC â€¢ Vazamento de ar de admissão â€¢ Combustível contaminado â€¢ Fagulha de ignição fraca |
 | 1. | Teste da bateria |  |
 | 2. | Verifique a pressão do combustível |  |
 | 3. | Verifique o circuito de controle da velocidade de rotação do motor (Verifique DTC) |  |
 | 4. | Verifique o circuito de ignição |  |
 | 5. | Verifique o circuito CKPS (Verifique DTC) |  |
-| • | DTC |  |
-| • | Vazamento de ar de admissão |  |
-| • | Combustível contaminado |  |
-| • | Fagulha de ignição fraca |  |
-| Desempenho ruim (Sobressalto) | 1. Verifique a pressão do combustível 2. Inspeção e teste do corpo do acelerador 3. Verifique o circuito de ignição 4. Verifique o sensor ECT e o circuito (Verifique DTC) 5. Teste do sistema de escape para possível obstrução 6. Verifique o ajuste a longo prazo do injetor e o ajuste a curto prazo do injetor (Consulte o CUSTOMER DATASTREAM) | • DTC • Baixa compressão • Vazamento de ar de admissão • Combustível contaminado • Fagulha de ignição fraca |
+| â€¢ | DTC |  |
+| â€¢ | Vazamento de ar de admissão |  |
+| â€¢ | Combustível contaminado |  |
+| â€¢ | Fagulha de ignição fraca |  |
+| Desempenho ruim (Sobressalto) | 1. Verifique a pressão do combustível 2. Inspeção e teste do corpo do acelerador 3. Verifique o circuito de ignição 4. Verifique o sensor ECT e o circuito (Verifique DTC) 5. Teste do sistema de escape para possível obstrução 6. Verifique o ajuste a longo prazo do injetor e o ajuste a curto prazo do injetor (Consulte o CUSTOMER DATASTREAM) | â€¢ DTC â€¢ Baixa compressão â€¢ Vazamento de ar de admissão â€¢ Combustível contaminado â€¢ Fagulha de ignição fraca |
 | 1. | Verifique a pressão do combustível |  |
 | 2. | Inspeção e teste do corpo do acelerador |  |
 | 3. | Verifique o circuito de ignição |  |
 | 4. | Verifique o sensor ECT e o circuito (Verifique DTC) |  |
 | 5. | Teste do sistema de escape para possível obstrução |  |
 | 6. | Verifique o ajuste a longo prazo do injetor e o ajuste a curto prazo do injetor (Consulte o CUSTOMER DATASTREAM) |  |
-| • | DTC |  |
-| • | Baixa compressão |  |
-| • | Vazamento de ar de admissão |  |
-| • | Combustível contaminado |  |
-| • | Fagulha de ignição fraca |  |
-| Chacoalhamento | 1. Verifique a pressão do combustível 2. Inspeção do líquido de resfriamento do motor 3. Inspeção do radiador e do ventilador elétrico de resfriamento 4. Verifique as fagulhas | • DTC • Combustível contaminado |
+| â€¢ | DTC |  |
+| â€¢ | Baixa compressão |  |
+| â€¢ | Vazamento de ar de admissão |  |
+| â€¢ | Combustível contaminado |  |
+| â€¢ | Fagulha de ignição fraca |  |
+| Chacoalhamento | 1. Verifique a pressão do combustível 2. Inspeção do líquido de resfriamento do motor 3. Inspeção do radiador e do ventilador elétrico de resfriamento 4. Verifique as fagulhas | â€¢ DTC â€¢ Combustível contaminado |
 | 1. | Verifique a pressão do combustível |  |
 | 2. | Inspeção do líquido de resfriamento do motor |  |
 | 3. | Inspeção do radiador e do ventilador elétrico de resfriamento |  |
 | 4. | Verifique as fagulhas |  |
-| • | DTC |  |
-| • | Combustível contaminado |  |
-| Baixa economia de combustível | 1. Verifique as práticas de direção do cliente · A/C ligado em tempo integral ou no modo desentorpecimento? · As rodas estão com a pressão correta? · Existe um carregamento excessivamente pesado? · O acelerador é usado muito, com frequência? 2. Verifique a pressão do combustível 3. Verifique o injetor 4. Teste do sistema de escape para possível obstrução 5. Verifique o sensor ECT e o circuito | • DTC • Baixa compressão • Vazamento de ar de admissão • Combustível contaminado • Fagulha de ignição fraca |
-| 1. | Verifique as práticas de direção do cliente · A/C ligado em tempo integral ou no modo desentorpecimento? · As rodas estão com a pressão correta? · Existe um carregamento excessivamente pesado? · O acelerador é usado muito, com frequência? |  |
+| â€¢ | DTC |  |
+| â€¢ | Combustível contaminado |  |
+| Baixa economia de combustível | 1. Verifique as práticas de direção do cliente Â· A/C ligado em tempo integral ou no modo desentorpecimento? Â· As rodas estão com a pressão correta? Â· Existe um carregamento excessivamente pesado? Â· O acelerador é usado muito, com frequência? 2. Verifique a pressão do combustível 3. Verifique o injetor 4. Teste do sistema de escape para possível obstrução 5. Verifique o sensor ECT e o circuito | â€¢ DTC â€¢ Baixa compressão â€¢ Vazamento de ar de admissão â€¢ Combustível contaminado â€¢ Fagulha de ignição fraca |
+| 1. | Verifique as práticas de direção do cliente Â· A/C ligado em tempo integral ou no modo desentorpecimento? Â· As rodas estão com a pressão correta? Â· Existe um carregamento excessivamente pesado? Â· O acelerador é usado muito, com frequência? |  |
 | 2. | Verifique a pressão do combustível |  |
 | 3. | Verifique o injetor |  |
 | 4. | Teste do sistema de escape para possível obstrução |  |
 
 | 5. | Verifique o sensor ECT e o circuito |  |
-| • | DTC |  |
-| • | Baixa compressão |  |
-| • | Vazamento no sistema de admissão |  |
-| • | Combustível contaminado |  |
-| • | Chama de ignição fraca |  |
-| Dificuldade em abastecer (Excesso de combustível durante o abastecimento) | 1. Teste a válvula do tanque de vapor 2. Inspeção do tubo de enchimento do tanque de combustível · Enroscado, entortado ou bloqueado? · Tubo de enchimento do tanque de combustível danificado 3. Inspeção do tubo de ventilação do tanque de combustível entre o cânister EVAP e o filtro de ar 4. Verifique o cânister EVAP | • Vazamento no bico de enchimento do posto de combustível (Se este problema ocorrer em um posto específico durante o abastecimento) |
-| 1. | Teste a válvula do tanque de vapor |  |
-| 2. | Inspeção do tubo de enchimento do tanque de combustível · Enroscado, entortado ou bloqueado? · Tubo de enchimento do tanque de combustível danificado |  |
-| 3. | Inspeção do tubo de ventilação do tanque de combustível entre o cânister EVAP e o filtro de ar |  |
-| 4. | Verifique o cânister EVAP |  |
-| • | Vazamento no bico de enchimento do posto de combustível (Se este problema ocorrer em um posto específico durante o abastecimento) |  |
+| â€¢ | DTC |  |
+| â€¢ | Baixa compressão |  |
+| â€¢ | Vazamento no sistema de admissão |  |
+| â€¢ | Combustível contaminado |  |
+| â€¢ | Chama de ignição fraca |  |
+| Dificuldade em abastecer (Excesso de combustível durante o abastecimento) | 1. Teste o valveador do tanque de vapor 2. Inspeção do tubo de enchimento do tanque de combustível Â· Enroscado, entortado ou bloqueado? Â· Tubo de enchimento do tanque de combustível danificado 3. Inspeção do tubo de ventilação do tanque de combustível entre o canister EVAP e o filtro de ar 4. Verifique o canister EVAP | â€¢ Vazamento no bico de enchimento do posto de combustível (Se este problema ocorrer em um posto específico durante o abastecimento) |
+| 1. | Teste o valveador do tanque de vapor |  |
+| 2. | Inspeção do tubo de enchimento do tanque de combustível Â· Enroscado, entortado ou bloqueado? Â· Tubo de enchimento do tanque de combustível danificado |  |
+| 3. | Inspeção do tubo de ventilação do tanque de combustível entre o canister EVAP e o filtro de ar |  |
+| 4. | Verifique o canister EVAP |  |
+| â€¢ | Vazamento no bico de enchimento do posto de combustível (Se este problema ocorrer em um posto específico durante o abastecimento) |  |

@@ -12,13 +12,13 @@
 | Diâmetro do cilindro | 81,0 mm (3,1890 in.) |  |  |
 | Comprimento do pistão | 97,0 mm (3,8189 in.) |  |  |
 | Deslocamento total | 1999 cc (121,99 cu.in.) |  |  |
-| Razão de comparação | 12,5±0,2 : 1 |  |  |
+| Razão de comparação | 12,5Â±0,2 : 1 |  |  |
 | Ordem de fogo | 1-3-4-2 |  |  |
 | Tempo do válvulo |  |  |  |
-| Válvula de admissão | Abertura | [BTDC 38° ~ ATDC 2°(posição inicial)] ~ [ATDC 42°] |  |
-| Fechamento | [ABDC 43° ~ ABDC 83°(posição inicial)] ~ [ABDC 123°] |  |  |
-| Válvula de escape | Abertura | BBDC 54° ~ ABDC 6° |  |
-| Fechamento | ATDC 1° ~ ATDC 61° |  |  |
+| Válvula de admissão | Abertura | [BTDC 38Â° ~ ATDC 2Â°(posição inicial)] ~ [ATDC 42Â°] |  |
+| Fechamento | [ABDC 43Â° ~ ABDC 83Â°(posição inicial)] ~ [ABDC 123Â°] |  |  |
+| Válvula de escape | Abertura | BBDC 54Â° ~ ABDC 6Â° |  |
+| Fechamento | ATDC 1Â° ~ ATDC 61Â° |  |  |
 | Timbre do eixo |  |  |  |
 | Altura do timbre | Admissão | 39,0 mm (1,5354 in.) |  |
 | Escape | 38,66 mm (1,5220 in.) |  |  |
@@ -36,7 +36,7 @@
 | Escape | 104,04 mm (4,0961 in.) | 103,79 mm (4,0862 in.) |  |
 | Diâmetro exterior do estilete | Admissão | 5,465 ~ 5,480 mm (0,21516 ~ 0,21575 in.) |  |
 | Escape | 5,458 ~ 5,470 mm (0,21488 ~ 0,21535 in.) |  |  |
-| Ângulo da face | 45,25° ~ 45,75° |  |  |
+| Ângulo da face | 45,25Â° ~ 45,75Â° |  |  |
 | Espessura da cabeça da válvula (margem) | Admissão | 1,41 ~ 1,71 mm (0,0555 ~ 0,0673 in.) |  |
 | Escape | 1,55 ~ 1,85 mm (0,0610 ~ 0,0728 in.) |  |  |
 | Ajuste do estilete na guia da válvula | Admissão | 0,020 ~ 0,047 mm (0,00079 ~ 0,00185 in.) |  |
@@ -49,13 +49,13 @@
 | Base da válvula |  |  |  |
 | Largura do contato da base | Admissão | 1,05 ~ 1,35 mm (0,0413 ~ 0,0532 in.) |  |
 | Escape | 1,35 ~ 1,65 mm (0,0532 ~ 0,0650 in.) |  |  |
-| Ângulo da base | Admissão | 44° 45' ~ 45° 6' |  |
-| Escape | 44° 45' ~ 45° 6' |  |  |
+| Ângulo da base | Admissão | 44Â° 45' ~ 45Â° 6' |  |
+| Escape | 44Â° 45' ~ 45Â° 6' |  |  |
 | Mola da válvula |  |  |  |
 | Comprimento livre | 45,93 mm (1,8083 in.) |  |  |
-| Carga | 19,6 ± 1,0 kg / 37,0 mm (43,21 ± 2,20 lb / 1,4567 in.) |  |  |
-| 45,7 ± 1,8 kg / 27,0 mm (100,75 ± 3,97 lb / 1,0630 in.) |  |  |  |
-| Desvio de quadratura | Menos de 1,5° |  |  |
+| Carga | 19,6 Â± 1,0 kg / 37,0 mm (43,21 Â± 2,20 lb / 1,4567 in.) |  |  |
+| 45,7 Â± 1,8 kg / 27,0 mm (100,75 Â± 3,97 lb / 1,0630 in.) |  |  |  |
+| Desvio de quadratura | Menos de 1,5Â° |  |  |
 | Cabeçote do cilindro |  |  |  |
 | Planície da superfície do selante | Menos de 0,05 mm (0,0020 in.) para área total |  |  |
 
@@ -65,7 +65,7 @@
 | Pistão |  |  |  |
 | Diâmetro externo do pistão | 80,97 ~ 81,00 mm (3,1878 ~ 3,1890 in.) |  |  |
 | Ajuste do pistão para o cilindro | 0,02 ~ 0,04 mm (0,0008 ~ 0,0016 in.) |  |  |
-| Largura da ranhura do anel | Primeiro anel | 1,030 ~ 1,050 mm (0,04055 ~ 0,04134 in.) |  |
+| Largura da vagem do anel | Primeiro anel | 1,030 ~ 1,050 mm (0,04055 ~ 0,04134 in.) |  |
 | Segundo anel | 1,230 ~ 1,250 mm (0,04843 ~ 0,04921 in.) |  |  |
 | Anel de óleo | 2,010 ~ 2,025 mm (0,07913 ~ 0,07972 in.) |  |  |
 | Anel do pistão |  |  |  |
@@ -86,9 +86,9 @@
 | Ajuste do orifício do orifício do braço do connecting rod | 0,024 ~ 0,042 mm (0,00094 ~ 0,00165 in.) |  |  |
 | Ajuste lateral | 0,10 ~ 0,25 mm (0,0039 ~ 0,0098 in.) |  |  |
 | Câmbio |  |  |  |
-| Diâmetro externo do munhão principal | 54,942 ~ 54,960 mm (2,16307 ~ 2,16378 in.) |  |  |
+| Diâmetro externo do eixo principal | 54,942 ~ 54,960 mm (2,16307 ~ 2,16378 in.) |  |  |
 | Diâmetro externo do eixo do pin | 44,954 ~ 44,972 mm (1,76984 ~ 1,77055 in.) |  |  |
-| Ajuste do orifício do orifício do munhão principal | 0,016 ~ 0,034 mm (0,00063 ~ 0,00134 in.) |  |  |
+| Ajuste do orifício do orifício do eixo principal | 0,016 ~ 0,034 mm (0,00063 ~ 0,00134 in.) |  |  |
 | Ajuste final | 0,07 ~ 0,25 mm (0,0028 ~ 0,0098 in.) |  |  |
 | Bloco do cilindro |  |  |  |
 | Diâmetro do cilindro | 81,00 ~ 81,03 mm (3,1890 ~ 3,1902 in.) |  |  |
@@ -98,14 +98,14 @@
 | Quantidade de óleo | Total | 4,5 L (1,19 U.S.gal., 4,76 U.S.qt., 3,96 lmp.qt.) | Quando se substitui um motor curto ou uma montagem de bloco |
 | Tanque de óleo | 3,7 L (0,98 U.S.gal., 3,91 U.S.qt., 3,26 lmp.qt.) |  |  |
 | Drenagem e recarga | 4,0 L (1,06 U.S.gal., 4,23 U.S.qt., 3,52 lmp.qt.) | Incluindo filtro de óleo |  |
-| Classe de óleo | Especificações | 5W-20 / API SM& ILSAC GF-4 (ou superior) / ACEA A5 (ou superior) • Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. • Consulte o "Sistema de Lubrificação" para as viscosidades SAE recomendadas. |  |
+| Classe de óleo | Especificações | 5W-20 / API SM& ILSAC GF-4 (ou superior) / ACEA A5 (ou superior) â€¢ Óleo de motor API SL, ILSAC GF-3, ACEA A3 pode ser usado se o óleo de motor recomendado não estiver disponível. â€¢ Consulte o "Sistema de Lubrificação" para as viscosidades SAE recomendadas. |  |
 
-| • Óleo de motor API SL, ILSAC GF-3, ACEA A3 Class pode ser usado se o óleo de motor recomendado não estiver disponível. • Consulte o "Sistema de Lubrificação" para o número de viscosidade SAE recomendado. |  |  |  |
-| • | Óleo de motor API SL, ILSAC GF-3, ACEA A3 Class pode ser usado se o óleo de motor recomendado não estiver disponível. |  |  |
-| • | Consulte o "Sistema de Lubrificação" para o número de viscosidade SAE recomendado. |  |  |
-| Pressão do óleo (a 1.000 rpm) | 90,22 kPa (0,92 kgf/cm?, 13,09 psi) ou superior | Temperatura do óleo (bacia do óleo): 110±2°C (230±35,6°F) |  |
+| â€¢ Óleo de motor API SL, ILSAC GF-3, ACEA A3 Class pode ser usado se o óleo de motor recomendado não estiver disponível. â€¢ Consulte o "Sistema de Lubrificação" para o número de viscosidade SAE recomendado. |  |  |  |
+| â€¢ | Óleo de motor API SL, ILSAC GF-3, ACEA A3 Class pode ser usado se o óleo de motor recomendado não estiver disponível. |  |  |
+| â€¢ | Consulte o "Sistema de Lubrificação" para o número de viscosidade SAE recomendado. |  |  |
+| Pressão do óleo (a 1.000 rpm) | 90,22 kPa (0,92 kgf/cm?, 13,09 psi) ou superior | Temperatura do óleo (bacia do óleo): 110Â±2Â°C (230Â±35,6Â°F) |  |
 | Bomba de óleo |  |  |  |
-| Pressão de abertura da válvula-relívido | 500,14 ~ 600,16 kPa (5,10 ~ 6,12 kgf/cm?, 72,54 ~ 87,05 psi) (5~6bar) |  |  |
+| Pressão de abertura do valve-relívido | 500,14 ~ 600,16 kPa (5,10 ~ 6,12 kgf/cm?, 72,54 ~ 87,05 psi) (5~6bar) |  |  |
 | Desvio lateral | 0,040 ~ 0,090 mm (0,00157 ~ 0,00354 in.) |  |  |
 | Desvio do corpo | 0,200 ~ 0,292 mm (0,00787 ~ 0,01149 in.) |  |  |
 | Desvio do guia | 0,030 ~ 0,075 mm (0,00118 ~ 0,00295 in.) |  |  |
@@ -113,8 +113,8 @@
 | Método de refrigeração | Circulação forçada com ventilador de refrigeração |  |  |
 | Quantidade de refrigerante | Aproximadamente 6,6 L (1,66 U.S.gal., 6,97 U.S.qt., 5,81 lmp.qt.) |  |  |
 | Termostato elétrico (ECT) | Tipo | Tipo de pelota de cera |  |
-| Temperatura de abertura | 100±2°C (212±35,6°F) |  |  |
-| Elevação do vale do termostato completo / temperatura | Mais de 8 mm (0,3 in.) / 115°C (239°F) |  |  |
+| Temperatura de abertura | 100Â±2Â°C (212Â±35,6Â°F) |  |  |
+| Elevação do vale do termostato completo / temperatura | Mais de 8 mm (0,3 in.) / 115Â°C (239Â°F) |  |  |
 | Capa do radiador | Pressão de abertura do vale principal | 93,16 ~ 122,58 kPa (0,95 ~ 1,25 kgf/cm?, 13,51 ~ 17,78 psi) |  |
 | Pressão de abertura do vale de vácuo | 0 ~ 6,86 kPa (0 ~ 0,07 kgf/cm?, 0 ~ 1,00 psi) |  |  |
 
@@ -122,10 +122,10 @@
 
 | Local | Produto |
 | --- | --- |
-| Superfície de ligação da tampa da corrente de comando | Threebond 1217H ou equivalente |
+| Superfície de ligação da cobertura da corrente de sincronização | Threebond 1217H ou equivalente |
 | Área frontal da superfície de ligação entre o carregador do alinhador e o cabeçote |  |
 | Área frontal da superfície de ligação entre o bloco do motor e o cabeçote |  |
-| Área superior da superfície de ligação entre a tampa da corrente de comando e o carregador do alinhador |  |
+| Área superior da superfície de ligação entre a cobertura da corrente de sincronização e o carregador do alinhador |  |
 | Área superior frontal do bloco do motor |  |
 | Área superior frontal do gasketagem do cabeçote |  |
 | Área inferior do carregador do alinhador |  |
@@ -148,16 +148,16 @@
 | Parafuso e parafuso de fixação do suporte do rolamento ao suporte do rolamento | 107,9 ~ 127,5 | 11,0 ~ 13,0 | 79,6 ~ 94,0 |
 | Sistema de sincronização |  |  |  |
 | Parafuso do anel de sincronização do motor | 196,1 ~ 205,9 | 20,0 ~ 21,0 | 144,7 ~ 151,9 |
-| Parafuso do orifício de serviço da tampa da corrente de comando | 29,4 ~ 39,2 | 3,0 ~ 4,0 | 21,7 ~ 28,9 |
-| Parafuso do anel de ligação da tampa da corrente de comando (M10x55) | 39,2 ~ 49,0 | 4,0 ~ 5,0 | 28,9 ~ 36,2 |
-| Parafuso do anel de ligação da tampa da corrente de comando (M10x85) | 39,2 ~ 49,0 | 4,0 ~ 5,0 | 28,9 ~ 36,2 |
-| Parafuso do anel de ligação da tampa da corrente de comando - Parafuso de selo (M6x38) | 9,8 ~ 11,8 | 1,0 ~ 1,2 | 7,2 ~ 8,7 |
-| Parafuso do anel de ligação da tampa da corrente de comando - Parafuso de selo (M8x50) | 19,6 ~ 23,5 | 2,0 ~ 2,4 | 14,5 ~ 17,4 |
-| Parafuso do anel de ligação da tampa da corrente de comando (M8x50) | 18,6 ~ 23,5 | 1,9 ~ 2,4 | 13,7 ~ 17,4 |
-| Parafuso do anel de ligação da tampa da corrente de comando (M8x28) | 18,6 ~ 23,5 | 1,9 ~ 2,4 | 13,7 ~ 17,4 |
-| Parafuso do aparelho de tensão da corrente de comando | 9,8 ~ 11,8 | 1,0 ~ 1,2 | 7,2 ~ 8,7 |
-| Parafuso do braço do aparelho de tensão da corrente de comando | 18,6 ~ 22,6 | 1,9 ~ 2,3 | 13,7 ~ 16,6 |
-| Parafuso do guia da corrente de comando | 18,6 ~ 22,6 | 1,9 ~ 2,3 | 13,7 ~ 16,6 |
+| Parafuso do orifício de serviço da cobertura da corrente de sincronização | 29,4 ~ 39,2 | 3,0 ~ 4,0 | 21,7 ~ 28,9 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização (M10x55) | 39,2 ~ 49,0 | 4,0 ~ 5,0 | 28,9 ~ 36,2 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização (M10x85) | 39,2 ~ 49,0 | 4,0 ~ 5,0 | 28,9 ~ 36,2 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização - Parafuso de selo (M6x38) | 9,8 ~ 11,8 | 1,0 ~ 1,2 | 7,2 ~ 8,7 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização - Parafuso de selo (M8x50) | 19,6 ~ 23,5 | 2,0 ~ 2,4 | 14,5 ~ 17,4 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização (M8x50) | 18,6 ~ 23,5 | 1,9 ~ 2,4 | 13,7 ~ 17,4 |
+| Parafuso do anel de ligação da cobertura da corrente de sincronização (M8x28) | 18,6 ~ 23,5 | 1,9 ~ 2,4 | 13,7 ~ 17,4 |
+| Parafuso do aparelho de tensão da corrente de sincronização | 9,8 ~ 11,8 | 1,0 ~ 1,2 | 7,2 ~ 8,7 |
+| Parafuso do braço do aparelho de tensão da corrente de sincronização | 18,6 ~ 22,6 | 1,9 ~ 2,3 | 13,7 ~ 16,6 |
+| Parafuso do guia da corrente de sincronização | 18,6 ~ 22,6 | 1,9 ~ 2,3 | 13,7 ~ 16,6 |
 | Cabeçote do motor |  |  |  |
 | Parafuso de montagem da cobertura do motor | 7,8 ~ 9,8 | 0,8 ~ 1,0 | 5,8 ~ 7,2 |
 | Parafuso do bobina de ignição | 9,8 ~ 11,8 |  |  |

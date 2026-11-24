@@ -6,5 +6,5 @@
 
 ![](../../images/crankshaft_damper_pulley_components_and_components_location-2868/2840/sadem60207n.gif)
 
-| 1. Furação do comando |  |
+| 1. Furação do timão |  |
 | --- | --- |

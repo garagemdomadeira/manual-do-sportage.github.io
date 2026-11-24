@@ -10,7 +10,7 @@
 
 2. Remova a placa de transmissão.
 
-   (Consulte o Cilindro – "Placa de Transmissão")
+   (Consulte o Cilindro â€“ "Placa de Transmissão")
 
 3. Remova a selante do fundo (A).
 

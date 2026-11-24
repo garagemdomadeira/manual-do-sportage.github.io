@@ -6,5 +6,5 @@
 
 ![](../../images/water_pump_components_and_components_location-2906/2840/sadem60229n.gif)
 
-| 1. Polia da bomba de água 2. Bomba de água | 3. Gasket da bomba de água |
+| 1. Pulley da bomba de água 2. Bomba de água | 3. Gasket da bomba de água |
 | --- | --- |

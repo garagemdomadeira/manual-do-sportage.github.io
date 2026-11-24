@@ -1,6 +1,6 @@
-# Válvula solenoide de admissão variável (VIS) — procedimentos
+# Válvula solenóide de admissão variável (VIS) — procedimentos
 
-[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula solenoide de admissão variável (VIS) — procedimentos
+[Home](../../index.md) / [Manual de Serviço e Reparo](../sportage-482.md) / [Motorização NU](index.md) / Válvula solenóide de admissão variável (VIS) — procedimentos
 
 ## Inspeção
 

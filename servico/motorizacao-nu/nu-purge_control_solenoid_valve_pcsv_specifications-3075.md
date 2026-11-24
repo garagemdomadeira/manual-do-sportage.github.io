@@ -6,4 +6,4 @@
 
 | Item | Especificação |
 | --- | --- |
-| Resistência do Coil (?) | 22,0 ~ 26,0 [20°C(68°F)] |
+| Resistência do Coil (?) | 22,0 ~ 26,0 [20Â°C(68Â°F)] |

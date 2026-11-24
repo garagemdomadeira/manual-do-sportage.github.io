@@ -8,13 +8,13 @@
 
 2. Levante o veículo.
 
-3. Desconecte o hose de ventilação (A) e o conectador do extensor da válvula de fechamento do cânister (B).
+3. Desconecte o hose de ventilação (A) e o conectador do extensor do valve fechador do canister (B).
 
    ![](../../images/canister_repair_procedures-3010/2840/sadec60004n.gif)
 
 4. Desconecte o quick-connector do tubo de vapor (A).
 
-5. Remova as engrenagens de instalação e o parafuso (B) e, em seguida, remova a montagem do cânister.
+5. Remova as engrenagens de instalação e o parafuso (B) e, em seguida, remova a montagem do canister.
 
    ![](../../images/canister_repair_procedures-3010/2840/sadec60005n.gif)
 
@@ -26,23 +26,23 @@
 
 1. Verifique os seguintes itens visualmente.
 
-   A. Fendas ou vazamentos no cânister
+   A. Fendas ou vazamentos no canister
 
    B. Conexões soltas, distorções ou danos no hose/tubo de vapor
 
    ![](../../images/canister_repair_procedures-3010/2840/sadec60006n.gif)
 
-   A: Cânister - Atmosfera
+   A: Canister - Atmosfera
 
-   B: Cânister - Manifold de Admissão
+   B: Canister - Manifold de Admissão
 
-   C: Cânister - Tanque de Combustível
+   C: Canister - Tanque de Combustível
 
 ## Instalação
 
 1. A instalação é o inverso da remoção.
 
    ```
-   Parafuso/engrenagem de instalação do cânister :
+   Parafuso/engrenagem de instalação do canister :
    19,6 ~ 29,4 N.m (2,0 ~ 3,0 kgf.m, 14,5 ~ 21,7 lb-ft)
    ```

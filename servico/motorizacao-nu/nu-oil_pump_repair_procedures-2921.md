@@ -4,7 +4,7 @@
 
 ## Remoção e Instalação
 
-1. Remova a tampa da corrente de comando.
+1. Remova a cobertura da corrente de sincronização.
 
    (Consulte o Sistema de Sincronização â "Cobertura da Corrente de Sincronização")
 
@@ -44,43 +44,43 @@
 
    Passe óleo de motor no plunger e verifique se ele cai facilmente no orifício do plunger por sua própria gravidade.
 
-   Se necessário, substitua a tampa da corrente de comando.
+   Se necessário, substitua a cobertura da corrente de sincronização.
 
 3. Inspeção da mola do valvulino de alívio.
 
    Verifique a distorção ou falha da mola do valvulino de alívio.
 
-4. Inspeção da folga lateral dos rotores.
+4. Inspeção da clearance lateral dos rotores.
 
-   Usando um régua de passagem e um guia retilíneo preciso, mede a folga lateral entre os rotores internos e o guia retilíneo preciso.
+   Usando um régua de passagem e um guia retilíneo preciso, mede a clearance lateral entre os rotores internos e o guia retilíneo preciso.
 
-   Se a folga lateral for maior que o máximo, substitua os rotores como um conjunto.
+   Se a clearance lateral for maior que o máximo, substitua os rotores como um conjunto.
 
-   Se necessário, substitua a tampa da corrente de comando.
+   Se necessário, substitua a cobertura da corrente de sincronização.
 
    ```
-   Folga lateral:
+   Clearance lateral:
    0,040 ~ 0,090 mm (0,00157 ~ 0,00354 in.)
    ```
 
    ![](../../images/oil_pump_repair_procedures-2921/2840/SMDM11542L.gif)
 
-5. Inspeção da folga do corpo dos rotores.
+5. Inspeção da clearance do corpo dos rotores.
 
-   Usando uma régua de passagem, mede a folga entre o rotor externo e o corpo.
+   Usando uma régua de passagem, mede a clearance entre o rotor externo e o corpo.
 
-   Se a folga do corpo for maior que o máximo, substitua os rotores como um conjunto.
+   Se a clearance do corpo for maior que o máximo, substitua os rotores como um conjunto.
 
-   Se necessário, substitua a tampa da corrente de comando.
+   Se necessário, substitua a cobertura da corrente de sincronização.
 
    ```
-   Folga do corpo:
+   Clearance do corpo:
    0,200 ~ 0,292 mm (0,00787 ~ 0,01150 in.)
    ```
 
    ![](../../images/oil_pump_repair_procedures-2921/2840/SMDM11114L.gif)
 
-6. Inspeção da folga do guia dos rotores.
+6. Inspeção da clearance do guia dos rotores.
 
    (1) Mede o diâmetro externo do guia do rotor interno.
 
@@ -89,18 +89,18 @@
     41,550 ~ 41,570 mm (1,63582 ~ 1,63661 in.)
     ```
 
-   (2) Mede o diâmetro interno do orifício da tampa da corrente de comando.
+   (2) Mede o diâmetro interno do orifício da cobertura da corrente de sincronização.
 
     ```
-    Diâmetro interno do orifício da tampa da corrente de comando:
+    Diâmetro interno do orifício da cobertura da corrente de sincronização:
     41,600 ~ 41,625 mm (1,63779 ~ 1,63878 in.)
     ```
 
-   (3) Verifique a folga entre o diâmetro interno do orifício da tampa da corrente de comando e o diâmetro externo do guia do rotor interno.
+   (3) Verifique a clearance entre o diâmetro interno do orifício da cobertura da corrente de sincronização e o diâmetro externo do guia do rotor interno.
 
     ![](../../images/oil_pump_repair_procedures-2921/2840/SMDM11155n.gif)
 
    ```
-   Folga do guia:
+   Clearance do guia:
    0,030 ~ 0,075 mm (0,00118 ~ 0,00295 in.)
    ```

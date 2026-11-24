@@ -89,7 +89,7 @@
 
 ![](../../images/coolant_repair_procedures-2897/2840/sadem60311n.gif)
 
-### Verifique a temperatura do líquido de refrigeração
+[Verifique a temperatura do líquido de refrigeração]
 
 ![](../../images/coolant_repair_procedures-2897/2840/sadem60304n.gif)
 

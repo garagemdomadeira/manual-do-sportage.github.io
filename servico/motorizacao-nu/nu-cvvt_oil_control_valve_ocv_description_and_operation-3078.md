@@ -11,11 +11,11 @@ Controlando o CVVT, ocorre o sobrelapamento ou sublapamento das valvulas, o que 
 
 Este sistema consiste em
 
-- a Valvula de Controle do Óleo CVVT (OCV) que regula o óleo do motor para e do variador de fase do comando de acordo com o sinal de PWM (Pulse With Modulation) do ECM,
+- a Valvula de Controle do Óleo CVVT (OCV) que regula o óleo do motor para e do cam phaser de acordo com o sinal de PWM (Pulse With Modulation) do ECM,
 
-- e o Variador de Fase do Comando que varia o faseamento do comando por meio da força hidráulica do óleo do motor.
+- e o Cam Phaser que varia o faseamento do cam por meio da força hidráulica do óleo do motor.
 
-O óleo do motor que sai da valvula de controle do óleo CVVT varia o faseamento do comando girando o rotor conectado ao eixo de comando no variador de fase do comando em direção (Avanço de Admissão/Retardo de Escape) ou direção oposta (Retardo de Admissão/Avanço de Escape) da rotação do motor.
+O óleo do motor que sai da valvula de controle do óleo CVVT varia o faseamento do cam girando o rotor conectado ao eixo do cam no cam phaser em direção (Avanço de Admissão/Retardo de Escape) ou direção oposta (Retardo de Admissão/Avanço de Escape) da rotação do motor.
 
 [Bank 1 / Admissão] #1
 
@@ -25,6 +25,6 @@ O óleo do motor que sai da valvula de controle do óleo CVVT varia o faseamento
 
 ![](../../images/cvvt_oil_control_valve_ocv_description_and_operation-3078/2840/sadfl60018n.gif)
 
-### Bank 1 / Escape
+[Bank 1 / Escape]
 
 ![](../../images/cvvt_oil_control_valve_ocv_description_and_operation-3078/2840/sgdfl3009n.gif)

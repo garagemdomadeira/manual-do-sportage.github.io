@@ -6,13 +6,13 @@
 
 ![](../../images/schematic_diagrams-3008/2840/sbhec9125n.gif)
 
-Cânister
+Canister
 
-O Cânister é preenchido com carvão e absorve vapores de combustível evaporados do tanque de combustível. Os vapores de combustível coletados no cânister são sugados para o manifold de admissão pelo ECM/PCM quando as condições apropriadas são estabelecidas.
+O Canister é preenchido com carvão e absorve vapores de combustível evaporados do tanque de combustível. Os vapores de combustível coletados no canister são sugados para o manifold de admissão pelo ECM/PCM quando as condições apropriadas são estabelecidas.
 
 Valvula de Controle de Purga (PCSV)
 
-A Valvula de Controle de Purga (PCSV) está instalada no canal que conecta o cânister ao manifold de admissão. É uma válvula solenoide de serviço e é operada por sinal do ECM/PCM.
+A Valvula de Controle de Purga (PCSV) está instalada no canal que conecta o canister ao manifold de admissão. É uma válvula solenoide de serviço e é operada por sinal do ECM/PCM.
 
 Para sugar os vapores absorvidos para o manifold de admissão, o ECM/PCM abrirá a PCSV, caso contrário, o canal permanecerá fechado.
 
@@ -24,9 +24,9 @@ Sensor de Pressão do Tanque de Combustível (FTPS)
 
 O Sensor de Pressão do Tanque de Combustível (FTPS) é uma parte integral do sistema de monitoramento. O FTPS verifica a operação da Valvula de Controle de Purga (PCSV) e furos no Sistema de Controle de Emissões Evaporativas monitorando a pressão e o nível de vácuo no tanque de combustível durante os ciclos de operação da PCSV.
 
-Valvula de Fechamento do Cânister (CCV)
+Valvula de Fechamento do Canister (CCV)
 
-A Valvula de Fechamento do Cânister (CCV) está localizada entre o cânister e o filtro de ar do tanque de combustível. Ela fecha a entrada de ar para o cânister do Sistema de Emissões Evaporativas e também previne a escapada de vapores de combustível do Cânister quando o veículo não está em operação.
+A Valvula de Fechamento do Canister (CCV) está localizada entre o canister e o filtro de ar do tanque de combustível. Ela fecha a entrada de ar para o canister do Sistema de Emissões Evaporativas e também previne a escapada de vapores de combustível do Canister quando o veículo não está em operação.
 
 Monitoramento do Sistema Evaporativo
 

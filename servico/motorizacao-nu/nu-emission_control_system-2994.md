@@ -8,7 +8,7 @@
   - [Descrição e Operação](nu-description_and_operation-3007.md)
   - [Diagramas Schematicos](nu-schematic_diagrams-3008.md)
   - [Procedimentos de Reparo](nu-repair_procedures-3009.md)
-  - [Procedimentos de Reparo do Cânister](nu-canister_repair_procedures-3010.md)
+  - [Procedimentos de Reparo do Canister](nu-canister_repair_procedures-3010.md)
   - [Procedimentos de Reparo do Válvula de Recuperação de Vapores de Reforço em Volta do Carburante (ORVR)](nu-on_board_refueling_vapor_recovery_orvr_valve_repair_procedures-3011.md)
   - [Descrição e Operação do Capô do Carburante](nu-fuel_filler_cap_description_and_operation-3012.md)
   - [Procedimentos de Reparo do Filtro de Ar do Tanque de Combustível](nu-fuel_tank_air_filter_repair_procedures-3013.md)

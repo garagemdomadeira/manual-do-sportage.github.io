@@ -211,7 +211,10 @@ Pente do Iniciador
 
    > **Nota**
    >
-   > - Para alinhar novos pentes, passe uma faixa de papel abrasivo #500 ou #600, com o lado abrasivo para cima, entre o commutador e cada pente, e roteie suavemente o armazém. A superfície de contato dos pentes será lixada para a mesma forma do commutador.
+   > - Para alinhar novos pentes, passe uma faixa de papel abrasivo #500 ou #600,
+   com o lado abrasivo para cima, entre o commutador e cada pente,
+   e roteie suavemente o armazém. A superfície de contato dos pentes
+   será lixada para a mesma forma do commutador.
 
 Porta-Pentes do Iniciador
 

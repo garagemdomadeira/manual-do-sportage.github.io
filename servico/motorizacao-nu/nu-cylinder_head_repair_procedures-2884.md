@@ -83,9 +83,9 @@ A remoção do motor não é necessária para este procedimento.
 
 13. Remova a capa do cabeçote do cilindro.
 
-    (Consulte Conjunto do cabeçote - "Capa do Cabeçote do Cilindro")
+    (Consulte Montagem do Cabeçote do Cilindro - "Capa do Cabeçote do Cilindro")
 
-14. Remova a corrente de comando.
+14. Remova a corrente de sincronização.
 
     (Consulte Sistema de Sincronização - "Corrente de Sincronização")
 
@@ -143,7 +143,7 @@ A remoção do motor não é necessária para este procedimento.
 
     ![](../../images/cylinder_head_repair_procedures-2884/2840/svfm11302l.gif)
 
-24. Remova a válvula de controle de óleo de admissão (OCV) (A).
+24. Remova o válvula de controle de óleo de admissão (OCV) (A).
 
     ![](../../images/cylinder_head_repair_procedures-2884/2840/SMDM11097L.gif)
 
@@ -268,10 +268,10 @@ Valvula e Mola da Valvula
 
    (3) Subtrair a medida do diâmetro da estaca da medida do diâmetro interno da guia da válvula.
 
-    Se a folga for maior que a especificação, substitua a válvula ou a cabeça do cilindro.
+    Se a clearance for maior que a especificação, substitua a válvula ou a cabeça do cilindro.
 
     ```
-    Folga estaca-guia
+    Clearance estaca-guia
     [Padrão]
     Admissão: 0.020 ~ 0.047 mm (0.00079 ~ 0.00185 in.)
     Escape: 0.030 ~ 0.054 mm (0.00118 ~ 0.00213 in.)
@@ -322,11 +322,11 @@ Valvula e Mola da Valvula
     Mola da válvula
     [Padrão]
     Comprimento livre: 45,93 mm (1,8083 in.)
-    Carga: 19,6 ± 1,0 kg / 37,0 mm
-    (43,21 ± 2,20 lb / 1,0630 in.)
-    45,7 ± 1,8 kg / 27,0 mm
-    (100,75 ± 3,97 lb / 1,0630 in.)
-    Desvio de ângulo: Menos de 1,5°
+    Carga: 19,6 Â± 1,0 kg / 37,0 mm
+    (43,21 Â± 2,20 lb / 1,0630 in.)
+    45,7 Â± 1,8 kg / 27,0 mm
+    (100,75 Â± 3,97 lb / 1,0630 in.)
+    Desvio de ângulo: Menos de 1,5Â°
     ```
 
     ![](../../images/cylinder_head_repair_procedures-2884/2840/eckd222a.gif)
@@ -344,7 +344,7 @@ Se B se mover, substitua o HLA.
 | 1. Som temporário ao ligar o motor frio | Normal | Esse som desaparecerá após o óleo do motor atingir a pressão normal. |
 | 2. Som contínuo ao ligar o motor após estacionar por mais de 48 horas | Vazamento do câmara de alta pressão do HLA, permitindo a entrada de ar | O som desaparecerá em 15 minutos quando o motor roda a 2000-3000 rpm. Se não desaparecer, referir-se ao passo 7 abaixo. |
 | 3. Som contínuo ao ligar o motor após a reconstrução da cabeça do cilindro | Nível de óleo insuficiente na galeria de óleo da cabeça do cilindro |  |
-| 4. Som contínuo ao ligar o motor após o motor ser submetido a um acionamento excessivo pelo motor de partida ou correia | • Vazamento da câmara de alta pressão do HLA, permitindo a entrada de ar • Nível de óleo insuficiente no HLA |  |
+| 4. Som contínuo ao ligar o motor após o motor ser submetido a um acionamento excessivo pelo motor de partida ou cinto | • Vazamento da câmara de alta pressão do HLA, permitindo a entrada de ar • Nível de óleo insuficiente no HLA |  |
 | • | Vazamento da câmara de alta pressão do HLA, permitindo a entrada de ar |  |
 | • | Nível de óleo insuficiente no HLA |  |
 | 5. Som contínuo ao ligar o motor após a substituição do HLA | • Não ligue o motor a uma velocidade superior a 3000 rpm, pois isso pode danificar o HLA. |  |
@@ -381,7 +381,8 @@ Se B se mover, substitua o HLA.
 
     > **Nota**
     >
-    > - Posicione as molas da válvula de modo que o lado revestido com enamel fique voltado para o retainer da mola e, em seguida, instale o retainer.
+    > - Posicione as molas da válvula de modo que o lado revestido com enamel
+    fique voltado para o retainer da mola e, em seguida, instale o retainer.
 
    (3) Usando o SST (09222-3K000, 09222-2A100), comprima a mola e instale os locks do retainer.
 
@@ -405,7 +406,7 @@ Se B se mover, substitua o HLA.
 > - Sempre use novas borrachas de vedação do cabeçote do cilindro e do manifolds.
 > - Sempre use novos parafusos de vedação do cabeçote do cilindro.
 > - A borracha de vedação do cabeçote do cilindro é uma borracha metálica. Cuide para não dobrá-la.
-> - Rotacione o virabrequim para posicionar o pistão nº1 no topo (Top dead center) na fase de compressão.
+> - Rotacione o eixo do crankshaft para posicionar o pistão nº1 no topo (Top dead center) na fase de compressão.
 
 1. Instale a borracha de vedação do cabeçote do cilindro (B) no bloco do motor.
 
@@ -444,8 +445,8 @@ Se B se mover, substitua o HLA.
    Torque de aperto
    1ª etapa:
    32,4 ~ 36,3 N.m (3,3 ~ 3,7 kgf.m, 23,9 ~ 26,8 lb-ft)
-   2ª etapa: 90~95°
-   3ª etapa: 90~95°
+   2ª etapa: 90~95Â°
+   3ª etapa: 90~95Â°
    ```
 
    ![](../../images/cylinder_head_repair_procedures-2884/2840/SMDM11526L.gif)
@@ -472,7 +473,7 @@ Se B se mover, substitua o HLA.
 
    ![](../../images/cylinder_head_repair_procedures-2884/2840/smdm11099l.gif)
 
-5. Instale a válvula de controle de óleo de escape (OCV) (A).
+5. Instale o valve de controle de óleo de escape (OCV) (A).
 
    ```
    Torque de aperto:

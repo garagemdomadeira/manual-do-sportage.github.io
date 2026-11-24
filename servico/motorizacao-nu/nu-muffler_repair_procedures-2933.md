@@ -57,15 +57,15 @@ Mufflete Principal
 
 3. Instale na ordem inversa da remoção.
 
-Procedimento de substituição do mufflete central usando correia
+Procedimento de substituição do mufflete central usando cinto
 
 Dentro da garantia : Substitua a montagem do mufflete central.
 
 Fora da garantia : É possível substituir o mufflete central conforme o procedimento abaixo.
 
-1. Verifique se a parte da correia do mufflete central está danificada ou deformada.
+1. Verifique se a parte do cinto do mufflete central está danificada ou deformada.
 
-   Se o mufflete estiver muito corrosivo para ser correia, substitua a montagem do mufflete central.
+   Se o mufflete estiver muito corrosivo para ser cinto, substitua a montagem do mufflete central.
 
    ![](../../images/muffler_repair_procedures-2933/2840/sadem60188n.gif)
 
@@ -109,14 +109,14 @@ Fora da garantia : É possível substituir o mufflete central conforme o procedi
 
    > **Nota**
    >
-   > - Para prevenir vazamentos, remova a corrosão na parte da correia ou a ferrugem na parte do corte.
+   > - Para prevenir vazamentos, remova a corrosão na parte do cinto ou a ferrugem na parte do corte.
    > - Corte a tubulação verticalmente.
 
-   | • Utilize um cortador de tubulação para cortar a tubulação verticalmente. • Se não houver um cortador de tubulação, use uma segadora conforme o procedimento abaixo. 1. Marque a posição de corte para cortar a tubulação verticalmente. 2. Corte a tubulação ao longo da linha de marcação usando uma segadora. | |
+   | â€¢ Utilize um cortador de tubulação para cortar a tubulação verticalmente. â€¢ Se não houver um cortador de tubulação, use uma segadora conforme o procedimento abaixo. 1. Marque a posição de corte para cortar a tubulação verticalmente. 2. Corte a tubulação ao longo da linha de marcação usando uma segadora. | |
 
 | --- | --- |
-| • | Cortador de tubos disponível para cortar o tubo verticalmente. |
-| • | Use uma sega se um cortador de tubos não estiver disponível. |
+| â€¢ | Cortador de tubos disponível para cortar o tubo verticalmente. |
+| â€¢ | Use uma sega se um cortador de tubos não estiver disponível. |
 | 1. | Marque a posição de corte para cortar o tubo verticalmente. |
 | 2. | Corte o tubo ao longo da linha de marcação usando uma sega. |
 
@@ -145,7 +145,9 @@ Fora da garantia : É possível substituir o mufflete central conforme o procedi
 
     > **Nota**
     >
-    > - Se a tubulação final estiver instalada de forma diferente em relação à posição inicial, o para-choque pode ser danificado pelo calor do tubo ou intervir entre a tubulação final e o para-choque traseiro.
+    > - Se a tubulação final estiver instalada de forma diferente em relação à
+    posição inicial, o para-choque pode ser danificado pelo calor do tubo ou
+    intervir entre a tubulação final e o para-choque traseiro.
 
    (5) Não aperte o cabo de uma vez. Ajuste os parafusos do cabo até a torção especificada, alternadamente.
 

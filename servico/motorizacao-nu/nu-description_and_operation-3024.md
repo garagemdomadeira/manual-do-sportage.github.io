@@ -18,7 +18,7 @@ Dados de quadro congelado descrevem condições de motor armazenadas, como estad
 
 O centro do sistema OBD-II é um microprocessador chamado Módulo de Controle do Motor (ECM) ou Módulo de Controle do Potência (PCM).
 
-O ECM ou PCM recebe entrada de sensores e outros componentes eletrônicos (interruptores, relés e outros) com base em informações recebidas e programadas em sua memória (memória de acesso aleatório com manutenção do estado, entre outros), o ECM ou PCM gera sinais de saída para controlar relés, solenoides e atuadores.
+O ECM ou PCM recebe entrada de sensores e outros componentes eletrônicos (interruptores, relés e outros) com base em informações recebidas e programadas em sua memória (memória de acesso aleatório com manutenção do estado, entre outros), o ECM ou PCM gera sinais de saída para controlar relés, solenóides e atuadores.
 
 2. Configuração de hardware e termos relacionados
 
@@ -58,16 +58,16 @@ O sistema de diagnóstico pode excluir um código de falha se a mesma falha não
 
 6) Linha de Comunicação (CAN)
 
-| • | Topologia de Rede: Estrutura de linha (bus) |
+| â€¢ | Topologia de Rede: Estrutura de linha (bus) |
 | --- | --- |
 
-| • | Condução: Fio duplo enrolado |
+| â€¢ | Condução: Fio duplo enrolado |
 | --- | --- |
 
-| • | Comprimento do cabo DLC fora do veículo: Máx. 5m |
+| â€¢ | Comprimento do cabo DLC fora do veículo: Máx. 5m |
 | --- | --- |
 
-| • | Taxa de Transferência de Dados |
+| â€¢ | Taxa de Transferência de Dados |
 | --- | --- |
 
 | - | Diagnóstico: 500 kbps |
@@ -90,10 +90,10 @@ Uma viagem significa a operação do veículo (seguida de um período de desliga
 
 10) Formato de DTC
 
-| • | Código de Falha de Diagnóstico (SAE J2012) |
+| â€¢ | Código de Falha de Diagnóstico (SAE J2012) |
 | --- | --- |
 
-| • | Os DTCs utilizados em veículos OBD-II começam com uma letra e são seguidos por quatro números. |
+| â€¢ | Os DTCs utilizados em veículos OBD-II começam com uma letra e são seguidos por quatro números. |
 | --- | --- |
 
 A letra no início do DTC identifica a função do dispositivo monitorado que falhou. Uma "P" indica um dispositivo de potência, "C" indica um dispositivo de chassis. "B" é para um dispositivo do corpo e "U" indica um código de rede ou de ligação de dados. O primeiro número
@@ -122,7 +122,7 @@ Os últimos dois números do DTC indicam o componente ou seção do sistema onde
 
 Quando um evento de quadro congelado é disparado por um DTC relacionado à emissão, o ECM ou PCM armazena diversas informações do veículo como eram no momento em que ocorreu o defeito. O número do DTC junto com os dados do motor podem ser úteis para auxiliar o técnico na localização da causa do defeito. Uma vez que os dados da primeira ocorrência do DTC durante o ciclo de condução são armazenados na memória de quadro congelado, eles permanecerão lá mesmo quando o defeito ocorrer novamente (segundo ciclo de condução) e a MIL for acionada.
 
-| • | Lista de Dados de Quadro Congelado |
+| â€¢ | Lista de Dados de Quadro Congelado |
 | --- | --- |
 
 | 1) | Valor de Carga Calculada |

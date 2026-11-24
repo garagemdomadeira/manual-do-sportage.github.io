@@ -4,7 +4,7 @@
 
 ## Terminal e Sinal de Entrada/Saída do ECM
 
-Conector do Correia
+Conector do Cinto
 
 ![](../../images/engine_control_module_ecm_schematic_diagrams-3026/2840/sadfl60051n.gif)
 
@@ -110,10 +110,10 @@ Conector [C300-A]
 | 92 | - |  |
 | 93 | - |  |
 | 94 | - |  |
-| 95 | Entrada de sinal do Sensor de Posição do Virabrequim (CKPS) | Sensor de Posição do Virabrequim (CKPS) |
+| 95 | Entrada de sinal do Sensor de Posição do Crankshaft (CKPS) | Sensor de Posição do Crankshaft (CKPS) |
 | 96 | - |  |
 | 97 | - |  |
-| 98 | Entrada de sinal do Sensor de Posição do Comando de válvulas (CMPS) [Bank 1/Intake] | Sensor de Posição do Comando de válvulas (CMPS) [Bank 1/Intake] |
+| 98 | Entrada de sinal do Sensor de Posição do Camshaft (CMPS) [Bank 1/Intake] | Sensor de Posição do Camshaft (CMPS) [Bank 1/Intake] |
 | 99 | Sinal de terra do sensor | Sensor de Impacto (KS) |
 | 100 | Entrada de sinal do Sensor de Impacto (KS) | Sensor de Impacto (KS) |
 | 101 | Entrada de sinal do Sensor de Temperatura do Ar Intalado (IATS) | Sensor de Temperatura do Ar Intalado (IATS) |

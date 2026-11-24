@@ -22,7 +22,7 @@ Bateria
 
    ![](../../images/battery_repair_procedures-2963/2840/sadee60113d.gif)
 
-Bandeja da Bateria
+Tray da Bateria
 
 1. Remova a bateria.
 
@@ -36,7 +36,7 @@ Bandeja da Bateria
 
    (Consulte Sistema de Controle do Motor / Sistema de Combustível - "Módulo de Controle do Motor (ECM)")
 
-4. Remova a bandeja da bateria (A) após soltar as varetas.
+4. Remova o tray da bateria (A) após soltar as varetas.
 
    ![](../../images/battery_repair_procedures-2963/2840/sadee60114d.gif)
 
@@ -55,9 +55,9 @@ Bandeja da Bateria
 
    > **Nota**
    >
-   > - Ao instalar a bateria, fixe corretamente o suporte de montagem na bandeja.
+   > - Ao instalar a bateria, fixe corretamente o suporte de montagem no tray.
 
-### Carregamento de bateria AGM
+[Carregamento de bateria AGM]
 
 A bateria AGM deve ser carregada com tensão constante ou
 tensão constante corrente-tensão constante para minimizar a degradação de desempenho
@@ -70,24 +70,26 @@ efeito adverso na vida útil da bateria.
    >
    > - Não carregue com mais de 14,8V ou em modo de carregamento rápido.
 
-### Condições de carregamento com tensão constante
+[Condições de carregamento com tensão constante]
 
 ```
 Tensão de carregamento / tempo:
-14,7V [68°F ~ 86°F (20°C ~ 30°C)] / aproximadamente 24 horas
+14,7V [68Â°F ~ 86Â°F (20Â°C ~ 30Â°C)] / aproximadamente 24 horas
 A tensão de carregamento mínima:
-14,4V [68°F ~ 86°F (20°C ~ 30°C)]
+14,4V [68Â°F ~ 86Â°F (20Â°C ~ 30Â°C)]
 A tensão de carregamento máxima:
-14,8V [68°F ~ 86°F (20°C ~ 30°C)]
+14,8V [68Â°F ~ 86Â°F (20Â°C ~ 30Â°C)]
 ```
 
-| • A temperatura da bateria deve ser mantida em torno de 68°F ~ 86°F (20°C ~ 30°C) durante o carregamento da bateria. |  |
+| â€¢ A temperatura da bateria deve ser mantida em torno de 68Â°F ~ 86Â°F (20Â°C ~ 30Â°C) durante o carregamento da bateria. |  |
 | --- | --- |
-| • | A temperatura da bateria deve ser mantida em torno de 68°F ~ 86°F (20°C ~ 30°C) durante o carregamento da bateria. |
+| â€¢ | A temperatura da bateria deve ser mantida em torno de 68Â°F ~ 86Â°F (20Â°C ~ 30Â°C) durante o carregamento da bateria. |
 
 > **Cautela**
    >
-   > - Se a bateria for carregada diretamente nos terminais da bateria em veículos com sensor de bateria, podem ocorrer interpretações incorretas do estado da bateria e, em certos casos, também mensagens de controle de verificação ou memória de falha inteira podem ocorrer.
+   > - Se a bateria for carregada diretamente nos terminais da bateria em veículos com sensor de bateria, podem ocorrer interpretações incorretas do estado da bateria
+   e, em certos casos, também mensagens de controle de verificação ou
+   memória de falha inteira podem ocorrer.
    > - Após o término do recarregamento, deixe a bateria descansar por mais de 10 horas em temperatura normal para a estabilização da bateria.
 
 ## Limpeza

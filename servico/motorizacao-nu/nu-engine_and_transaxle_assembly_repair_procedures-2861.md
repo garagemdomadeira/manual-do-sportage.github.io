@@ -9,10 +9,10 @@
 > - Use cobertores de para-choque para evitar danos às superfícies pintadas.
 > - Para evitar danos, desconecte cuidadosamente os conectores de fiação segurando a parte do conectador.
 
-| • Marque todas as fivelas e mangueiras para evitar a confusão. • Para liberar a pressão do sistema de combustível antes de remover a montagem do motor, inicie o motor sem relé do bomba de combustível e, em seguida, desligue o interruptor de ignição após o motor parar. |  |
+| â€¢ Marque todas as fivelas e mangueiras para evitar a confusão. â€¢ Para liberar a pressão do sistema de combustível antes de remover a montagem do motor, inicie o motor sem relé do bomba de combustível e, em seguida, desligue o interruptor de ignição após o motor parar. |  |
 | --- | --- |
-| • | Marque todas as fivelas e mangueiras para evitar a confusão. |
-| • | Para liberar a pressão do sistema de combustível antes de remover o motor, inicie o motor sem relé do bomba de combustível e, em seguida, desligue o interruptor de ignição após o motor parar. |
+| â€¢ | Marque todas as fivelas e mangueiras para evitar a confusão. |
+| â€¢ | Para liberar a pressão do sistema de combustível antes de remover o motor, inicie o motor sem relé do bomba de combustível e, em seguida, desligue o interruptor de ignição após o motor parar. |
 
 1. Remova o capô do motor.
 
@@ -181,34 +181,34 @@ A instalação deve ser realizada na ordem inversa à remoção.
 
 Realize o seguinte:
 
-| • | Ajuste da correia do câmbio. |
+| â€¢ | Ajuste da correia do câmbio. |
 | --- | --- |
 
-| • | Ajuste da correia do acelerador. |
+| â€¢ | Ajuste da correia do acelerador. |
 | --- | --- |
 
-| • | Preencha o motor com óleo de motor. |
+| â€¢ | Preencha o motor com óleo de motor. |
 | --- | --- |
 
-| • | Preencha a transmissão com fluido. |
+| â€¢ | Preencha a transmissão com fluido. |
 | --- | --- |
 
-| • | Preencha o radiador e o tanque de reservatório com líquido de refrigeração. |
+| â€¢ | Preencha o radiador e o tanque de reservatório com líquido de refrigeração. |
 | --- | --- |
 
-| • | Coloque o controle do aquecedor na posição "QUENTE". |
+| â€¢ | Coloque o controle do aquecedor na posição "QUENTE". |
 | --- | --- |
 
-| • | Descanse o sistema de refrigeração da presença de ar. |
+| â€¢ | Descanse o sistema de refrigeração da presença de ar. |
 | --- | --- |
 
 | - | (Consulte o Sistema de Refrigeração - "Líquido de Refrigeração") |
 | --- | --- |
 
-| • | Limpe as postas da bateria e os terminais da correia com areia, monte-os e aplique uma goma para prevenir a corrosão. |
+| â€¢ | Limpe as postas da bateria e os terminais da correia com areia, monte-os e aplique uma goma para prevenir a corrosão. |
 | --- | --- |
 
-| • | Inspeção para vazamento de combustível. |
+| â€¢ | Inspeção para vazamento de combustível. |
 | --- | --- |
 
 | - | Após montar a linha de combustível, ligue o interruptor da ignição (não operando o motor starter) para que a bomba de combustível funcione por aproximadamente dois segundos e a linha de combustível seja pressurizada. |
